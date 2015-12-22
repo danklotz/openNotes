@@ -1,7 +1,9 @@
 # books
 **Rating:**
-- :star: == bad  
-- :star::star::star::star::star: == excellent  
+                          star | rating
+                          ---- | ------
+                        :star: | bad  
+:star::star::star::star::star: | excellent  
 
 ## reading
 - [ ] **B.V. Koen:** Discussion of the Method :star::star::star: 
@@ -17,3 +19,4 @@
 - [ ] **E.J. Hannan:** Time Series Analysis
 - [ ] **H. Yuki:** Math Girls
 - [ ] **E. Horn:** Zukunft als Katastrophe
+- [ ] **G. Gigerenzer:** Bauchentscheidungen: Die Intelligenz des Unbewussten und die Macht der Intuition
