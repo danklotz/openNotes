@@ -2,8 +2,7 @@
 
 
 ## MIT: STEM Concept Videos
-[link](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)
-
+[link](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)  
 Lecturer: **To Many**
 - Communication 
   + [x] Strategic Communication 
@@ -73,8 +72,7 @@ Lecturer: **Robert Hodgin**
 - [x] [NVScene](https://www.youtube.com/watch?v=iesaip71tgo)
 
 ## Taleb Videos
-[MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
-
+[MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)  
 Lecturer: **N.N Taleb**
 - [x] Antifragility and Dose-Response in Nature 
 - [x] A General Definition of Fragility 
@@ -88,8 +86,7 @@ Lecturer: **N.N Taleb**
 - [x] Statistics of Violence as Special Case of Fat Tails
 
 ## MIT: Mathematics for Computer Science (2010)
-[link] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-
+[link] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 Lecturer: **T. Leighton, M. van Dijk**
 - [x] 1. Introduction and Proofs
 - [x] 2. Induction
@@ -118,8 +115,7 @@ Lecturer: **T. Leighton, M. van Dijk**
 - [x] 25. Random Walks
 
 ## Probability and Statistics: an introduction
-[link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
-
+[link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
 Lecturer: **N.J. Wildberger**
 - [x] 1. Review of sets and functions
 - [x] 2. Basic Counting and Probability
@@ -131,8 +127,7 @@ Lecturer: **N.J. Wildberger**
 - [ ] 8. The normal distribution
 
 ## MathHistory: A course in the History of Mathematic
-[link](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
-
+[link](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)  
 Lecturer: **N.J. Wildberger**
 - [x] 1a. Pythagoras' theorem 
 - [x] 1b. Pyhtagoras' theorem (cont)
@@ -172,8 +167,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 29. Combinatorics
 
 ## WildLinAlg
-[link](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
-
+[link](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)  
 Lecturer: **N.J. Wildberger**
 - [x] 1. Introduction to Linear Algebra
 - [x] 2. Geometry and Vectors
@@ -219,8 +213,22 @@ Lecturer: **N.J. Wildberger**
 - [ ] 41. The chromatic algebra of 2x2 matrices I
 - [ ] 42. The chromatic algebra of 2x2 matrices II
 
-## Logic 
-random videos on (applied) logic
-- [x] [M. Talbot: The philosphical method - logic and argument](https://podcasts.ox.ac.uk/philosophical-method-logic-and-argument)
-- [ ] [A. Clayton: Probability Theory: The Logic of Science Reading Course Introduction] (https://www.youtube.com/watch?v=rfKS69cIwHc)
+## Probability Theory: The Logic of Science Reading Course
+[link](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)  
+Lecturer: **Abrey Clayton**
+- [x] 0. Introduction
+- [ ] 1. Plausible Reasoning
+- [ ] 2. The quantitative rules
+- [ ] 3. Elementary Sampling Theory
+- [ ] 4. Elementary hypothesis testing I
+- [ ] 5. Elementary hypothesis testing II
+- [ ] 6. Queer uses for probability theory
+- [ ] 7. Orthodox methods: historical background
+- [ ] 8. Principles and pathology
+- [ ] 9. Elementary parameter estimation 
+- [ ] 10. Sufficency, ancillarity, and all that 
+- [ ] 11. Repetitive experiments: prob. & frequency
+ 
+
+
 
