@@ -1,3 +1,64 @@
+## [MIT: STEM Concept Videos](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)
+Lecturer: **To Many**
+- Communication 
+  + [x] Strategic Communication 
+- Conservation 
+  + [x] Conservation of Mass 
+  + [x] Latent Heat
+- Derivatives and Integrals
+  + [x] Electric Potential 
+  + [x] Flux and Gauss' Law
+  + [x] Motion
+- Differential Equations  
+  + [x] Contaminant Fate Modeling
+  + [x] Curl 
+  + [x] Divergence
+  + [x] Gradient
+  + [x] Enzyme Kinetics
+- Equilibrium 
+  + [x] Equilibrium vs. Stead State
+  + [x] Kinetics and Equilibrium
+  + [x] What is Temperature?
+- Governing Rules
+  + [x] Entropy
+  + [x] Gravity
+  + [x] Kinetic Theory
+  + [x] Maxwell's Equations
+  + [x] Newton's Laws
+- Information Flow
+  + [x] Algorithm Efficiency
+  + [x] Feedback Loops
+  + [x] Radio Receivers
+- Linearity
+  + [x] Gear Trains
+  + [x] Linear Approximations
+  + [x] Rigid Body Kinematics
+  + [x] Stability Analysis
+- Probability and Statistics
+  + [x] Conditional Probability
+  + [x] Diffusion and Fick's Law 
+  + [x] Genetics and Statistics
+  + [x] Moments of Distributions
+- Problem Solving
+  + [x] Unit Analysis
+  + [x] The Art of Approximation 
+  + [x] Basic Programming Techniques
+  + [x] Dimensional Analysis 
+  + [x] Problem Solving Process
+  + [x] The Scientific Process: An Example from Biology
+- Representations
+  + [x] Free Body Diagrams
+  + [ ] VSEPR
+  + [x] Models of Light
+  + [x] Torque
+  + [x] Vectors
+  + [x] Vector Fields
+  + [x] Rotating Frames of Reference
+- Structure-Function Properties
+  + [x] Buffers
+  + [x] Chirality
+  + [x] Polyelectrolyte Multilayers
+
 ## Robert Hodgin Stuff
 Lecturer: **Robert Hodgin**
 - [x] [Eyeo 2011](https://vimeo.com/32300198)
@@ -5,7 +66,6 @@ Lecturer: **Robert Hodgin**
 - [x] [Eyeo 2014](https://vimeo.com/103537259)
 - [x] [FITC](https://vimeo.com/28619251)
 - [x] [NVScene](https://www.youtube.com/watch?v=iesaip71tgo)
-
 
 ## [Taleb Stuff](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
 Lecturer: **N.N Taleb**
@@ -19,7 +79,6 @@ Lecturer: **N.N Taleb**
 - [x] How Increasing Benefits Increase the Risk of Ruin 
 - [x] The Law of Large Numbers and Fat Tailed Distributions
 - [x] Statistics of Violence as Special Case of Fat Tails
-
 
 ## [MIT: Mathematics for Computer Science (2010)] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 Lecturer: **T. Leighton, M. van Dijk**
