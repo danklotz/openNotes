@@ -26,7 +26,16 @@ Lecturer: **T. Leighton, M. van Dijk*
 - [x] 24. Large Deviations 
 - [x] 25. Random Walks
 
-
+## [Probability and Statistics: an introductin] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+Lecturer: **N.J. Wildberger**
+- [x] 1. Review of sets and functions
+- [x] 2. Basic Counting and Probability
+- [x] 3. Probability spaces, events and conditional probablities 
+- [ ] 4. Total probability, Bayes' rule and tree diagrams 
+- [ ] 5. Random variables, means, variance and standard deviations 
+- [ ] 6. Bionomial and goemetric distributions 
+- [ ] 7. The sign rule and continuous probability distributions
+- [ ] 8. The normal distribution
 
 ## [MathHistory: A course in the History Of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
 Lecturer: **N.J. Wildberger**
