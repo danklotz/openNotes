@@ -1,3 +1,17 @@
+## [Taleb MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
+Lecturer: **N.N Taleb**
+- [x] Antifragility and Dose-Response in Nature 
+- [x] A General Definition of Fragility 
+- [x] Mini Tutorial 1, Fat Fails Simplified 
+- [x] Law of Large Numbers and Fat Tails
+- [x] Binary vs. Vanilla Payoffs and Predictions
+- [x] What can we learn from Mr Dawkinds' error and misuse of probability?
+- [x] Sornete vs. Taleb 
+- [x] How Increasing Benefits Increase the Risk of Ruin 
+- [x] The Law of Large Numbers and Fat Tailed Distributions
+- [x] Statistics of Violence as Special Case of Fat Tails
+
+
 ## [MIT: Mathematics for Computer Science (2010)] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 Lecturer: **T. Leighton, M. van Dijk*
 - [x] 1. Introduction and Proofs
@@ -26,7 +40,7 @@ Lecturer: **T. Leighton, M. van Dijk*
 - [x] 24. Large Deviations 
 - [x] 25. Random Walks
 
-## [Probability and Statistics: an introductin] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+## [Probability and Statistics: an introduction] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
 Lecturer: **N.J. Wildberger**
 - [x] 1. Review of sets and functions
 - [x] 2. Basic Counting and Probability
