@@ -1,4 +1,6 @@
-## [MIT: STEM Concept Videos](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)
+## MIT: STEM Concept Videos
+[link](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)
+
 Lecturer: **To Many**
 - Communication 
   + [x] Strategic Communication 
@@ -59,7 +61,7 @@ Lecturer: **To Many**
   + [x] Chirality
   + [x] Polyelectrolyte Multilayers
 
-## Robert Hodgin Stuff
+## Robert Hodgin Videos
 Lecturer: **Robert Hodgin**
 - [x] [Eyeo 2011](https://vimeo.com/32300198)
 - [x] [Eyeo 2012](https://vimeo.com/45526286)
@@ -67,7 +69,9 @@ Lecturer: **Robert Hodgin**
 - [x] [FITC](https://vimeo.com/28619251)
 - [x] [NVScene](https://www.youtube.com/watch?v=iesaip71tgo)
 
-## [Taleb Stuff](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
+## Taleb Videos
+[MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
+
 Lecturer: **N.N Taleb**
 - [x] Antifragility and Dose-Response in Nature 
 - [x] A General Definition of Fragility 
@@ -80,7 +84,9 @@ Lecturer: **N.N Taleb**
 - [x] The Law of Large Numbers and Fat Tailed Distributions
 - [x] Statistics of Violence as Special Case of Fat Tails
 
-## [MIT: Mathematics for Computer Science (2010)] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+## MIT: Mathematics for Computer Science (2010)
+[link] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+
 Lecturer: **T. Leighton, M. van Dijk**
 - [x] 1. Introduction and Proofs
 - [x] 2. Induction
@@ -108,7 +114,9 @@ Lecturer: **T. Leighton, M. van Dijk**
 - [x] 24. Large Deviations 
 - [x] 25. Random Walks
 
-## [Probability and Statistics: an introduction] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+## Probability and Statistics: an introduction
+[link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+
 Lecturer: **N.J. Wildberger**
 - [x] 1. Review of sets and functions
 - [x] 2. Basic Counting and Probability
@@ -119,7 +127,9 @@ Lecturer: **N.J. Wildberger**
 - [ ] 7. The sign rule and continuous probability distributions
 - [ ] 8. The normal distribution
 
-## [MathHistory: A course in the History Of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+## MathHistory: A course in the History of Mathematic
+[link](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+
 Lecturer: **N.J. Wildberger**
 - [x] 1a. Pythagoras' theorem 
 - [x] 1b. Pyhtagoras' theorem (cont)
@@ -158,7 +168,9 @@ Lecturer: **N.J. Wildberger**
 - [x] 28. Computability and problems with Set theory
 - [x] 29. Combinatorics
 
-## [WildLinAlg](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
+## WildLinAlg
+[link](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
+
 Lecturer: **N.J. Wildberger**
 - [x] 1. Introduction to Linear Algebra
 - [x] 2. Geometry and Vectors
