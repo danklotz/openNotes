@@ -219,7 +219,7 @@ Lecturer: **N.J. Wildberger**
 - [ ] 41. The chromatic algebra of 2x2 matrices I
 - [ ] 42. The chromatic algebra of 2x2 matrices II
 
-## Applied Logic 
+## Logic 
 random videos on (applied) logic
 - [x] [M. Talbot: The philosphical method - logic and argument](https://podcasts.ox.ac.uk/philosophical-method-logic-and-argument)
 - [ ] [A. Clayton: Probability Theory: The Logic of Science Reading Course Introduction] (https://www.youtube.com/watch?v=rfKS69cIwHc)
