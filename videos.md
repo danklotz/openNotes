@@ -1,3 +1,6 @@
+
+
+
 ## MIT: STEM Concept Videos
 [link](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)
 
@@ -215,3 +218,9 @@ Lecturer: **N.J. Wildberger**
 - [ ] 40b. Relativistic dot products and complex numbers II
 - [ ] 41. The chromatic algebra of 2x2 matrices I
 - [ ] 42. The chromatic algebra of 2x2 matrices II
+
+## Applied Logic 
+random videos on (applied) logic
+- [x] [M. Talbot: The philosphical method - logic and argument](https://podcasts.ox.ac.uk/philosophical-method-logic-and-argument)
+- [ ] [A. Clayton: Probability Theory: The Logic of Science Reading Course Introduction] https://www.youtube.com/watch?v=rfKS69cIwHc
+
