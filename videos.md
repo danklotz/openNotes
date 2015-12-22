@@ -217,7 +217,7 @@ Lecturer: **N.J. Wildberger**
 [link](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)  
 Lecturer: **Abrey Clayton**
 - [x] 0. Introduction
-- [ ] 1. Plausible Reasoning
+- [x] 1. Plausible Reasoning
 - [ ] 2. The quantitative rules
 - [ ] 3. Elementary Sampling Theory
 - [ ] 4. Elementary hypothesis testing I
