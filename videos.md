@@ -1,5 +1,44 @@
+## [MathHistory: A course in the History Of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
+Lecturer: **N.J. Wildberger**
+- [x] 1a. Pythagoras' theorem 
+- [x] 1b. Pyhtagoras' theorem (cont)
+- [x] 2. Greek geometry
+- [x] 3a. Greek number theory
+- [x] 3b. Greek number theory (cont.)
+- [x] 4. Infinity in Greek mathematics
+- [x] 5a. Number theory and algebra in Asia 
+- [x] 5b. Number theory and algebra in Asia (cont.)
+- [x] 6a. Polyniomial equations 
+- [x] 7a. Analytic goemetry and the continuum
+- [x] 7b. Analytic geometry and the continuum
+- [x] 8. Projective geometry 
+- [x] 9. Calculus
+- [x] 10. Infinite series
+- [x] 11. Mechanics and the solar system 
+- [x] 12. Non-Euclidean geometry
+- [x] 13. The number theory revival 
+- [x] 14. Mechanics and curves
+- [x] 15. Complex numbers and algebra 
+- [x] 16. Differential Geometry
+- [x] 17. Topoly
+- [x] 18. Hypercomplex numbers
+- [x] 19. Complex numbers and curves
+- [x] 20. Group theory
+- [ ] 21a. Galois theory I
+- [ ] 21b. Galois theory II
+- [x] 22a. Algebraic number theory and rings I
+- [ ] 22b. Algebraic number theory and rings II
+- [ ] 23a. Simple groups, Lie groups, and the search for symmetry I
+- [ ] 23b. Simple groups, Lie groups, and the searc for symmetry II
+- [ ] 24. Number systems and Stevis's decimals
+- [x] 25. Problems with Calculus
+- [x] 26. Matrices, determinants and the birth of Linear Algebra 
+- [x] 27. Sets, logic and computability
+- [x] 28. Computability and problems with Set theory
+- [x] 29. Combinatorics
 
 ## [WildLinAlg](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
+Lecturer: **N.J. Wildberger**
 - [x] 1. Introduction to Linear Algebra
 - [x] 2. Geometry and Vectors
 - [x] 3. Center of mass and barycentric coordinates
