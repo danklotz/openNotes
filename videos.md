@@ -1,4 +1,4 @@
-## [Taleb MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
+## [Taleb Stuff](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
 Lecturer: **N.N Taleb**
 - [x] Antifragility and Dose-Response in Nature 
 - [x] A General Definition of Fragility 
