@@ -22,7 +22,7 @@ Lecturer: **N.N Taleb**
 
 
 ## [MIT: Mathematics for Computer Science (2010)] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
-Lecturer: **T. Leighton, M. van Dijk*
+Lecturer: **T. Leighton, M. van Dijk**
 - [x] 1. Introduction and Proofs
 - [x] 2. Induction
 - [x] 3. Strong inductin
