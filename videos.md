@@ -1,3 +1,11 @@
+## [Robert Hodgin Stuff](http://roberthodgin.com/)
+- [x] [Eyeo 2011](https://vimeo.com/32300198)
+- [x] [Eyeo 2012](https://vimeo.com/45526286)
+- [x] [Eyeo 2014](https://vimeo.com/103537259)
+- [x] [FITC](https://vimeo.com/28619251)
+- [x] [NVScene](https://www.youtube.com/watch?v=iesaip71tgo)
+
+
 ## [Taleb Stuff](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)
 Lecturer: **N.N Taleb**
 - [x] Antifragility and Dose-Response in Nature 
