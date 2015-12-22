@@ -1,37 +1,45 @@
 
 ## [WildLinAlg](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)
--[x] 1. Introduction to Linear Algebra
--[x] 2. Geometry and Vectors
--[x] 3. Center of mass and barycentric coordinates
--[x] 4. Area and Volume
--[x] 5. Change of coordinates and determinants 
--[x] 6. Applications of 2x2 matrices
--[x] 7. More applications of 2x2 matrices 
--[ ] 8. Inverting 3x3 matrices
--[ ] 9. Three dimensional affine geometry
--[ ] 10. Equations of lines and planes in 3D
--[ ] 11. Applications of 3x3 matrices
--[ ] 12. Generalized dilations and eigenvalues 
--[ ] 13. Solving a system of linear equations
--[ ] 14. More row reduction with parameters 
--[ ] 15. Applications of row reduction I (Gaussian elimination)
--[ ] 16. Applications of row reduction II
--[ ] 17. Rank and Nullity of a Linear Transformation
--[ ] 18. The geometry of a system of linear equations
--[ ] 19. Linear algebra with polynomials
--[ ] 20. Bases of polyniomial spaces
--[ ] 21. More bases of polyniomial spaces
--[ ] 22. Polyniomials and sequence spaces
--[ ] 23. 
--[ ] 24. 
--[ ] 25. 
--[ ] 26. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
--[ ] 22. 
+- [x] 1. Introduction to Linear Algebra
+- [x] 2. Geometry and Vectors
+- [x] 3. Center of mass and barycentric coordinates
+- [x] 4. Area and Volume
+- [x] 5. Change of coordinates and determinants 
+- [x] 6. Applications of 2x2 matrices
+- [x] 7. More applications of 2x2 matrices 
+- [ ] 8. Inverting 3x3 matrices
+- [ ] 9. Three dimensional affine geometry
+- [ ] 10. Equations of lines and planes in 3D
+- [ ] 11. Applications of 3x3 matrices
+- [ ] 12. Generalized dilations and eigenvalues 
+- [ ] 13. Solving a system of linear equations
+- [ ] 14. More row reduction with parameters 
+- [ ] 15. Applications of row reduction I (Gaussian elimination)
+- [ ] 16. Applications of row reduction II
+- [ ] 17. Rank and Nullity of a Linear Transformation
+- [ ] 18. The geometry of a system of linear equations
+- [ ] 19. Linear algebra with polynomials
+- [ ] 20. Bases of polyniomial spaces
+- [ ] 21. More bases of polyniomial spaces
+- [ ] 22. Polyniomials and sequence spaces
+- [ ] 23. Stirling numbers and Pascal triangles  
+- [x] 24. Cubic splines (Bezier curves) using linear algebra
+- [x] 25. Cubic splines using calculus
+- [ ] 26. Change of basis and Taylor coefficient vectors
+- [x] 27. Geometry with linear algebra  
+- [ ] 28. Dot products, Pythagoras'thoerem, and generalizations
+- [ ] 29. Applications of the dot product to planar geometry I
+- [ ] 30. Applications of the dot product to planar geometry II
+- [ ] 31. Circles and spheres via dot products I
+- [ ] 32. Circles and spheres via dot products II
+- [ ] 33. The relativistic dot product
+- [ ] 34. Oriented circles and 3D relativistic geometry I
+- [ ] 35. Oriented circles and relativistic geometry II
+- [ ] 36. Energy, momentum and linear algebra
+- [ ] 37. An elementary introduction to Special Relativity I 
+- [ ] 38. An elementary introduction to Special Relativity II
+- [ ] 39. Length contraction, time dilation and velocity
+- [ ] 40a. Relativistic dot products and complex numbers
+- [ ] 40b. Relativistic dot products and complex numbers II
+- [ ] 41. The chromatic algebra of 2x2 matrices I
+- [ ] 42. The chromatic algebra of 2x2 matrices II
