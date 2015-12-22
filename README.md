@@ -4,12 +4,12 @@ Self-Dev made open source, to keep myself motivated, celebrate success and trans
 
 ## Soft-Goals for 2016
 0. All is heuristic
-1. No nitpicking
+1. Less nitpicking
 2. Be concrete
 3. Start simple, keep it short & concise
 4. Experiment & Test
 5. Look at raw data
-6. Explore quik, ship things fast
+6. Explore quikly, ship things fast
 7. Document successes & failures
 8. Think (more) about aesthetics 
 9. Think (more) about health
