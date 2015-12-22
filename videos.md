@@ -1,4 +1,5 @@
 ## [Robert Hodgin Stuff](http://roberthodgin.com/)
+Lecturer: **Robert Hodgin**
 - [x] [Eyeo 2011](https://vimeo.com/32300198)
 - [x] [Eyeo 2012](https://vimeo.com/45526286)
 - [x] [Eyeo 2014](https://vimeo.com/103537259)
