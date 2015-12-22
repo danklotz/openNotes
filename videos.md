@@ -1,3 +1,33 @@
+## [MIT: Mathematics for Computer Science (2010)] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+Lecturer: **T. Leighton, M. van Dijk*
+- [x] 1. Introduction and Proofs
+- [x] 2. Induction
+- [x] 3. Strong inductin
+- [x] 4. Number Theory I 
+- [ ] 5. Number Theory II
+- [x] 6. Graph Theory and Coloring
+- [x] 7. Matching Problems
+- [ ] 8. GraphTheory II: Minimum Spanning Trees
+- [ ] 9. Communication Networks
+- [ ] 10. Graph Theory III 
+- [ ] 11. Relations, Partial Orders, and Scheduling
+- [x] 12. Sums
+- [x] 13. Sums and Asymptotics 
+- [x] 14. Divide and Conquer Recurrences 
+- [x] 15. Linear Recurrences
+- [ ] 16. Counting Rules I 
+- [ ] 17. Counting Rules II 
+- [x] 18 Probability Introduction 
+- [x] 19. Conditional Probablity
+- [x] 20. Independence 
+- [x] 21. Random Variables
+- [x] 22. Expectation I 
+- [x] 23. Expectation II 
+- [x] 24. Large Deviations 
+- [x] 25. Random Walks
+
+
+
 ## [MathHistory: A course in the History Of Mathematics](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)
 Lecturer: **N.J. Wildberger**
 - [x] 1a. Pythagoras' theorem 
