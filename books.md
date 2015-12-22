@@ -19,5 +19,5 @@ star | rating
 - [ ] **H. Wickham:** R Packages
 - [ ] **E.J. Hannan:** Time Series Analysis
 - [ ] **H. Yuki:** Math Girls
-- [ ] **E. Horn:** Zukunft als Katastrophe
+- [ ] **E. Horn:** Zukunft als Katastrophe
 - [ ] **G. Gigerenzer:** Bauchentscheidungen: Die Intelligenz des Unbewussten und die Macht der Intuition
