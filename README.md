@@ -2,7 +2,7 @@
 Self-Dev made open source, to keep myself motivated, celebrate success and transparent.  
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals)
 
-## Soft-Goals for 2016
+## Overall-Goals for 2016
 0. All is heuristic
 1. Less nitpicking
 2. Be concrete
