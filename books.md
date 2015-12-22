@@ -1,8 +1,9 @@
 # books
 **Rating:**
-                          star | rating
-                          ---- | ------
-                        :star: | bad  
+
+star | rating
+---- | ------
+:star: | bad  
 :star::star::star::star::star: | excellent  
 
 ## reading
