@@ -8,7 +8,7 @@ star | rating
 
 ## reading
 - [ ] **B.V. Koen:** Discussion of the Method :star::star::star: 
-- [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :star::star::star::star: 
+- [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :star::star::star: 
 
 ## want-to read
 - [ ] **N. Matloff:** The Art of Programming: A Tour of Statistical Software Design
