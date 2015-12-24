@@ -3,15 +3,15 @@ Self-Dev made open source, to keep myself motivated, celebrate success and trans
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
 ## Overall-Goals for 2016
-1. Do not nitpick
-2. Start simple
+1. Do not nitpick!
+2. Start simple, then:
 3. Keep things concise
 4. Keep things applied
-5. Be concrete
-6. Be creative
-7. Explore
-8. Experiment & Test
-9. Document successes & failures
+5. Keep things concrete
+6. Explore
+7. Experiment & Test
+8. Document successes & failures
+9. Share
 10. Improve health
 
 ## Sections: 
