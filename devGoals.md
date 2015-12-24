@@ -1,7 +1,7 @@
-# I DO things
+# devGoals
 Not sure yet about how to organize and name this 
 
-## DOs
+## weekly log 
 Stuff I plan to-do during the week 
 ### 2015Dez: Week 4
 #### planned
