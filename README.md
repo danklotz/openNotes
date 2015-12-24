@@ -1,6 +1,6 @@
 # self-dev
 Self-Dev made open source, to keep myself motivated, celebrate success and transparent.  
-**Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals)
+**Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
 ## Overall-Goals for 2016
 0. All is heuristic
@@ -14,3 +14,7 @@ Self-Dev made open source, to keep myself motivated, celebrate success and trans
 8. Experiment & Test
 9. Document successes & failures
 10. Improve health
+
+## Sections: 
+- [Videos](https://github.com/danklotz/self-dev/blob/master/videos.md) 
+- [Books](https://github.com/danklotz/self-dev/blob/master/books.md)
