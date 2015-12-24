@@ -3,7 +3,6 @@ Self-Dev made open source, to keep myself motivated, celebrate success and trans
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
 ## Overall-Goals for 2016
-0. All is heuristic
 1. Do not nitpick
 2. Start simple
 3. Keep things concise
