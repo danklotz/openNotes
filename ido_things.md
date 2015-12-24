@@ -1,7 +1,7 @@
-# Goals
+# I do things
 Not sure yet about how to organize and name this 
 
-## Planed explorations 
+## DOs
 Stuff I plan to-do during the week 
 ### 2015Dez: Week 4
 #### planed
@@ -9,7 +9,7 @@ Stuff I plan to-do during the week
 
 #### unplaned 
 
-## Future  
+## Future DOs 
 - [ ] Scrape something with [kimono](https://www.kimonolabs.com/learn/calling-an-api)  
 - [ ] Take a look at [tensorFlow](https://www.tensorflow.org/)
 
