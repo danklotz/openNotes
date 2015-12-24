@@ -9,8 +9,8 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] How Do Genetic Algorithms Work?
 - [x] Open Ai 
 - [x] Randomness and Bell's Inequality 
-- [ ] Automatic Parameter Control for Metropolis Light Transport
-- [ ] Artificial Superintelligence 
+- [x] Automatic Parameter Control for Metropolis Light Transport
+- [x] Artificial Superintelligence 
 - [x] Are We Living In a Computer Simulation?
 - [x] Google DeepMind's Depps Q-Learning & Superhuman Atari Gameplays
 - [x] Scattering Microface BSDFs with Smith Model 
