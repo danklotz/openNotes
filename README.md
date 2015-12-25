@@ -1,5 +1,6 @@
-# self-dev
-Self-Dev made open source, to keep myself motivated, celebrate success and transparent.  
+# OpenLearning
+Learning made open. 
+Goal: Keep myself motivated, celebrate success and be transparent.  
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
 ## Overall-Goals for 2016
