@@ -10,28 +10,29 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Open Ai 
 - [x] Randomness and Bell's Inequality 
 - [x] Automatic Parameter Control for Metropolis Light Transport
+- [x] Real-Time FAcial Expression Transfer
 - [x] Artificial Superintelligence 
 - [x] Are We Living In a Computer Simulation?
 - [x] Google DeepMind's Depps Q-Learning & Superhuman Atari Gameplays
 - [x] Scattering Microface BSDFs with Smith Model 
 - [x] Terrain Traversal with Reinforcement Learning 
-- [ ] Cryptography 
+- [x] Cryptography 
 - [x] How Does Deep Learning Work?
 - [x] Recurrent Neural Network Writes Sentences About Images
 - [x] Automatic Lecture Notes From Videos
 - [x] Gradients, Possion's Equation and Light Transport 
 - [x] Recurrent Neural Network Writes Music and Shakespear Novels
 - [x] Modelling Colliding and Merging Fluids
-- [ ] 3d Printing a Glockenspiel 
+- [x] 3d Printing a Glockenspiel 
 - [x] Metropolis Light Transport 
-- [ ] Synthesizing Sound From Collisions
+- [x] Synthesizing Sound From Collisions
 - [x] Adaptive Cloth Simulation 
-- [ ] Creating Photographs Using Deep Learning 
-- [ ] Reconstructing Sound from Vibrations 
-- [ ] Building Bridges With Flying Machines 
+- [x] Creating Photographs Using Deep Learning 
+- [x] Reconstructing Sound from Vibrations 
+- [x] Building Bridges With Flying Machines 
 - [x] Adaptive Fluid Simulations 
 - [ ] Subsufrace Scattering 
-- [ ] Manipulating Photorealistic Rendering
+- [x] Manipulating Photorealistic Rendering
 
 
 ## MIT: STEM Concept Videos
