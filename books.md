@@ -7,7 +7,7 @@ star | rating
 :star::star::star::star::star: | excellent  
 
 ## reading
-- [ ] **Jeremy Kubica:** Best Practives in Spell Design
+- [ ] **J. Kubica:** Best Practives in Spell Design
 - [x] **B.V. Koen:** Discussion of the Method :star::star: 
 - [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :star::star::star: 
 
