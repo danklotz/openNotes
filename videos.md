@@ -31,7 +31,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Reconstructing Sound from Vibrations 
 - [x] Building Bridges With Flying Machines 
 - [x] Adaptive Fluid Simulations 
-- [ ] Subsufrace Scattering 
+- [x] Subsufrace Scattering 
 - [x] Manipulating Photorealistic Rendering
 
 
