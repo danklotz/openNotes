@@ -1,4 +1,4 @@
-# devGoals
+# goals
 Not sure yet about how to organize and name this 
 
 ## weekly log 
