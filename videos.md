@@ -1,6 +1,33 @@
 # Moving Pictures 
 ...
 
+##32c3
+[playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
+- [ ] The exhaust emissions scandal 
+- [ ] Hacking EU funding for a decentralizing FOSS project
+- [ ] My Robot WIll Crush You tWith Its Soft Delicate Hands!
+- [x] The Great Train Cyber Robbery :wink::sleeping: 
+- [x] Internet Landscapes :grinning::heart:
+- [ ] The Ultimate Amiga 500 Talk 
+- [ ] Vector retrogaming
+- [ ] G'scheitern - The art of failure taught by improv theatre 
+- [ ] apertus° AXIOM 
+- [ ] Fnord - Jahresrückblick
+- [x] Genusscast :sleeping::disappointed:
+- [x] NSFW :sunglasses::yum::triumph::laughing:
+- [x] Freakshow :sunglasses:
+- [x] Any.cast :sunglasses::yum::laughing:
+- [x] Methodisch inkorrekt! :haert::laughing::star:
+- [x] Check your privileges! :sleeping:
+- [ ] Say hi to your new boss: How algorithms might soon control our lives
+- [ ] Computational Meta-Psychology
+- [ ] Prediction and Control 
+- [ ] On Computing. Numbers, with an Application to Problems of our Society
+- [ ] Maritime Robotics
+- [ ] Predicting Crime in a Big data World 
+- [ ] Sin in the time of Technology 
+- [ ] Realitätsabgleich
+
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
 Lecturer: **Károly Zsolnai-Fehér**
