@@ -1,15 +1,10 @@
 # books
-**Rating:**
-
-star | rating
----- | ------
-:star: | bad  
-:star::star::star::star::star: | excellent  
+rating is done with emoji 
 
 ## reading
 - [ ] **J. Kubica:** Best Practives in Spell Design
-- [x] **B.V. Koen:** Discussion of the Method :star::star: 
-- [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :star::star::star: 
+- [x] **B.V. Koen:** Discussion of the Method :+1::sleeping:
+- [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :relieved::neutral_face: 
 
 ## want-to read
 - [ ] **N. Matloff:** The Art of Programming: A Tour of Statistical Software Design
