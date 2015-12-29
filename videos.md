@@ -17,7 +17,7 @@
 - [x] NSFW :sunglasses::yum::triumph::laughing:
 - [x] Freakshow :sunglasses:
 - [x] Any.cast :sunglasses::yum::laughing:
-- [x] Methodisch inkorrekt! :haert::laughing::star:
+- [x] Methodisch inkorrekt! :heart::laughing::star:
 - [x] Check your privileges! :sleeping:
 - [ ] Say hi to your new boss: How algorithms might soon control our lives
 - [ ] Computational Meta-Psychology
