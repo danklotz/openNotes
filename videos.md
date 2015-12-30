@@ -21,12 +21,13 @@
 - [x] Check your privileges! :sleeping:
 - [ ] Say hi to your new boss: How algorithms might soon control our lives
 - [ ] Computational Meta-Psychology
-- [ ] Prediction and Control 
+- [x] Prediction and Control :neutral_face::sleeping:
 - [ ] On Computing. Numbers, with an Application to Problems of our Society
-- [ ] Maritime Robotics
+- [x] Maritime Robotics :relaxed::+1:
+- [x] Hacker Geopardy :laughing::joy::yum:
 - [ ] Predicting Crime in a Big data World 
 - [ ] Sin in the time of Technology 
-- [ ] Realitätsabgleich
+- [x] Realitätsabgleich :laughing::joy::yum:
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
