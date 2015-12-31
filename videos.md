@@ -4,7 +4,6 @@
 ##32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [ ] The exhaust emissions scandal 
-- [ ] Hacking EU funding for a decentralizing FOSS project
 - [ ] My Robot WIll Crush You tWith Its Soft Delicate Hands!
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :grinning::heart:
@@ -12,7 +11,7 @@
 - [ ] Vector retrogaming
 - [ ] G'scheitern - The art of failure taught by improv theatre 
 - [ ] apertus° AXIOM 
-- [ ] Fnord - Jahresrückblick
+- [x] Fnord - Jahresrückblick :laughing::sunglasses:
 - [x] Genusscast :sleeping::disappointed:
 - [x] NSFW :sunglasses::yum::triumph::laughing:
 - [x] Freakshow :sunglasses:
@@ -25,7 +24,7 @@
 - [ ] On Computing. Numbers, with an Application to Problems of our Society
 - [x] Maritime Robotics :relaxed::+1:
 - [x] Hacker Geopardy :laughing::joy::yum:
-- [ ] Predicting Crime in a Big data World 
+- [x] Predicting Crime in a Big data World :yum::sleeping:
 - [ ] Sin in the time of Technology 
 - [x] Realitätsabgleich :laughing::joy::yum:
 
