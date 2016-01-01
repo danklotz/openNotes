@@ -11,7 +11,7 @@
 - [ ] Vector retrogaming
 - [ ] G'scheitern - The art of failure taught by improv theatre 
 - [ ] apertus° AXIOM 
-- [ ] Fnord - Jahresrückblick :laughing::sunglasses:
+- [ ] Fnord - Jahresrückblick 
 - [x] Genusscast :sleeping::disappointed:
 - [x] NSFW :sunglasses::yum::triumph::laughing:
 - [x] Freakshow :sunglasses:
