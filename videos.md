@@ -60,6 +60,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Adaptive Fluid Simulations 
 - [x] Subsufrace Scattering 
 - [x] Manipulating Photorealistic Rendering
+- [ ] Neural Programmer
 
 
 ## MIT: STEM Concept Videos
