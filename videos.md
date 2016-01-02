@@ -4,12 +4,11 @@
 ##32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [ ] The exhaust emissions scandal 
-- [ ] My Robot WIll Crush You tWith Its Soft Delicate Hands!
+- [ ] My Robot Will Crush You tWith Its Soft Delicate Hands!
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :grinning::heart:
-- [ ] The Ultimate Amiga 500 Talk 
 - [ ] Vector retrogaming
-- [ ] G'scheitern - The art of failure taught by improv theatre 
+- [x] G'scheitern - The art of failure taught by improv theatre 
 - [ ] apertus° AXIOM 
 - [ ] Fnord - Jahresrückblick 
 - [x] Genusscast :sleeping::disappointed:
