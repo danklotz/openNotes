@@ -7,10 +7,9 @@
 - [x] My Robot Will Crush You tWith Its Soft Delicate Hands! :+1::grinning::heart:
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :+1::grinning::heart:
-- [ ] Vector retrogaming
+- [ ] Vector Retrogaming
 - [x] G'scheitern - The art of failure taught by improv theatre 
 - [x] apertus° AXIOM :relaxed::unamused:
-- [ ] Fnord - Jahresrückblick 
 - [x] Genusscast :sleeping::disappointed:
 - [x] NSFW :sunglasses::yum::triumph::laughing:
 - [x] Freakshow :sunglasses:
