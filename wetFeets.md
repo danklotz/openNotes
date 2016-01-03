@@ -12,3 +12,4 @@
 - [ ] [react](http://facebook.github.io/react/)
 - [ ] [Neural Nets](https://blog.skcript.com/how-to-learn-neural-networks-758b78f2736e#.b4g6v31ne) 
 - [ ] [Verbal Expression](https://github.com/VerbalExpressions/JSVerbalExpressions)
+- [ ] [Ropenscience](https://ropensci.org/)
