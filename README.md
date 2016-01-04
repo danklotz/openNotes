@@ -5,7 +5,7 @@ Goal: Keep myself motivated, celebrate success and be transparent.
 
 ## Overall-Goals for 2016
 1. Do not nitpick!
-2. Start simple, then:
+2. Start simple
 3. Keep things concise
 4. Keep things applied
 5. Keep things concrete
