@@ -19,7 +19,7 @@
 - [ ] Say hi to your new boss: How algorithms might soon control our lives
 - [ ] Computational Meta-Psychology
 - [x] Prediction and Control :neutral_face::sleeping:
-- [ ] On Computing. Numbers, with an Application to Problems of our Society
+- [x] On Computing Numbers, with an Application to Problems of our Society :+1:
 - [x] Maritime Robotics :relaxed::+1:
 - [x] Hacker Geopardy :laughing::joy::yum:
 - [x] Predicting Crime in a Big data World :yum::sleeping:
