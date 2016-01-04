@@ -17,7 +17,7 @@
 - [x] Methodisch inkorrekt! :heart::laughing::star:
 - [x] Check your privileges! :sleeping:
 - [ ] Say hi to your new boss: How algorithms might soon control our lives
-- [ ] Computational Meta-Psychology
+- [x] Computational Meta-Psychology :yum::+1::+1::+1:
 - [x] Prediction and Control :neutral_face::sleeping:
 - [x] On Computing Numbers, with an Application to Problems of our Society :+1:
 - [x] Maritime Robotics :relaxed::+1:
