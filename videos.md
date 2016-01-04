@@ -23,7 +23,6 @@
 - [x] Maritime Robotics :relaxed::+1:
 - [x] Hacker Geopardy :laughing::joy::yum:
 - [x] Predicting Crime in a Big data World :yum::sleeping:
-- [ ] Sin in the time of Technology 
 - [x] Realitätsabgleich :laughing::joy::yum:
 
 ## Two Minute Papers 
