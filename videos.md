@@ -58,6 +58,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Subsufrace Scattering 
 - [x] Manipulating Photorealistic Rendering
 - [x] Neural Programmer
+- [x] Deep Learning Applications 
 
 
 ## MIT: STEM Concept Videos
