@@ -3,7 +3,7 @@ Learning made open.
 Goal: Keep myself motivated, celebrate success and be transparent.  
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
-## Overall-Goals for 2016
+## 2016 Overall-Goals
 1. Do not nitpick!
 2. Start simple
 3. Keep things concise
