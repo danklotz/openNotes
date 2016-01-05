@@ -4,7 +4,7 @@ Goal: Keep myself motivated, celebrate success and be transparent.
 **Note:** The idea is basically stolen from [una](https://github.com/una/personal-goals). 
 
 ## 2016 Overall-Goals
-1. Do not nitpick!
+1. No nitpicking!
 2. Start simple
 3. Keep things concise
 4. Keep things applied
