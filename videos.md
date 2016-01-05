@@ -4,7 +4,7 @@
 ##32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [ ] The exhaust emissions scandal 
-- [x] My Robot Will Crush You tWith Its Soft Delicate Hands! :+1::grinning::heart:
+- [x] My Robot Will Crush You With Its Soft Delicate Hands! :+1::grinning::heart:
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :+1::grinning::heart:
 - [ ] Vector Retrogaming
