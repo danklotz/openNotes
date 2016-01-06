@@ -17,14 +17,14 @@
 - [x] Methodisch inkorrekt! :heart::laughing::star:
 - [x] Check your privileges! :sleeping:
 - [ ] Say hi to your new boss: How algorithms might soon control our lives
-- [x] Computational Meta-Psychology :star::yum::+1::+1::+1:
+- [x] Computational Meta-Psychology :yum::+1::+1::+1::star:
 - [x] Prediction and Control :neutral_face::sleeping:
 - [x] On Computing Numbers, with an Application to Problems of our Society :+1:
 - [x] Maritime Robotics :relaxed::+1:
 - [x] Hacker Geopardy :laughing::joy::yum:
 - [x] Predicting Crime in a Big data World :yum::sleeping:
 - [x] Realitätsabgleich :laughing::joy::yum:
-- [x] How the Great Firewall discovers hidden circumvention servers :+1:
+- [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
