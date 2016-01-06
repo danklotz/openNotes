@@ -24,6 +24,7 @@
 - [x] Hacker Geopardy :laughing::joy::yum:
 - [x] Predicting Crime in a Big data World :yum::sleeping:
 - [x] Realitätsabgleich :laughing::joy::yum:
+- [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
