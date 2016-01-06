@@ -8,7 +8,7 @@
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :+1::grinning::heart:
 - [ ] Vector Retrogaming
-- [x] G'scheitern - The art of failure taught by improv theatre 
+- [x] G'scheitern - The art of failure taught by improv theatre :+1:
 - [x] apertus° AXIOM :relaxed::unamused:
 - [x] Genusscast :sleeping::disappointed:
 - [x] NSFW :sunglasses::yum::triumph::laughing:
@@ -24,7 +24,7 @@
 - [x] Hacker Geopardy :laughing::joy::yum:
 - [x] Predicting Crime in a Big data World :yum::sleeping:
 - [x] Realitätsabgleich :laughing::joy::yum:
-- [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
+- [x] How the Great Firewall discovers hidden circumvention servers :+1:
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
