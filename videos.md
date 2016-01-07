@@ -1,7 +1,6 @@
 # Moving Pictures 
 ...
-
-##32c3
+## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [x] The exhaust emissions scandal :+1:
 - [x] My Robot Will Crush You With Its Soft Delicate Hands! :+1::grinning::heart:
@@ -25,6 +24,14 @@
 - [x] Predicting Crime in a Big data World :yum::sleeping:
 - [x] Realitätsabgleich :laughing::joy::yum:
 - [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
+
+## Evolutionary Algorithms 
+- [x] [Safia Abdalla: A gentle Guide to Genetic Algorithms](https://www.youtube.com/watch?v=h_jsjPyNu9o) 
+- [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
+- [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
+- [x] [Andreas Weber: Life, Meanng and Spirtuality in the Commons](https://www.youtube.com/watch?v=fqI0qKFWugo)
+- [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://www.youtube.com/watch?v=fqI0qKFWugo)
+- [ ] [Károly Zsolnai-Fehér: How Do Genetic Algorithms Work (Two Minute Papers](https://www.youtube.com/watch?v=ziMHaGQJuSI)
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
