@@ -25,6 +25,7 @@
 - [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
 
 ## Evolutionary Algorithms 
+links and lecturers within the list
 - [x] [Safia Abdalla: A gentle Guide to Genetic Algorithms](https://www.youtube.com/watch?v=h_jsjPyNu9o) 
 - [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
 - [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
