@@ -6,7 +6,6 @@
 - [x] My Robot Will Crush You With Its Soft Delicate Hands! :+1::grinning::heart:
 - [x] The Great Train Cyber Robbery :wink::sleeping: 
 - [x] Internet Landscapes :+1::grinning::heart:
-- [ ] Vector Retrogaming
 - [x] G'scheitern - The art of failure taught by improv theatre :+1:
 - [x] apertus° AXIOM :relaxed::unamused:
 - [x] Genusscast :sleeping::disappointed:
@@ -32,6 +31,17 @@
 - [x] [Andreas Weber: Life, Meanng and Spirtuality in the Commons](https://www.youtube.com/watch?v=fqI0qKFWugo)
 - [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://www.youtube.com/watch?v=fqI0qKFWugo)
 - [ ] [Károly Zsolnai-Fehér: How Do Genetic Algorithms Work (Two Minute Papers](https://www.youtube.com/watch?v=ziMHaGQJuSI)
+- [x] [Daniel Shiffman: Genetic Algorithms and Evolutionary Computing](https://www.youtube.com/watch?v=6l6b78Y4V7Y)
+- [ ] [Derek Kane: Data Science - Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+- [ ] [Nicolas Tollervey: Music Theory - Genetic Algorithms and Python](https://www.youtube.com/watch?v=OTHggyZAot0)
+- [x] [Seth Bling: Mari/o - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
+- [ ] [Manuel Ernst: Evolutionary Algorithms 101](https://www.youtube.com/watch?v=t3XofbN2HgE)
+- [ ] [Benjamin Bush: Solving the Eltrut Problem with Evolutionary Algorithms](https://www.youtube.com/watch?v=jcc-_NLAG_4)
+- [ ] [Per Kristian Lehre: When are evolutionary algorithms provably efficient?](https://www.youtube.com/watch?v=ig58TjWcPlg)
+- [ ] [???: Genetic Algorithms and Fuzziness: From Biology to Aerospace](https://www.youtube.com/watch?v=QSIJZfaVl-4)
+- [ ] [Mike Bostock: Design is a Search Problem](https://youtu.be/fThhbt23SGM?list=PL8usRoCzA0kFmOv4KuB0th1H0ewVNueNs)
+- [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
+- [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)
