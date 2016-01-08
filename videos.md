@@ -30,7 +30,7 @@ links and lecturers within the list
 - [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
 - [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
 - [x] [Andreas Weber: Life, Meanng and Spirtuality in the Commons](https://www.youtube.com/watch?v=fqI0qKFWugo)
-- [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://www.youtube.com/watch?v=fqI0qKFWugo)
+- [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://youtu.be/kHyNqSnzP8Y?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [x] [Károly Zsolnai-Fehér: How Do Genetic Algorithms Work (Two Minute Papers](https://www.youtube.com/watch?v=ziMHaGQJuSI)
 - [x] [Daniel Shiffman: Genetic Algorithms and Evolutionary Computing](https://www.youtube.com/watch?v=6l6b78Y4V7Y)
 - [ ] [Derek Kane: Data Science - Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
