@@ -14,7 +14,7 @@
 - [x] Any.cast :sunglasses::yum::laughing:
 - [x] Methodisch inkorrekt! :heart::laughing::star:
 - [x] Check your privileges! :sleeping:
-- [ ] Say hi to your new boss: How algorithms might soon control our lives
+- [ ] Say hi to your new boss: How algorithms might soon control our lives :sleeping:
 - [x] Computational Meta-Psychology :yum::+1::+1::+1::star:
 - [x] Prediction and Control :neutral_face::sleeping:
 - [x] On Computing Numbers, with an Application to Problems of our Society :+1:
