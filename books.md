@@ -17,3 +17,5 @@ rating is done with emoji
 - [ ] **H. Yuki:** Math Girls
 - [ ] **E. Horn:** Zukunft als Katastrophe
 - [ ] **G. Gigerenzer:** Bauchentscheidungen: Die Intelligenz des Unbewussten und die Macht der Intuition
+- [ ] **Z. Michalewicz, D.B. Fogel:** How to Solve It: Modern Heuristics 
+- [ ] **A. Petrowski, S. Ben-Hamida, Z. Michaelowicz**: Evoltionary Algorithms: An Overview 
