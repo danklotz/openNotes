@@ -40,7 +40,7 @@ links and lecturers within the list
 - [ ] [Benjamin Bush: Solving the Eltrut Problem with Evolutionary Algorithms](https://www.youtube.com/watch?v=jcc-_NLAG_4)
 - [ ] [Per Kristian Lehre: When are evolutionary algorithms provably efficient?](https://www.youtube.com/watch?v=ig58TjWcPlg)
 - [ ] [???: Genetic Algorithms and Fuzziness: From Biology to Aerospace](https://www.youtube.com/watch?v=QSIJZfaVl-4)
-- [ ] [Mike Bostock: Design is a Search Problem](https://youtu.be/fThhbt23SGM?list=PL8usRoCzA0kFmOv4KuB0th1H0ewVNueNs)
+- [x] [Mike Bostock: Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 - [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
