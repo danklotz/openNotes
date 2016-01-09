@@ -1,5 +1,49 @@
 # Moving Pictures 
 ...
+
+## TU Wien Rendering/ Ray Tracing Course 
+Lecturer: Károly Zsolnai-Fehér 
+[YouTube Playlist](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi) 
+- [x] 1. Introduction 
+- [ ] 2. Radiometry Recap, Light Attenuatin 
+- [ ] 3. BRDF models, The Rendering Equation 
+- [ ] 4. Diffuse, Specular and Ambient Shading 
+- [ ] 5. The Fresnel Equation and Schlick's Approximation 
+- [ ] 6. Snell's Law and Total Internal Reflection 
+- [ ] 7. Ray.Sphere Intersection 
+- [ ] 8. Surface Normals
+- [ ] 9. Hard and Soft Shadows 
+- [ ] 10. Camera models
+- [ ] 11. Recursion and Heckbert's Taxonomy
+- [ ] 12. Assignment 1 
+- [ ] 13. Easter BRDF++, Depth of Field 
+- [ ] 14. Global Illumination Benefits 
+- [ ] 15. Rendering Equation Properties 
+- [ ] 16. Monte Carlo Integration: Hit or Miss 
+- [ ] 17. Monte Carlo Integration: Sample Mean & An Important Lesson 
+- [ ] 18. Coming Up Next: BVH, Tone Mapping, SSS
+- [ ] 19. Space Partitioning 1
+- [ ] 20. Space Partitioning 2
+- [ ] 21. Tone Mapping Basics 
+- [ ] 22. Rainhard's Tone Mapper 
+- [ ] 23. Monte Carlo Integration: The Solution 
+- [ ] 24. Importance Sampling 
+- [ ] 25. Path Tracing, Nest Event Estimation 
+- [ ] 26. Low Discrepancy Sequences 
+- [ ] 27. Russian Roulette Path Termination 
+- [ ] 28. Assignment 3
+- [ ] 29. Path Tracing Implementation & Code Walkthrough 
+- [ ] 30. Dispersion and Spectral Rendering 
+- [ ] 31. Unbiased, Consistent Algorithm Classes 
+- [ ] 32. Bidirectional Path TRacing, Multiple Importance Sampling 
+- [ ] 33. Metropolis Light Transport 
+- [ ] 34. SDS Transport, Photon Mapping 
+- [ ] 35. Stochastic Progressive Photon Mapping 
+- [ ] 36. Vertex Connection and Merging, Path Space Regularization 
+- [ ] 37. Manifold Exploration 
+- [ ] 38. Awesome Rendering Papers from 2013-2015 
+- [ ] 39. Assignment 4, Farewell 
+
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [x] The exhaust emissions scandal :+1:
