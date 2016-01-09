@@ -41,7 +41,7 @@ Lecturer: Károly Zsolnai-Fehér
 - [ ] 35. Stochastic Progressive Photon Mapping 
 - [ ] 36. Vertex Connection and Merging, Path Space Regularization 
 - [ ] 37. Manifold Exploration 
-- [ ] 38. Awesome Rendering Papers from 2013-2015 
+- [x] 38. Awesome Rendering Papers from 2013-2015 
 - [ ] 39. Assignment 4, Farewell 
 
 ## 32c3
