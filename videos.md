@@ -78,6 +78,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Manipulating Photorealistic Rendering
 - [x] Neural Programmer
 - [x] Deep Learning Applications 
+- [x] Designing Cities and Furnitures with Machine Learning
 
 
 ## MIT: STEM Concept Videos
