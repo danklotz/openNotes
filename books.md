@@ -3,7 +3,7 @@ rating is done with emoji
 
 ## reading
 - [ ] **J. Kubica:** Best Practives in Spell Design
-- [ ] **V. Klemse:** Common Sense and other Heresies
+- [ ] **V. Klemes:** Common Sense and other Heresies
 ## read 
 - [x] **B.V. Koen:** Discussion of the Method :+1::sleeping:
 - [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :relieved::neutral_face: 
