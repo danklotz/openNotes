@@ -96,7 +96,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Painting with Fluid Simulation 
 - [x] How Do Genetic Algorithms Work?
 - [x] Open Ai 
-- [ ] Hydrographic Printing (in 3D)
+- [x] Hydrographic Printing (in 3D)
 - [x] Randomness and Bell's Inequality 
 - [x] Automatic Parameter Control for Metropolis Light Transport
 - [x] Real-Time FAcial Expression Transfer
@@ -125,6 +125,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Neural Programmer
 - [x] Deep Learning Applications 
 - [x] Designing Cities and Furnitures with Machine Learning
+- [x] Designing 3D printed Robot Creatures
 
 
 ## MIT: STEM Concept Videos
