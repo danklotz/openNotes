@@ -18,3 +18,4 @@ Goal: Keep myself motivated, celebrate success and be transparent.
 ## Sections: 
 - [Videos](https://github.com/danklotz/self-dev/blob/master/videos.md) 
 - [Books](https://github.com/danklotz/self-dev/blob/master/books.md)
+- [WetFeets](https://github.com/danklotz/openLearning/blob/master/wetFeets.md)
