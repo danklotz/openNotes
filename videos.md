@@ -96,6 +96,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Painting with Fluid Simulation 
 - [x] How Do Genetic Algorithms Work?
 - [x] Open Ai 
+- [ ] Hydrographic Printing (in 3D)
 - [x] Randomness and Bell's Inequality 
 - [x] Automatic Parameter Control for Metropolis Light Transport
 - [x] Real-Time FAcial Expression Transfer
