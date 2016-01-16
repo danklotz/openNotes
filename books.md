@@ -10,7 +10,7 @@ rating is done with emoji
 - [x] **G. Pretor-Pinney:** The Wavewatcher's Companion :relieved::neutral_face: 
 
 ## want-to read
-- [ ] **N. Matloff:** The Art of Programming: A Tour of Statistical Software Design
+- [ ] **N. Matloff:** The Art of R-Programming: A Tour of Statistical Software Design
 - [ ] **E.T. Jaynes:** Probability Theory: The Logic of Science
 - [ ] **R.J. Hanson:** Numerical Computing with Modern Fortran (Applied Mathematics)
 - [ ] **G. Grolemund, H. Wickham:** R for Data Science
