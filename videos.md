@@ -67,7 +67,7 @@ Lecturer: Károly Zsolnai-Fehér
 - [x] Predicting Crime in a Big data World :yum::sleeping:
 - [x] Realitätsabgleich :laughing::joy::yum:
 - [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
-- [ ] Designing 3D printable Robotic Creatures
+- [x] Designing 3D printable Robotic Creatures
 
 ## Evolutionary Algorithms 
 links and lecturers within the list
