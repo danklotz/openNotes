@@ -126,6 +126,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Deep Learning Applications 
 - [x] Designing Cities and Furnitures with Machine Learning
 - [x] Designing 3D printed Robot Creatures
+- [x] 3D Printing Objects With Caustics
 
 
 ## MIT: STEM Concept Videos
