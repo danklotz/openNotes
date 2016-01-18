@@ -7,7 +7,7 @@ Lecturer: Károly Zsolnai-Fehér
 - [x] 1. Introduction 
 - [x] 2. Radiometry Recap, Light Attenuatin 
 - [x] 3. BRDF models, The Rendering Equation 
-- [ ] 4. Diffuse, Specular and Ambient Shading 
+- [x] 4. Diffuse, Specular and Ambient Shading 
 - [ ] 5. The Fresnel Equation and Schlick's Approximation 
 - [ ] 6. Snell's Law and Total Internal Reflection 
 - [ ] 7. Ray.Sphere Intersection 
