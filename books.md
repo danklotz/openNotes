@@ -3,7 +3,8 @@ rating is done with emoji
 
 ## reading
 - [ ] **J. Kubica:** Best Practives in Spell Design
-- [ ] **V. Klemes:** Common Sense and other Heresies
+- [x] **V. Klemes:** Common Sense and other Heresies
+- [ ] **V. Klemes**: An Imperfect fit
 
 ## read 
 - [x] **B.V. Koen:** Discussion of the Method :+1::sleeping:
@@ -22,4 +23,4 @@ rating is done with emoji
 - [ ] **G. Gigerenzer:** Bauchentscheidungen: Die Intelligenz des Unbewussten und die Macht der Intuition
 - [ ] **Z. Michalewicz, D.B. Fogel:** How to Solve It: Modern Heuristics 
 - [ ] **A. Petrowski, S. Ben-Hamida, Z. Michaelowicz**: Evoltionary Algorithms: An Overview 
-- [ ] **V. Klemes**: An Imperfect fit
+
