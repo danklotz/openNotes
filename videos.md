@@ -50,6 +50,7 @@ links: [book](http://xcelab.net/rm/statistical-rethinking/) / [Youtube](https://
 - [x] Realitätsabgleich :laughing::joy::yum:
 - [x] How the Great Firewall discovers hidden circumvention servers :+1::star:
 - [x] Designing 3D printable Robotic Creatures
+- [x] Interactive Editing of Subsurface Scattering
 
 ## Evolutionary Algorithms 
 links and lecturers within the list
