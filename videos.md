@@ -287,7 +287,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 5. Change of coordinates and determinants 
 - [x] 6. Applications of 2x2 matrices
 - [x] 7. More applications of 2x2 matrices 
-- [ ] 8. Inverting 3x3 matrices
+- [x] 8. Inverting 3x3 matrices
 - [ ] 9. Three dimensional affine geometry
 - [ ] 10. Equations of lines and planes in 3D
 - [ ] 11. Applications of 3x3 matrices
