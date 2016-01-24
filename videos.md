@@ -110,6 +110,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Designing Cities and Furnitures with Machine Learning
 - [x] Designing 3D printed Robot Creatures
 - [x] 3D Printing Objects With Caustics
+- [x] Simulating Viscosity and Melting Fluids
 
 
 ## MIT: STEM Concept Videos
@@ -288,7 +289,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 6. Applications of 2x2 matrices
 - [x] 7. More applications of 2x2 matrices 
 - [x] 8. Inverting 3x3 matrices
-- [ ] 9. Three dimensional affine geometry
+- [x] 9. Three dimensional affine geometry
 - [ ] 10. Equations of lines and planes in 3D
 - [ ] 11. Applications of 3x3 matrices
 - [ ] 12. Generalized dilations and eigenvalues 
