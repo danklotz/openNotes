@@ -73,7 +73,7 @@ links and lecturers within the list
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
 ## Two Minute Papers 
-[link](https://www.youtube.com/user/keeroyz/featured)
+[link](https://www.youtube.com/user/keeroyz/featured) 
 Lecturer: **Károly Zsolnai-Fehér**
 - [x] Peer Review # 1
 - [x] Painting with Fluid Simulation 
@@ -111,6 +111,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Designing 3D printed Robot Creatures
 - [x] 3D Printing Objects With Caustics
 - [x] Simulating Viscosity and Melting Fluids
+- [x] What Do Virtual Objects Sound Like?
 
 
 ## MIT: STEM Concept Videos
