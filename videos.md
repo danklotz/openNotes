@@ -112,6 +112,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] 3D Printing Objects With Caustics
 - [x] Simulating Viscosity and Melting Fluids
 - [x] What Do Virtual Objects Sound Like?
+- [x] How DeepMind Conquered Go With Deep Learning 
 
 
 ## MIT: STEM Concept Videos
