@@ -1,10 +1,11 @@
 # books
 rating is done with emoji 
 
-## reading
+## reading 
 - [ ] **V. Klemes**: An Imperfect fit
+- [ ] **Z. Michalewicz & D.B. Fogel**: How to Solve It: Modern Heuristics 
 
-## read 
+## read (2016)
 - [x] **J. Kubica:** Best Practives in Spell Design
 - [x] **V. Klemes:** Common Sense and other Heresies
 - [x] **B.V. Koen:** Discussion of the Method :+1::sleeping:
