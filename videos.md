@@ -1,31 +1,6 @@
 # Moving Pictures 
 ...
 
-## Statistical Rethinking 
-Lecturer: Richard McElreath
-links: [book](http://xcelab.net/rm/statistical-rethinking/) / [Youtube](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
-- [x] 01 
-- [x] 02
-- [ ] 03 
-- [ ] 04
-- [ ] 05
-- [ ] 06
-- [ ] 07
-- [ ] 08
-- [ ] 09
-- [ ] 10
-- [ ] 11
-- [ ] 12
-- [ ] 13
-- [ ] 14
-- [ ] 15
-- [ ] 16.1
-- [ ] 16.2
-- [ ] 17
-- [ ] 18
-- [ ] 19
-- [ ] 20
-
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [x] The exhaust emissions scandal :+1:
@@ -113,6 +88,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Simulating Viscosity and Melting Fluids
 - [x] What Do Virtual Objects Sound Like?
 - [x] How DeepMind Conquered Go With Deep Learning 
+- [x] Breaking Deep Learning Systems With Adversarial Examples
 
 
 ## MIT: STEM Concept Videos
