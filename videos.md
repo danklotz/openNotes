@@ -89,6 +89,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] What Do Virtual Objects Sound Like?
 - [x] How DeepMind Conquered Go With Deep Learning 
 - [x] Breaking Deep Learning Systems With Adversarial Examples
+- [x] Extrapolations and Crowdfunded Research
 
 
 ## MIT: STEM Concept Videos
