@@ -39,7 +39,7 @@ links and lecturers within the list
 - [ ] [Derek Kane: Data Science - Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
 - [ ] [Nicolas Tollervey: Music Theory - Genetic Algorithms and Python](https://www.youtube.com/watch?v=OTHggyZAot0)
 - [x] [Seth Bling: Mari/o - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
-- [ ] [Manuel Ernst: Evolutionary Algorithms 101](https://www.youtube.com/watch?v=t3XofbN2HgE)
+- [x] [Manuel Ernst: Evolutionary Algorithms 101](https://www.youtube.com/watch?v=t3XofbN2HgE)
 - [x] [Benjamin Bush: Solving the Eltrut Problem with Evolutionary Algorithms](https://www.youtube.com/watch?v=jcc-_NLAG_4)
 - [ ] [Per Kristian Lehre: When are evolutionary algorithms probably efficient?](https://www.youtube.com/watch?v=ig58TjWcPlg)
 - [x] [???: Genetic Algorithms and Fuzziness: From Biology to Aerospace](https://www.youtube.com/watch?v=QSIJZfaVl-4)
