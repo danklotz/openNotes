@@ -90,6 +90,8 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] How DeepMind Conquered Go With Deep Learning 
 - [x] Breaking Deep Learning Systems With Adversarial Examples
 - [x] Extrapolations and Crowdfunded Research
+- [x] What is Impostor Syndrome?
+- [x] Should You Take the STairs at Work?
 
 
 ## MIT: STEM Concept Videos
