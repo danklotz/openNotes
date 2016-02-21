@@ -91,7 +91,8 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Breaking Deep Learning Systems With Adversarial Examples
 - [x] Extrapolations and Crowdfunded Research
 - [x] What is Impostor Syndrome?
-- [x] Should You Take the STairs at Work?
+- [x] Should You Take the Stairs at Work?
+- [x] Artistic Manipulation of Caustics
 
 
 ## MIT: STEM Concept Videos
