@@ -15,4 +15,5 @@
 - [ ] [Ropenscience](https://ropensci.org/)
 - [x] [gramEvol](https://github.com/fnoorian/gramEvol) :+1::yum:
 - [ ] [Guesstimate.app](http://getguesstimate.com/)
-- [ ] [Developing Data Products](https://www.coursera.org/learn/data-products/?utm_medium=email&utm_source=other&utm_campaign=opencourse.welcome.data-products.learnBanner~opencourse.welcome.3Vo3Am1LEeWMPAqsmzmVew.)
+- [x] [Developing Data Products](https://www.coursera.org/learn/data-products/?utm_medium=email&utm_source=other&utm_campaign=opencourse.welcome.data-products.learnBanner~opencourse.welcome.3Vo3Am1LEeWMPAqsmzmVew.)
+- [x] [Harvard: Data Science Course](http://cs109.github.io/2015/pages/videos.html)
