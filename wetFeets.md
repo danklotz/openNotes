@@ -16,4 +16,5 @@
 - [x] [gramEvol](https://github.com/fnoorian/gramEvol) :+1::yum:
 - [ ] [Guesstimate.app](http://getguesstimate.com/)
 - [x] [Developing Data Products](https://www.coursera.org/learn/data-products/?utm_medium=email&utm_source=other&utm_campaign=opencourse.welcome.data-products.learnBanner~opencourse.welcome.3Vo3Am1LEeWMPAqsmzmVew.)
-- [x] [Harvard: Data Science Course](http://cs109.github.io/2015/pages/videos.html)
+- [ ] [Harvard: Data Science Course](http://cs109.github.io/2015/pages/videos.html)
+- [ ] [Understanding Bayes: How to become a Bayesian in eight easy steps](http://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/)
