@@ -93,6 +93,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] What is Impostor Syndrome?
 - [x] Should You Take the Stairs at Work?
 - [x] Artistic Manipulation of Caustics
+- [x] Deep Learning Program Learns to Paint 
 
 
 ## MIT: STEM Concept Videos
