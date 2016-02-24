@@ -274,9 +274,9 @@ Lecturer: **N.J. Wildberger**
 - [x] 9. Three dimensional affine geometry
 - [x] 10. Equations of lines and planes in 3D
 - [x] 11. Applications of 3x3 matrices
-- [ ] 12. Generalized dilations and eigenvalues 
-- [ ] 13. Solving a system of linear equations
-- [ ] 14. More row reduction with parameters 
+- [x] 12. Generalized dilations and eigenvalues 
+- [x] 13. Solving a system of linear equations
+- [x] 14. More row reduction with parameters 
 - [ ] 15. Applications of row reduction I (Gaussian elimination)
 - [ ] 16. Applications of row reduction II
 - [ ] 17. Rank and Nullity of a Linear Transformation
