@@ -94,6 +94,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Should You Take the Stairs at Work?
 - [x] Artistic Manipulation of Caustics
 - [x] Deep Learning Program Learns to Paint 
+- [x] Interactive Photo Recoloring
 
 
 ## MIT: STEM Concept Videos
