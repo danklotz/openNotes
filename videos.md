@@ -95,6 +95,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Artistic Manipulation of Caustics
 - [x] Deep Learning Program Learns to Paint 
 - [x] Interactive Photo Recoloring
+- [x] How To Get Started With Machine Learning
 
 
 ## MIT: STEM Concept Videos
