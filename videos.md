@@ -96,6 +96,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Deep Learning Program Learns to Paint 
 - [x] Interactive Photo Recoloring
 - [x] How To Get Started With Machine Learning
+- [x] 5000 Fellow Scholars Special!
 
 
 ## MIT: STEM Concept Videos
