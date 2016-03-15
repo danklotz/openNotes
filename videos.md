@@ -97,6 +97,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Interactive Photo Recoloring
 - [x] How To Get Started With Machine Learning
 - [x] 5000 Fellow Scholars Special!
+- [x] How DeepMind's AlphaGo Defeated Lee Sedol
 
 
 ## MIT: STEM Concept Videos
