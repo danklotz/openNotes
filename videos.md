@@ -1,6 +1,25 @@
 # Moving Pictures 
 ...
 
+## UVM Evolutionary Robotics 
+[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)
+Lecturer: Josh Bongard 
+- [ ] 01 - Administrative Stuff
+- [ ] 02 - Introduciton/History
+- [ ] 03 
+- [ ] 04
+- [ ] 05
+- [ ] 06 
+- [ ] 07 
+- [ ] 08 
+- [ ] 09 
+- [ ] 10 
+- [ ] 11 
+- [ ] 12 
+- [ ] 13 
+- [ ] 14 
+- [ ] 15 
+
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [x] The exhaust emissions scandal :+1:
