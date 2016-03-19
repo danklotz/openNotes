@@ -5,7 +5,7 @@
 [link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)
 Lecturer: Josh Bongard 
 - [ ] 01 - Administrative Stuff
-- [ ] 02 - Introduciton/History
+- [x] 02 - Introduciton/History
 - [ ] 03 
 - [ ] 04
 - [ ] 05
@@ -301,7 +301,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 12. Generalized dilations and eigenvalues 
 - [x] 13. Solving a system of linear equations
 - [x] 14. More row reduction with parameters 
-- [ ] 15. Applications of row reduction I (Gaussian elimination)
+- [x] 15. Applications of row reduction I (Gaussian elimination)
 - [ ] 16. Applications of row reduction II
 - [ ] 17. Rank and Nullity of a Linear Transformation
 - [ ] 18. The geometry of a system of linear equations
