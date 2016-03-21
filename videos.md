@@ -117,6 +117,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] How To Get Started With Machine Learning
 - [x] 5000 Fellow Scholars Special!
 - [x] How DeepMind's AlphaGo Defeated Lee Sedol
+- [x] 3D Depth From a Single Photograph 
 
 
 ## MIT: STEM Concept Videos
