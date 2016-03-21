@@ -6,6 +6,7 @@ rating is done with emoji
 - [ ] **Z. Michalewicz & D.B. Fogel**: How to Solve It: Modern Heuristics 
 
 ## read (2016)
+- [x] **R. Wringham:** Escape Everything!
 - [x] **J. Kubica:** Best Practives in Spell Design
 - [x] **V. Klemes:** Common Sense and other Heresies
 - [x] **B.V. Koen:** Discussion of the Method :+1::sleeping:
