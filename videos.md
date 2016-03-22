@@ -2,8 +2,8 @@
 ...
 
 ## UVM Evolutionary Robotics 
-[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik) 
-Lecturer: Josh Bongard 
+[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
+Lecturer: **Josh Bongard** 
 - [ ] 01 - Administrative Stuff
 - [x] 02 - Introduciton/History
 - [ ] 03 
@@ -67,7 +67,7 @@ links and lecturers within the list
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
 ## Two Minute Papers 
-[link](https://www.youtube.com/user/keeroyz/featured) 
+[link](https://www.youtube.com/user/keeroyz/featured)  
 Lecturer: **Károly Zsolnai-Fehér**
 - [x] Peer Review # 1
 - [x] Painting with Fluid Simulation 
