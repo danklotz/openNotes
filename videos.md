@@ -2,7 +2,7 @@
 ...
 
 ## UVM Evolutionary Robotics 
-[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)
+[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik) 
 Lecturer: Josh Bongard 
 - [ ] 01 - Administrative Stuff
 - [x] 02 - Introduciton/History
