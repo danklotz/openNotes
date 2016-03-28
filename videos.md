@@ -119,6 +119,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] How DeepMind's AlphaGo Defeated Lee Sedol
 - [x] 3D Depth From a Single Photograph 
 - [x] Decision Trees and Boosting, XGBoost
+- [x] How The Witness Teaches Scientific Thinking
 
 
 ## MIT: STEM Concept Videos
