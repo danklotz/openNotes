@@ -9,4 +9,5 @@ A list of papers I've read in 2016 (will probably be incomplete):
 - V. Andréassian, C. Perrin, L. Berthet, N. Le. Moine, J. Lerat, C. Loumagne, L. Oudin, T. Mathevet, M.-H. Raros & V Veléry: **Crash tests for standardized evaluation fo hydrological models"**
 - G. Huang, Y. Sun, Z. Liu, D. Sedra & K. Weinberger: **Deep Networks with Stochastic Depth**
 - M. Quade & M. Abel: **Prediction of Dynamical Systems by Symbolic Regression**
+- J.M. Swafford, E. Hemberg, M. O'Neill & M. Nicolau: **A Non-Desctructive Grammar Modification Appraoch to Modularity in Grammatical Evolution**
 
