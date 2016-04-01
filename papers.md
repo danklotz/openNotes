@@ -7,4 +7,5 @@ A list of papers I've read in 2016 (will probably be incomplete):
 - M. Dang, S. Lienhard, D. Ceylan, B. Neubert, P. Wonka, M. Pauly: **Interactive Design of Probability Density Functions for Shape Grammars**
 - D. G. Goldstein, G. Gigerenzer: **Fast and frugal forecasting**
 - V. Andréassian, C. Perrin, L. Berthet, N. Le. Moine, J. Lerat, C. Loumagne, L. Oudin, T. Mathevet, M.-H. Raros, V Veléry: **Crash tests for standardized evaluation fo hydrological models"**
+- G. Huang, Y. Sun, Z. Liu, D. Sedra, K. Weinberger: **Deep Networks with Stochastic Depth**
 
