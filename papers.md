@@ -10,6 +10,7 @@ A list of papers I've read in 2016 (will probably be incomplete):
 - G. Huang, Y. Sun, Z. Liu, D. Sedra & K. Weinberger: **Deep Networks with Stochastic Depth**
 - M. Quade & M. Abel: **Prediction of Dynamical Systems by Symbolic Regression**
 - J.M. Swafford, E. Hemberg, M. O'Neill & M. Nicolau: **A Non-Desctructive Grammar Modification Appraoch to Modularity in Grammatical Evolution**
+- J.M. Swafford, E. Hemberg, M. O'Neill & M. Nicolau: **Exploring Grammatical Modification with Modules in Grammatical Evolution**
 - N. Lourenca, F. B. Pereira, E. Costa: **Unveiling the properties of structured grammatical evolution**
 - F. Noorian, A. M. de Silva, P. H.W. Leong: **gramEvol: Grammatical Evolution in R**
 - D. Koutsoyiannis: **Reconciling hydrology with engineering**
