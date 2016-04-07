@@ -6,7 +6,7 @@
 Lecturer: **Josh Bongard** 
 - [ ] 01 - Administrative Stuff
 - [x] 02 - Introduciton/History
-- [ ] 03 
+- [x] 03 - Intro Neural Networks
 - [ ] 04
 - [ ] 05
 - [ ] 06 
