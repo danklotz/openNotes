@@ -8,7 +8,6 @@
 - [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
 - [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 - [x] [Max Kuhn Interviewed by DataScience.LA at useR](https://www.youtube.com/watch?v=YmHyAHkjX_A)
-- 
 
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
