@@ -1,11 +1,14 @@
 # Moving Pictures 
 ...
 ## rndm 
+- [ ] [AlphaGo & Deep Learning - Computerphile](https://www.youtube.com/watch?v=qWcfiPi9gUU)
+- [ ] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
 - [ ] [IGDA San Francisco Jonathan Blow 2016](https://www.youtube.com/watch?v=z9c915x7x8I)
 - [x] [MathFoundations175: The Chaotic complexity of natural numbers](https://www.youtube.com/watch?v=EUvFXd1y1Ho)
 - [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
 - [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 - [x] [Max Kuhn Interviewed by DataScience.LA at useR](https://www.youtube.com/watch?v=YmHyAHkjX_A)
+- 
 
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
@@ -35,6 +38,10 @@
 
 ## Evolutionary Algorithms 
 links and lecturers within the list
+- [ ] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
+- [x] [Procedural Generation in Shattered Planet](https://www.youtube.com/watch?v=PzOKIbHbxn0)
+- [x] [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://www.youtube.com/watch?v=S9pc8li4fuQ)
+- [x] [No Man's Sky: How I Learned to Love Procedural Art](https://www.youtube.com/watch?v=vcEA41eBOGs)
 - [x] [Safia Abdalla: A gentle Guide to Genetic Algorithms](https://www.youtube.com/watch?v=h_jsjPyNu9o) 
 - [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
 - [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
