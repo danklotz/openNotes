@@ -58,6 +58,7 @@ links and lecturers within the list
 - [x] [Mike Bostock: Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 - [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
+
 ### UVM Evolutionary Robotics 
 [link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
 Lecturer: **Josh Bongard** 
