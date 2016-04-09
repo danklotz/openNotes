@@ -1,24 +1,11 @@
 # Moving Pictures 
 ...
-
-## UVM Evolutionary Robotics 
-[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
-Lecturer: **Josh Bongard** 
-- [ ] 01 - Administrative Stuff
-- [x] 02 - Introduciton/History
-- [x] 03 - Intro Neural Networks
-- [ ] 04
-- [ ] 05
-- [ ] 06 
-- [ ] 07 
-- [ ] 08 
-- [ ] 09 
-- [ ] 10 
-- [ ] 11 
-- [ ] 12 
-- [ ] 13 
-- [ ] 14 
-- [ ] 15 
+## rndm 
+- [ ] [IGDA San Francisco Jonathan Blow 2016](https://www.youtube.com/watch?v=z9c915x7x8I)
+- [x] [MathFoundations175: The Chaotic complexity of natural numbers](https://www.youtube.com/watch?v=EUvFXd1y1Ho)
+- [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
+- [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
+- [x] [Max Kuhn Interviewed by DataScience.LA at useR](https://www.youtube.com/watch?v=YmHyAHkjX_A)
 
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
@@ -65,6 +52,24 @@ links and lecturers within the list
 - [x] [Mike Bostock: Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
 - [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
+### UVM Evolutionary Robotics 
+[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
+Lecturer: **Josh Bongard** 
+- [ ] 01 - Administrative Stuff
+- [x] 02 - Introduciton/History
+- [x] 03 - Intro Neural Networks
+- [ ] 04
+- [ ] 05
+- [ ] 06 
+- [ ] 07 
+- [ ] 08 
+- [ ] 09 
+- [ ] 10 
+- [ ] 11 
+- [ ] 12 
+- [ ] 13 
+- [ ] 14 
+- [ ] 15 
 
 ## Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)  
