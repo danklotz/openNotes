@@ -137,6 +137,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] 3D Depth From a Single Photograph 
 - [x] Decision Trees and Boosting, XGBoost
 - [x] How The Witness Teaches Scientific Thinking
+- [x] The Dunning-Kruger Effect
 
 
 ## MIT: STEM Concept Videos
