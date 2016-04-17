@@ -9,10 +9,14 @@
 - [ ] [AlphaGo & Deep Learning - Computerphile](https://www.youtube.com/watch?v=qWcfiPi9gUU)
 - [ ] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
 - [ ] [IGDA San Francisco Jonathan Blow 2016](https://www.youtube.com/watch?v=z9c915x7x8I)
-- [x] [MathFoundations175: The Chaotic complexity of natural numbers](https://www.youtube.com/watch?v=EUvFXd1y1Ho)
+- [ ] [Kurt Roth: Water in terrestial systemy](https://youtu.be/pyDBVgqFwvY)
 - [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
 - [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 - [x] [Max Kuhn Interviewed by DataScience.LA at useR](https://www.youtube.com/watch?v=YmHyAHkjX_A)
+- [x] [MathFoudnations 175: The chaotic complexity of natural numbers](https://youtu.be/EUvFXd1y1Ho)
+- [x] [MathFoudnations 176: The sporadic nature of big numbers](https://youtu.be/Z8I68E7yZeY)
+- [x] [MathFoudnations 177: Numbers, the universe and complexity beyond us](https://youtu.be/p9xX-Jpsr_E)
+- [x] [Franz-Josef Radermacher: Der Mensch und die digitale Maschine - Was kommt auf uns zu?](https://youtu.be/xjNT5Y-nEH0)
 
 ## 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
@@ -43,6 +47,7 @@
 ## Evolutionary Algorithms 
 links and lecturers within the list
 - [ ] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
+- [x] [GDC 2016 Practices in Procedural Generation](https://youtu.be/49b7fUI7AEI)
 - [x] [Procedural Generation in Shattered Planet](https://www.youtube.com/watch?v=PzOKIbHbxn0)
 - [x] [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://www.youtube.com/watch?v=S9pc8li4fuQ)
 - [x] [No Man's Sky: How I Learned to Love Procedural Art](https://www.youtube.com/watch?v=vcEA41eBOGs)
@@ -138,6 +143,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Decision Trees and Boosting, XGBoost
 - [x] How The Witness Teaches Scientific Thinking
 - [x] The Dunning-Kruger Effect
+- [x] 10 Even Cooler Deep Learnign Applications(https://youtu.be/aKSILzbAqJs)
 
 
 ## MIT: STEM Concept Videos
