@@ -1,6 +1,8 @@
 # Moving Pictures 
 ...
-## rndm 
+
+## Ongoing: 
+### rndm 
 - [ ] [Peter Dayan: Interactions Between Model-Free and Model-Based Reinforcement Learning](https://youtu.be/01z6agTRvOo)
 - [x] [CS188 Spring 2014: Lecture 10 Reinforcement Learning I](https://youtu.be/IXuHxkpO5E8)
 - [ ] [CS188 Spring 2014: Lecture 10 Reinforcement Learning II](https://youtu.be/yNeSFbE1jdY)
@@ -18,7 +20,7 @@
 - [x] [MathFoudnations 177: Numbers, the universe and complexity beyond us](https://youtu.be/p9xX-Jpsr_E)
 - [x] [Franz-Josef Radermacher: Der Mensch und die digitale Maschine - Was kommt auf uns zu?](https://youtu.be/xjNT5Y-nEH0)
 
-## 32c3
+### 32c3
 [playlist](https://www.youtube.com/playlist?list=PLOcrXzpA0W83sb3Ztv11Uq6Vj1A3qh4XM)
 - [x] The exhaust emissions scandal :+1:
 - [x] My Robot Will Crush You With Its Soft Delicate Hands! :+1::grinning::heart:
@@ -44,7 +46,7 @@
 - [x] Designing 3D printable Robotic Creatures
 - [x] Interactive Editing of Subsurface Scattering
 
-## Evolutionary Algorithms 
+### Evolutionary Algorithms 
 links and lecturers within the list
 - [ ] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 - [x] [GDC 2016 Practices in Procedural Generation](https://youtu.be/49b7fUI7AEI)
@@ -69,7 +71,7 @@ links and lecturers within the list
 - [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
 - [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
-### UVM Evolutionary Robotics 
+#### UVM Evolutionary Robotics 
 [link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
 Lecturer: **Josh Bongard** 
 - [ ] 01 - Administrative Stuff
@@ -88,7 +90,7 @@ Lecturer: **Josh Bongard**
 - [ ] 14 
 - [ ] 15 
 
-## Two Minute Papers 
+### Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)  
 Lecturer: **Károly Zsolnai-Fehér**
 - [x] Peer Review # 1
@@ -146,7 +148,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] 10 Even Cooler Deep Learnign Applications(https://youtu.be/aKSILzbAqJs)
 
 
-## MIT: STEM Concept Videos
+### MIT: STEM Concept Videos
 [link](http://ocw.mit.edu/resources/res-tll-004-stem-concept-videos-fall-2013/)  
 Lecturer: **To Many**
 - Communication 
@@ -208,7 +210,7 @@ Lecturer: **To Many**
   + [x] Chirality
   + [x] Polyelectrolyte Multilayers
 
-## Robert Hodgin Videos
+### Robert Hodgin Videos
 Lecturer: **Robert Hodgin**
 - [x] [Eyeo 2011](https://vimeo.com/32300198)
 - [x] [Eyeo 2012](https://vimeo.com/45526286)
@@ -216,7 +218,7 @@ Lecturer: **Robert Hodgin**
 - [x] [FITC](https://vimeo.com/28619251)
 - [x] [NVScene](https://www.youtube.com/watch?v=iesaip71tgo)
 
-## Taleb Videos
+### Taleb Videos
 [MOOCs](https://www.youtube.com/channel/UC8uY6yLP9BS4BUc9BSc0Jww)  
 Lecturer: **N.N Taleb**
 - [x] Antifragility and Dose-Response in Nature 
@@ -230,7 +232,7 @@ Lecturer: **N.N Taleb**
 - [x] The Law of Large Numbers and Fat Tailed Distributions
 - [x] Statistics of Violence as Special Case of Fat Tails
 
-## MIT: Mathematics for Computer Science (2010)
+### MIT: Mathematics for Computer Science (2010)
 [link] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)  
 Lecturer: **T. Leighton, M. van Dijk**
 - [x] 1. Introduction and Proofs
@@ -259,7 +261,7 @@ Lecturer: **T. Leighton, M. van Dijk**
 - [x] 24. Large Deviations 
 - [x] 25. Random Walks
 
-## Probability and Statistics: an introduction
+### Probability and Statistics: an introduction
 [link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
 Lecturer: **N.J. Wildberger**
 - [x] 1. Review of sets and functions
@@ -271,7 +273,7 @@ Lecturer: **N.J. Wildberger**
 - [ ] 7. The sign rule and continuous probability distributions
 - [ ] 8. The normal distribution
 
-## MathHistory: A course in the History of Mathematic
+### MathHistory: A course in the History of Mathematic
 [link](https://www.youtube.com/playlist?list=PL55C7C83781CF4316)  
 Lecturer: **N.J. Wildberger**
 - [x] 1a. Pythagoras' theorem 
@@ -311,7 +313,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 28. Computability and problems with Set theory
 - [x] 29. Combinatorics
 
-## WildLinAlg
+### WildLinAlg
 [link](https://www.youtube.com/playlist?list=PL01A21B9E302D50C1)  
 Lecturer: **N.J. Wildberger**
 - [x] 1. Introduction to Linear Algebra
@@ -358,7 +360,7 @@ Lecturer: **N.J. Wildberger**
 - [ ] 41. The chromatic algebra of 2x2 matrices I
 - [ ] 42. The chromatic algebra of 2x2 matrices II
 
-## Probability Theory: The Logic of Science Reading Course
+### Probability Theory: The Logic of Science Reading Course
 [link](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)  
 Lecturer: **Abrey Clayton**
 - [x] 0. Introduction
@@ -373,6 +375,8 @@ Lecturer: **Abrey Clayton**
 - [ ] 9. Elementary parameter estimation 
 - [ ] 10. Sufficency, ancillarity, and all that 
 - [ ] 11. Repetitive experiments: prob. & frequency
+
+## Finished
  
 
 
