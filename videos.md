@@ -23,7 +23,7 @@
 
 ### Evolutionary Algorithms 
 links and lecturers within the list
-- [ ] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
+- [x] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 - [x] [GDC 2016 Practices in Procedural Generation](https://youtu.be/49b7fUI7AEI)
 - [x] [Procedural Generation in Shattered Planet](https://www.youtube.com/watch?v=PzOKIbHbxn0)
 - [x] [Designing a Procedurally Generated Game - Dwarf Fortress, Darkest Dungeon, etc](https://www.youtube.com/watch?v=S9pc8li4fuQ)
