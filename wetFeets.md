@@ -1,6 +1,6 @@
 # Stuff to Test
 # 2016 
-- [ ] [three.js](https://github.com/mrdoob/three.js9
+- [ ] [three.js](https://github.com/mrdoob/three.js9)
 - [x] [Kimono](https://www.kimonolabs.com/) 
 - [ ] [Image Recognition with R](http://flovv.github.io/Image-Recognition/)
 - [ ] [Tensor Flow](https://www.tensorflow.org/) 
