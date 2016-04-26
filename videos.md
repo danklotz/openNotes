@@ -4,8 +4,6 @@
 ## Ongoing: 
 ### rndm 
 - [ ] [Peter Dayan: Interactions Between Model-Free and Model-Based Reinforcement Learning](https://youtu.be/01z6agTRvOo)
-- [x] [CS188 Spring 2014: Lecture 10 Reinforcement Learning I](https://youtu.be/IXuHxkpO5E8)
-- [ ] [CS188 Spring 2014: Lecture 10 Reinforcement Learning II](https://youtu.be/yNeSFbE1jdY)
 - [ ] [David Silver (Google DeepMind) - Deep Reinforcement Learning](https://youtu.be/ppOIy0okmW0)
 - [ ] [David Silver - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [x] [Computerphile: AlphaGo & Deep Learning](https://www.youtube.com/watch?v=qWcfiPi9gUU)
