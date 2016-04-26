@@ -5,7 +5,7 @@
 ### rndm 
 - [ ] [Peter Dayan: Interactions Between Model-Free and Model-Based Reinforcement Learning](https://youtu.be/01z6agTRvOo)
 - [ ] [David Silver (Google DeepMind) - Deep Reinforcement Learning](https://youtu.be/ppOIy0okmW0)
-- [ ] [David Silver - Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+- [ ] [David Silver - Introduction to Reinforcement Learning I](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [x] [Computerphile: AlphaGo & Deep Learning](https://www.youtube.com/watch?v=qWcfiPi9gUU)
 - [x] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
 - [ ] [IGDA San Francisco Jonathan Blow 2016](https://www.youtube.com/watch?v=z9c915x7x8I)
