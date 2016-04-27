@@ -1,7 +1,7 @@
 # papers 2016 
 A list of papers I've read in 2016 (will probably be incomplete): 
 ## read: 
-- S.Forstenlechner, M. Nicolau, D. Fagan, M. O'Neil: **Grammar Design for Derivation Tree Based Genetic Programming Systems**
+- S. Forstenlechner, M. Nicolau, D. Fagan, M. O'Neil: **Grammar Design for Derivation Tree Based Genetic Programming Systems**
 - K. Judd & T. Stemler: **Forecasting: it is not about statistics,it is about dynamics**
 - E. Briys, B. Magdalou & R. Nock: **Convexity and Conflation Biases as Bergman Divergences: A note**
 - Lieke Melsen, A. Teuling, P. Torfs, M. Zappa, N. Mizukami, M. Clark & R. Uijlenhoet: **Representation of spatial and temporal variability in large-domain hydrological models: Case study for a mesoscale prealpine basin** (HESS discussion)
