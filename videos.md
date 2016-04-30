@@ -18,6 +18,7 @@
 - [x] [MathFoudnations 177: Numbers, the universe and complexity beyond us](https://youtu.be/p9xX-Jpsr_E)
 - [x] [MathFoundations178: The law of logical honesty and the end of infinity](https://youtu.be/I0JozyxM1M0)
 - [x] [Franz-Josef Radermacher: Der Mensch und die digitale Maschine - Was kommt auf uns zu?](https://youtu.be/xjNT5Y-nEH0)
+- [x] [Geoffrey Hinton: Can the brain do back-propagation?](https://youtu.be/VIRCybGgHts)
 
 ### Evolutionary Algorithms 
 links and lecturers within the list
