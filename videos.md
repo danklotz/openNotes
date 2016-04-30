@@ -25,6 +25,12 @@
 
 ### Evolutionary Algorithms 
 links and lecturers within the list
+- [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://youtu.be/kHyNqSnzP8Y?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [ ] [Derek Kane: Data Science - Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
+- [ ] [Nicolas Tollervey: Music Theory - Genetic Algorithms and Python](https://www.youtube.com/watch?v=OTHggyZAot0)
+- [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
+- [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
+- [ ] [Per Kristian Lehre: When are evolutionary algorithms probably efficient?](https://www.youtube.com/watch?v=ig58TjWcPlg)
 - [x] [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 - [x] [GDC 2016 Practices in Procedural Generation](https://youtu.be/49b7fUI7AEI)
 - [x] [Procedural Generation in Shattered Planet](https://www.youtube.com/watch?v=PzOKIbHbxn0)
@@ -34,24 +40,18 @@ links and lecturers within the list
 - [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
 - [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
 - [x] [Andreas Weber: Life, Meanng and Spirtuality in the Commons](https://www.youtube.com/watch?v=fqI0qKFWugo)
-- [ ] [Patrick Winston: Genetic Algorithms (MIT 6.032 Artifical Intelligence)](https://youtu.be/kHyNqSnzP8Y?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - [x] [Károly Zsolnai-Fehér: How Do Genetic Algorithms Work (Two Minute Papers](https://www.youtube.com/watch?v=ziMHaGQJuSI)
 - [x] [Daniel Shiffman: Genetic Algorithms and Evolutionary Computing](https://www.youtube.com/watch?v=6l6b78Y4V7Y)
-- [ ] [Derek Kane: Data Science - Genetic Algorithms](https://www.youtube.com/watch?v=lpD38NxTOnk)
-- [ ] [Nicolas Tollervey: Music Theory - Genetic Algorithms and Python](https://www.youtube.com/watch?v=OTHggyZAot0)
 - [x] [Seth Bling: Mari/o - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 - [x] [Manuel Ernst: Evolutionary Algorithms 101](https://www.youtube.com/watch?v=t3XofbN2HgE)
 - [x] [Benjamin Bush: Solving the Eltrut Problem with Evolutionary Algorithms](https://www.youtube.com/watch?v=jcc-_NLAG_4)
-- [ ] [Per Kristian Lehre: When are evolutionary algorithms probably efficient?](https://www.youtube.com/watch?v=ig58TjWcPlg)
 - [x] [???: Genetic Algorithms and Fuzziness: From Biology to Aerospace](https://www.youtube.com/watch?v=QSIJZfaVl-4)
 - [x] [Mike Bostock: Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
-- [ ] [Christos Papadimitriou: Evolution and Computation](https://www.youtube.com/watch?v=WoamKUfisVM)
-- [ ] [Xin Yao: What Can Evolutionary Computation Do For You?](https://www.youtube.com/watch?v=pcl08XA1REM)
 
 #### UVM Evolutionary Robotics 
 [link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
 Lecturer: **Josh Bongard** 
-- [ ] 01 - Administrative Stuff
+- [x] 01 - Administrative Stuff
 - [x] 02 - Introduciton/History
 - [x] 03 - Intro Neural Networks
 - [ ] 04
