@@ -22,6 +22,7 @@
 - [x] [Patrick Winston: Artifical Intelligence - Deep Neural Nets](https://youtu.be/VrMHA3yX_QI)
 - [x] [Erin LeDell: Intro to Data Science with H2O](https://youtu.be/Yz5x-YU7pik)
 - [x] [Erin LeDell:Ensembles in H2O](https://youtu.be/PHJfRGdIM3g)
+- [x] [Deva Ramanan: Understanding Visual Appearances in the Long-tail](https://youtu.be/YTHqXEI_vgs)
 
 ### Evolutionary Algorithms 
 links and lecturers within the list
