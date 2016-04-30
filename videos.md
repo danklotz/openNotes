@@ -8,7 +8,6 @@
 - [x] [David Silver - Introduction to Reinforcement Learning I](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [x] [Computerphile: AlphaGo & Deep Learning](https://www.youtube.com/watch?v=qWcfiPi9gUU)
 - [x] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
-- [ ] [IGDA San Francisco Jonathan Blow 2016](https://www.youtube.com/watch?v=z9c915x7x8I)
 - [x] [Kurt Roth: Water in terrestial systems](https://youtu.be/pyDBVgqFwvY)
 - [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
 - [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
@@ -19,6 +18,10 @@
 - [x] [MathFoundations178: The law of logical honesty and the end of infinity](https://youtu.be/I0JozyxM1M0)
 - [x] [Franz-Josef Radermacher: Der Mensch und die digitale Maschine - Was kommt auf uns zu?](https://youtu.be/xjNT5Y-nEH0)
 - [x] [Geoffrey Hinton: Can the brain do back-propagation?](https://youtu.be/VIRCybGgHts)
+- [x] [Patrick Winston: Artifical Intelligence - Neural Nets](https://youtu.be/uXt8qF2Zzfo)
+- [x] [Patrick Winston: Artifical Intelligence - Deep Neural Nets](https://youtu.be/VrMHA3yX_QI)
+- [x] [Erin LeDell: Intro to Data Science with H2O](https://youtu.be/Yz5x-YU7pik)
+- [x] [Erin LeDell:Ensembles in H2O](https://youtu.be/PHJfRGdIM3g)
 
 ### Evolutionary Algorithms 
 links and lecturers within the list
