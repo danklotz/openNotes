@@ -119,8 +119,9 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] Decision Trees and Boosting, XGBoost
 - [x] How The Witness Teaches Scientific Thinking
 - [x] The Dunning-Kruger Effect
-- [x] 10 Even Cooler Deep Learnign Applications(https://youtu.be/aKSILzbAqJs)
-
+- [x] 10 Even Cooler Deep Learnign Applications
+- [x] Narrow Band Liquid Simulation 
+ 
 ### Probability and Statistics: an introduction
 [link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
 Lecturer: **N.J. Wildberger**
