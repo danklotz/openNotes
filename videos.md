@@ -4,7 +4,6 @@
 ## Ongoing: 
 ### rndm 
 - [ ] [Peter Dayan: Interactions Between Model-Free and Model-Based Reinforcement Learning](https://youtu.be/01z6agTRvOo)
-- [ ] [David Silver (Google DeepMind) - Deep Reinforcement Learning](https://youtu.be/ppOIy0okmW0)
 - [x] [David Silver - Introduction to Reinforcement Learning I](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [x] [Computerphile: AlphaGo & Deep Learning](https://www.youtube.com/watch?v=qWcfiPi9gUU)
 - [x] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
@@ -49,25 +48,6 @@ links and lecturers within the list
 - [x] [Benjamin Bush: Solving the Eltrut Problem with Evolutionary Algorithms](https://www.youtube.com/watch?v=jcc-_NLAG_4)
 - [x] [???: Genetic Algorithms and Fuzziness: From Biology to Aerospace](https://www.youtube.com/watch?v=QSIJZfaVl-4)
 - [x] [Mike Bostock: Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
-
-#### UVM Evolutionary Robotics 
-[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
-Lecturer: **Josh Bongard** 
-- [x] 01 - Administrative Stuff
-- [x] 02 - Introduciton/History
-- [x] 03 - Intro Neural Networks
-- [ ] 04
-- [ ] 05
-- [ ] 06 
-- [ ] 07 
-- [ ] 08 
-- [ ] 09 
-- [ ] 10 
-- [ ] 11 
-- [ ] 12 
-- [ ] 13 
-- [ ] 14 
-- [ ] 15 
 
 ### Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)  
@@ -382,4 +362,21 @@ Lecturer: **N.J. Wildberger**
 - [x] 28. Computability and problems with Set theory
 - [x] 29. Combinatorics
 
-
+#### UVM Evolutionary Robotics 
+[link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
+Lecturer: **Josh Bongard** 
+- [x] 01 - Administrative Stuff
+- [x] 02 - Introduciton/History
+- [x] 03 - Intro Neural Networks
+- [ ] 04
+- [ ] 05
+- [ ] 06 
+- [ ] 07 
+- [ ] 08 
+- [ ] 09 
+- [ ] 10 
+- [ ] 11 
+- [ ] 12 
+- [ ] 13 
+- [ ] 14 
+- [ ] 15 
