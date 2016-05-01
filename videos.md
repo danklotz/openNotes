@@ -16,6 +16,7 @@
 - [x] [MathFoudnations 176: The sporadic nature of big numbers](https://youtu.be/Z8I68E7yZeY)
 - [x] [MathFoudnations 177: Numbers, the universe and complexity beyond us](https://youtu.be/p9xX-Jpsr_E)
 - [x] [MathFoundations178: The law of logical honesty and the end of infinity](https://youtu.be/I0JozyxM1M0)
+- [x] [MathFoundations179: Hyperoperations and even bigger numbers](https://youtu.be/Wv65xhrJ0zc)
 - [x] [Franz-Josef Radermacher: Der Mensch und die digitale Maschine - Was kommt auf uns zu?](https://youtu.be/xjNT5Y-nEH0)
 - [x] [Geoffrey Hinton: Can the brain do back-propagation?](https://youtu.be/VIRCybGgHts)
 - [x] [Patrick Winston: Artifical Intelligence - Neural Nets](https://youtu.be/uXt8qF2Zzfo)
