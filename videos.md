@@ -42,7 +42,6 @@ links and lecturers within the list
 - [x] [Elad Katz: Artifical Intelligence and Evolutionary Algorithms](https://www.youtube.com/watch?v=FfTy0nrW_M4)
 - [x] [Keith Downing: Evolutionary computation (TEDxTrondheim)](https://www.youtube.com/watch?v=D3zUmfDd79s)
 - [x] [Andreas Weber: Life, Meanng and Spirtuality in the Commons](https://www.youtube.com/watch?v=fqI0qKFWugo)
-- [x] [Károly Zsolnai-Fehér: How Do Genetic Algorithms Work (Two Minute Papers](https://www.youtube.com/watch?v=ziMHaGQJuSI)
 - [x] [Daniel Shiffman: Genetic Algorithms and Evolutionary Computing](https://www.youtube.com/watch?v=6l6b78Y4V7Y)
 - [x] [Seth Bling: Mari/o - Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44)
 - [x] [Manuel Ernst: Evolutionary Algorithms 101](https://www.youtube.com/watch?v=t3XofbN2HgE)
