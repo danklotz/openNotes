@@ -106,6 +106,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] The Dunning-Kruger Effect
 - [x] 10 Even Cooler Deep Learnign Applications
 - [x] Narrow Band Liquid Simulation 
+- [x] Training Deep Neural Networks With Dropout
  
 ### Probability and Statistics: an introduction
 [link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
