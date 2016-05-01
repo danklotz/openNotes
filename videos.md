@@ -1,5 +1,5 @@
-# Moving Pictures 
-...
+# Moving Pictures
+Educational Videos/Lectures I want to watch/watched 
 
 ## Ongoing: 
 ### rndm 
