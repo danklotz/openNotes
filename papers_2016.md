@@ -1,4 +1,4 @@
-# papers 2016 
+# Scientific Literature
 A list of papers I've read in 2016 (will probably be incomplete): 
 ## read: 
 - A. Brabazon, W. Cui, M. O'Neil: **The raven roosting optimisation algorithm**
