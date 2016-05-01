@@ -12,6 +12,7 @@
 - [x] [Mario AI - a comparison](https://www.youtube.com/watch?v=j7ckTMLIwpE) 
 - [x] [Object-Oriented Programming is Garbage: 3800 SLOC example](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 - [x] [Max Kuhn Interviewed by DataScience.LA at useR](https://www.youtube.com/watch?v=YmHyAHkjX_A)
+- [x] [MathFoundations173: A disruptive view of big number arithmetic](https://youtu.be/B57eecnwMGY)
 - [x] [MathFoudnations 175: The chaotic complexity of natural numbers](https://youtu.be/EUvFXd1y1Ho)
 - [x] [MathFoudnations 176: The sporadic nature of big numbers](https://youtu.be/Z8I68E7yZeY)
 - [x] [MathFoudnations 177: Numbers, the universe and complexity beyond us](https://youtu.be/p9xX-Jpsr_E)
