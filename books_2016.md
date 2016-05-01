@@ -1,5 +1,5 @@
 # books
-rating is done with emoji 
+Note: Sometimes I do rating with emoji 
 
 ## reading 
 - [ ] **G. Lakoff:** Where Mathematics Come From: How The Embodied Mind Brings Mathematics Into Being 
