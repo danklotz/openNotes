@@ -16,6 +16,7 @@ Goal: Keep myself motivated, celebrate success and be transparent.
 10. Improve health
 
 ## Sections: 
-- [Videos](https://github.com/danklotz/self-dev/blob/master/videos.md) 
-- [Books](https://github.com/danklotz/self-dev/blob/master/books.md)
+- [Videos](https://github.com/danklotz/self-dev/blob/master/videos_2016.md) 
+- [Books](https://github.com/danklotz/self-dev/blob/master/books_2016.md)
+- [Papers](https://github.com/danklotz/self-dev/blob/master/papers_2016.md)
 - [WetFeets](https://github.com/danklotz/openLearning/blob/master/wetFeets.md)
