@@ -140,7 +140,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 16. Applications of row reduction II
 - [x] 17. Rank and Nullity of a Linear Transformation
 - [x] 18. The geometry of a system of linear equations
-- [ ] 19. Linear algebra with polynomials
+- [x] 19. Linear algebra with polynomials
 - [ ] 20. Bases of polyniomial spaces
 - [ ] 21. More bases of polyniomial spaces
 - [ ] 22. Polyniomials and sequence spaces
