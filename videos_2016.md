@@ -362,6 +362,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 27. Sets, logic and computability
 - [x] 28. Computability and problems with Set theory
 - [x] 29. Combinatorics
+- [x] 30. Ancient astronomy in Babylon and China I
 
 #### UVM Evolutionary Robotics 
 [link](https://www.youtube.com/playlist?list=PLAuiGdPEdw0jySMqCxj2-BQ5QKM9ts8ik)  
