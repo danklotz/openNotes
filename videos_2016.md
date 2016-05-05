@@ -145,7 +145,7 @@ Lecturer: **N.J. Wildberger**
 - [x] 19. Linear algebra with polynomials
 - [ ] 20. Bases of polyniomial spaces
 - [x] 21. More bases of polyniomial spaces
-- [ ] 22. Polyniomials and sequence spaces
+- [x] 22. Polyniomials and sequence spaces
 - [ ] 23. Stirling numbers and Pascal triangles  
 - [x] 24. Cubic splines (Bezier curves) using linear algebra
 - [x] 25. Cubic splines using calculus
