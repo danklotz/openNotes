@@ -107,6 +107,7 @@ Lecturer: **Károly Zsolnai-Fehér**
 - [x] 10 Even Cooler Deep Learnign Applications
 - [x] Narrow Band Liquid Simulation 
 - [x] Training Deep Neural Networks With Dropout
+- [x] Face2Face: Real-Time Facial Reenactment
  
 ### Probability and Statistics: an introduction
 [link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
