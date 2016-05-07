@@ -143,8 +143,8 @@ Lecturer: **N.J. Wildberger**
 - [x] 17. Rank and Nullity of a Linear Transformation
 - [x] 18. The geometry of a system of linear equations
 - [x] 19. Linear algebra with polynomials
-- [ ] 20. Bases of polyniomial spaces
-- [x] 21. More bases of polyniomial spaces
+- [ ] 20. Bases of polynomial spaces
+- [x] 21. More bases of polynomial spaces
 - [x] 22. Polyniomials and sequence spaces
 - [ ] 23. Stirling numbers and Pascal triangles  
 - [x] 24. Cubic splines (Bezier curves) using linear algebra
