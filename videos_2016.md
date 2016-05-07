@@ -146,7 +146,7 @@ Lecturer: **N.J. Wildberger**
 - [ ] 20. Bases of polynomial spaces
 - [x] 21. More bases of polynomial spaces
 - [x] 22. Polyniomials and sequence spaces
-- [ ] 23. Stirling numbers and Pascal triangles  
+- [x] 23. Stirling numbers and Pascal triangles  
 - [x] 24. Cubic splines (Bezier curves) using linear algebra
 - [x] 25. Cubic splines using calculus
 - [ ] 26. Change of basis and Taylor coefficient vectors
