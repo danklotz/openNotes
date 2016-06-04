@@ -3,8 +3,9 @@ Educational Videos/Lectures I want to watch/watched
 
 ## Ongoing: 
 ### rndm 
-- [ ] [Peter Dayan: Interactions Between Model-Free and Model-Based Reinforcement Learning](https://youtu.be/01z6agTRvOo)
-- [x] [David Silver - Introduction to Reinforcement Learning I](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+- [x] [Hadley Wickham: Managing many models with R](https://youtu.be/rz3_FDVt9eg)
+- [x] [Geoffrey Hinton: How Neural Networks Really Work](https://youtu.be/l2dVjADTEDU)
+- [x] [David Silver: Introduction to Reinforcement Learning I](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 - [x] [Computerphile: AlphaGo & Deep Learning](https://www.youtube.com/watch?v=qWcfiPi9gUU)
 - [x] [Stories vs. statistics: Professor John Allen Paulos at TEDxTempleU](https://www.youtube.com/watch?v=XVMYTplQ158)
 - [x] [Kurt Roth: Water in terrestial systems](https://youtu.be/pyDBVgqFwvY)
@@ -21,6 +22,7 @@ Educational Videos/Lectures I want to watch/watched
 - [x] [Geoffrey Hinton: Can the brain do back-propagation?](https://youtu.be/VIRCybGgHts)
 - [x] [Patrick Winston: Artifical Intelligence - Neural Nets](https://youtu.be/uXt8qF2Zzfo)
 - [x] [Patrick Winston: Artifical Intelligence - Deep Neural Nets](https://youtu.be/VrMHA3yX_QI)
+- [x] [ Erin LeDell: Multi-algorithm Ensemble Learning at Scale](https://youtu.be/XWOIudgKSHk)
 - [x] [Erin LeDell: Intro to Data Science with H2O](https://youtu.be/Yz5x-YU7pik)
 - [x] [Erin LeDell:Ensembles in H2O](https://youtu.be/PHJfRGdIM3g)
 - [x] [Deva Ramanan: Understanding Visual Appearances in the Long-tail](https://youtu.be/YTHqXEI_vgs)
@@ -52,62 +54,7 @@ links and lecturers within the list
 ### Two Minute Papers 
 [link](https://www.youtube.com/user/keeroyz/featured)  
 Lecturer: **Károly Zsolnai-Fehér**
-- [x] Peer Review # 1
-- [x] Painting with Fluid Simulation 
-- [x] How Do Genetic Algorithms Work?
-- [x] Open Ai 
-- [x] Hydrographic Printing (in 3D)
-- [x] Randomness and Bell's Inequality 
-- [x] Automatic Parameter Control for Metropolis Light Transport
-- [x] Real-Time FAcial Expression Transfer
-- [x] Artificial Superintelligence 
-- [x] Are We Living In a Computer Simulation?
-- [x] Google DeepMind's Depps Q-Learning & Superhuman Atari Gameplays
-- [x] Scattering Microface BSDFs with Smith Model 
-- [x] Terrain Traversal with Reinforcement Learning 
-- [x] Cryptography 
-- [x] How Does Deep Learning Work?
-- [x] Recurrent Neural Network Writes Sentences About Images
-- [x] Automatic Lecture Notes From Videos
-- [x] Gradients, Possion's Equation and Light Transport 
-- [x] Recurrent Neural Network Writes Music and Shakespear Novels
-- [x] Modelling Colliding and Merging Fluids
-- [x] 3d Printing a Glockenspiel 
-- [x] Metropolis Light Transport 
-- [x] Synthesizing Sound From Collisions
-- [x] Adaptive Cloth Simulation 
-- [x] Creating Photographs Using Deep Learning 
-- [x] Reconstructing Sound from Vibrations 
-- [x] Building Bridges With Flying Machines 
-- [x] Adaptive Fluid Simulations 
-- [x] Subsufrace Scattering 
-- [x] Manipulating Photorealistic Rendering
-- [x] Neural Programmer
-- [x] Deep Learning Applications 
-- [x] Designing Cities and Furnitures with Machine Learning
-- [x] Designing 3D printed Robot Creatures
-- [x] 3D Printing Objects With Caustics
-- [x] Simulating Viscosity and Melting Fluids
-- [x] What Do Virtual Objects Sound Like?
-- [x] How DeepMind Conquered Go With Deep Learning 
-- [x] Breaking Deep Learning Systems With Adversarial Examples
-- [x] Extrapolations and Crowdfunded Research
-- [x] What is Impostor Syndrome?
-- [x] Should You Take the Stairs at Work?
-- [x] Artistic Manipulation of Caustics
-- [x] Deep Learning Program Learns to Paint 
-- [x] Interactive Photo Recoloring
-- [x] How To Get Started With Machine Learning
-- [x] 5000 Fellow Scholars Special!
-- [x] How DeepMind's AlphaGo Defeated Lee Sedol
-- [x] 3D Depth From a Single Photograph 
-- [x] Decision Trees and Boosting, XGBoost
-- [x] How The Witness Teaches Scientific Thinking
-- [x] The Dunning-Kruger Effect
-- [x] 10 Even Cooler Deep Learnign Applications
-- [x] Narrow Band Liquid Simulation 
-- [x] Training Deep Neural Networks With Dropout
-- [x] Face2Face: Real-Time Facial Reenactment
+ - All 
  
 ### Probability and Statistics: an introduction
 [link] (https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)  
