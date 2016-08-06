@@ -100,8 +100,8 @@ Lecturer: **N.J. Wildberger**
 - [x] 25. Cubic splines using calculus
 - [ ] 26. Change of basis and Taylor coefficient vectors
 - [x] 27. Geometry with linear algebra  
-- [ ] 28. Dot products, Pythagoras'thoerem, and generalizations
-- [ ] 29. Applications of the dot product to planar geometry I
+- [x] 28. Dot products, Pythagoras'thoerem, and generalizations
+- [x] 29. Applications of the dot product to planar geometry I
 - [ ] 30. Applications of the dot product to planar geometry II
 - [ ] 31. Circles and spheres via dot products I
 - [ ] 32. Circles and spheres via dot products II
