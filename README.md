@@ -1,2 +1,4 @@
 # OpenLearning
-Learning made open. Moved to [my notes](http://danklotz.github.io/open_learning.html)
+
+
+- Currently thinking of better options to package this idea 
