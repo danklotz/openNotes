@@ -1,0 +1,1 @@
+- [Judd and Stemler (2010): Forecasting: it is not about statistics, it is about dynamics](https://www.jstor.org/stable/25663247). When reading one can see that authors had very specific model classes in mind. Still, I quite like their framing and the (historical) view they present regarding the forecasting problem. 
