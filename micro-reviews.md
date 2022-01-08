@@ -1,10 +1,17 @@
-## micro reviews
+# Micro Reviews
 
 In the following you find some pretty random reviews of some pretty random things. Enjoy.
 
 
-# Moving Pictures
-
+## Moving Pictures
+- [The worlds Ends](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies and this is probably the one I enjoyed the most. 
+- [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
+- [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatyful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
+- [Logal Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
+- [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
+- [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so. 
+- [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
+- [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beatyful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
 - [Léon: The Professional](https://www.imdb.com/title/tt0110413/?ref_=nm_knf_i3). Sometimes I think that the movies in the 90s where so good. Léon is a great example why I often return to this thought.  
 - [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who unironically like "The Fast and the Furios XYZ".
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen.  
@@ -72,7 +79,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.  
 
-# Books
+## Books
   Sometimes I do read:
 
 - *Abelson (1995): Statistics As Principled Argument.* I wanted to like this book, but I could not. While I agree with the basic idea (i.e, that scientist statistics should use statistics as tools to strengthen their arguments), I disagree with many --- if not most --- of the provides rationales and examples. It is also written in a way that is much to self righteous.  
@@ -119,10 +126,10 @@ In the following you find some pretty random reviews of some pretty random thing
 - *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.  
 
 
-# Regisseurs
+## Regisseurs
 **10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Kar-Wai Wong, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
-# Toys
+## Toys
 - [Hanayama Cast Harmondy](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
 - [Hanayama Cast Coaster](https://hanayama-toys.com/product/cast-coaster/). This is a great puzzle that I do really use as a coiffure.
 - [Hanayama Castr Nutcase](https://hanayama-toys.com/product/cast-nutcase/). Actually simpler than the level would suggest. Very nice solution.
@@ -130,10 +137,10 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky!  
 
 
-# Reviewers
+## Reviewers
 Also reviewer can be reviewed.
 
-## From youtube
+### From Youtube
 - [James Hoffmann](https://youtu.be/tltBHjmIUJ0). Pretty much everything I ever wanted to know about coffee and much, much more. Each video is very well made, and each topic is presented in a light and enjoyable way.
 - [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
 - [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie). Thoughtful reviews of art-related stuff. Artbooks, papers, pens, digital drawing tools, etc.). Can recommend.
