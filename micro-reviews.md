@@ -7,7 +7,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and withouth knowledge of what to expect.  
 - [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
 - [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatyful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
-- [Logal Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
+- [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
 - [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so. 
 - [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
@@ -141,6 +141,7 @@ In the following you find some pretty random reviews of some pretty random thing
 Also reviewer can be reviewed.
 
 ### From Youtube
+- [Uri Tuchman](https://www.youtube.com/channel/UCHsqqRjziUaMwZgQZHw-n1w). Amazing artist and builder, also very funny videos. 
 - [James Hoffmann](https://youtu.be/tltBHjmIUJ0). Pretty much everything I ever wanted to know about coffee and much, much more. Each video is very well made, and each topic is presented in a light and enjoyable way.
 - [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
 - [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie). Thoughtful reviews of art-related stuff. Artbooks, papers, pens, digital drawing tools, etc.). Can recommend.
