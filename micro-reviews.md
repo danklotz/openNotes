@@ -83,51 +83,51 @@ In the following you find some pretty random reviews of some pretty random thing
 ## Books
 Sometimes I do read:
 
-- *Atkins (2020): Fake Love Letters, Forged Telegrams, and Prison Escape Maps: Designing Graphic Props for Filmmaking.* A joy to read. Has less content about Wes Anderson than I would have thought. It does however manage to build that into an advantage. 
-- *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
 - *Abelson (1995): Statistics As Principled Argument.* I wanted to like this book, but I could not. While I agree with the basic idea (i.e, that scientist statistics should use statistics as tools to strengthen their arguments), I disagree with many --- if not most --- of the provides rationales and examples. It is also written in a way that is much to self righteous.  
-- *Jean Jullien (2016): Modern Life.* A bit on the short side. Yet most pictures are small, self contained parables about modern life. The not-so good illustrations are still imaginative and drawn in a pleasant way.
-- *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
-- *Samir (2016): Philosophy of Science: A Very Short Introduction.* I liked it very much so. Very short, but well argued. Not sure how much prior knowledge is useful to enjoy the book.  
-- *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly of the right length for such a book.
+- *Atkins (2020): Fake Love Letters, Forged Telegrams, and Prison Escape Maps: Designing Graphic Props for Filmmaking.* A joy to read. Has less content about Wes Anderson than I would have thought. It does however manage to build that into an advantage. 
+- *Bakan (2005): The Corporation.* A pathological look at corporations. This is a good read.
+- *Bishop (2011): Pattern Recognition and Machine Learning.* Good for looking things up and getting a first notion of particular topics. Nice plots.
 - *Bitmap Books (2019): The Art of Point-and-Click Adventure Games.* A beautiful book. An easy read. A joyful dive into nostalgia. Not very meaty.
-- *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
+- *Bogle (2017): The Little Book of Common Sense Investing.* Had it recommended by a colleague. Not my pair of shoes.
 - *Burtynsky (2013): Water.* I have mixed feelings about this one. I think there could be more pictures in there. The accompanying texts could be more refined. Perhaps even poetic. They are not. However, the pictures are breathtaking. The overall concept is great. And, the book is as inspiring as I would have hoped.  
-- *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
-- *Taleb (2007): Fooled by Randomness.* A gem.
-- *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
-- *Page (2018) The Model Thinker.* Very enjoyable.
-- *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
+- *Cartwright (2020) Nature, the Artful Modeler.* Very interesting. Assumes some familiarity with the work of Cartwright.
+- *Childers (2013) Philosophy and Probability.* Very good book.
+- *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
+- *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
+- *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
+- *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
+- *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
+- *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
 - *Ende (1994) Zettelkasten.* Wow!
 - *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die illustrationen fand ich ein wenig zu plakativ.  
 - *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
-- *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
-- *Childers (2013) Philosophy and Probability.* Very good book.
-- *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit to long for the info that is provided*
-- *Le Carré (2019) Federball.* <3
-- *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
-- *[Singer (2020?) Shape Up](https://basecamp.com/shapeup).* Probably good if your into this kind of thing. I am not.
-- *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
-- *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
-- *Cartwright (2020) Nature, the Artful Modeler.* Very interesting. Assumes some familiarity with the work of Cartwright.
-- *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
-- *Spiegelthaler (2019): The Art of Statistics.* Well written. Explains a lot.
-- *Bogle (2017): The Little Book of Common Sense Investing.* Had it recommended by a colleague. Not my pair of shoes.
-- *Moore, Gibbons & Higgins (1987) Watchmen.* I don't like the style, but the story is breathtaking.
-- *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
-- *Gladwell (2008) Outliers.* Did not age particularly well. I enjoyed it back in the day tough.
 - *Foer (2011) Moonwalking with Einstein.* One of my favorite non-fiction books.
-- *Stigler (1990) The History of Statistics.* Great read. Very interesting.
-- *Goodfellow, Bengio % Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
-- *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
-- *MacKay (2003): Information Theory, Inference and Learning Algorithms.* Well written and interesting, but a bit to chaotic for my taste. Also I am not particularly interested in many topics.
-- *Bishop (2011): Pattern Recognition and Machine Learning.* Good for looking things up and getting a first notion of particular topics. Nice plots.
-- *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
+- *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
 - *Franklin (2001): The Science of Conjecture.* Scholarly tome about conjectures, evidence based decision making and probabilistic reasoning before the calculus of probability was invented. Hard to read, but very rich.
 - *Franklin (2009): What Science Knows: And How it Knows it.* Franklin is super smart, but this book is much to opinionated and on the nose for me. Overall it felt like a letdown after reading the "The Science of Conjecture". 
+- *Gladwell (2008) Outliers.* Did not age particularly well. I enjoyed it back in the day tough.
+- *Goodfellow, Bengio % Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
+- *Jean Jullien (2016): Modern Life.* A bit on the short side. Yet most pictures are small, self contained parables about modern life. The not-so good illustrations are still imaginative and drawn in a pleasant way.
+- *Le Carré (2019) Federball.* <3
 - *Klein (2002) No Logo.* A book that became bigger than itself. Actually OK.
-- *Bakan (2005): The Corporation.* A pathological look at corporations. This is a good read.
-- *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.  
+- *MacKay (2003): Information Theory, Inference and Learning Algorithms.* Well written and interesting, but a bit to chaotic for my taste. Also I am not particularly interested in many topics.
+- *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.
+- *Moore, Gibbons & Higgins (1987) Watchmen.* I don't like the style, but the story is breathtaking.  
+- *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
+- *Page (2018) The Model Thinker.* Very enjoyable.
+- *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly of the right length for such a book.
+- *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
+- *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
+- *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit to long for the info that is provided*.
+- *Samir (2016): Philosophy of Science: A Very Short Introduction.* I liked it very much so. Very short, but well argued. Not sure how much prior knowledge is useful to enjoy the book. 
+- *[Singer (2020?) Shape Up](https://basecamp.com/shapeup).* Probably good if your into this kind of thing. I am not. 
+- *Spiegelthaler (2019): The Art of Statistics.* Well written. Explains a lot.
+- *Stigler (1990) The History of Statistics.* Great read. Very interesting.
+- *Taleb (2007): Fooled by Randomness.* A gem.
+- *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
+- *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
+- *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
+- *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
 
 
 ## Regisseurs
