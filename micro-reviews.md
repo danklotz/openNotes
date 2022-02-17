@@ -4,6 +4,7 @@ In the following you find some pretty random reviews of some pretty random thing
 
 
 ## Moving Pictures
+- [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beatyful pictures, but overall it felt like a waste of time. 
 - [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and withouth knowledge of what to expect.  
 - [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
 - [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatyful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
@@ -80,8 +81,10 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.  
 
 ## Books
-  Sometimes I do read:
+Sometimes I do read:
 
+- *Atkins (2020): Fake Love Letters, Forged Telegrams, and Prison Escape Maps: Designing Graphic Props for Filmmaking.* A joy to read. Has less content about Wes Anderson than I would have thought. It does however manage to build that into an advantage. 
+- *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
 - *Abelson (1995): Statistics As Principled Argument.* I wanted to like this book, but I could not. While I agree with the basic idea (i.e, that scientist statistics should use statistics as tools to strengthen their arguments), I disagree with many --- if not most --- of the provides rationales and examples. It is also written in a way that is much to self righteous.  
 - *Jean Jullien (2016): Modern Life.* A bit on the short side. Yet most pictures are small, self contained parables about modern life. The not-so good illustrations are still imaginative and drawn in a pleasant way.
 - *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
@@ -121,6 +124,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - *Bishop (2011): Pattern Recognition and Machine Learning.* Good for looking things up and getting a first notion of particular topics. Nice plots.
 - *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
 - *Franklin (2001): The Science of Conjecture.* Scholarly tome about conjectures, evidence based decision making and probabilistic reasoning before the calculus of probability was invented. Hard to read, but very rich.
+- *Franklin (2009): What Science Knows: And How it Knows it.* Franklin is super smart, but this book is much to opinionated and on the nose for me. Overall it felt like a letdown after reading the "The Science of Conjecture". 
 - *Klein (2002) No Logo.* A book that became bigger than itself. Actually OK.
 - *Bakan (2005): The Corporation.* A pathological look at corporations. This is a good read.
 - *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.  
@@ -130,11 +134,13 @@ In the following you find some pretty random reviews of some pretty random thing
 **10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Kar-Wai Wong, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
 ## Toys
-- [Hanayama Cast Harmondy](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
+- [Hanayama Cast Box](https://hanayama-toys.com/product/cast-box/). More difficult than you think, but very nice solution. Enjoyed it a lot. 
+- [Hanayama Cast Harmony](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
 - [Hanayama Cast Coaster](https://hanayama-toys.com/product/cast-coaster/). This is a great puzzle that I do really use as a coiffure.
+- [Hanayama Cast Star](https://hanayama-toys.com/product/cast-star/). The puzzle looks better in reality than on the pictures. Feels quite nice. Took me quite long to figure out how it works.
 - [Hanayama Castr Nutcase](https://hanayama-toys.com/product/cast-nutcase/). Actually simpler than the level would suggest. Very nice solution.
 - [Hanayama Cast News](https://hanayama-toys.com/product/cast-news/). I only was able to solve this one out of pure luck while playing around with it. Took me then still some time to understand its mechanism. Very good puzzle, but quite advanced.
-- [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky!  
+- [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
 
 
 ## Reviewers
