@@ -134,6 +134,7 @@ Sometimes I do read:
 **10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Kar-Wai Wong, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
 ## Toys
+- [Hanayama Cast L’oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beatyful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
 - [Hanayama Cast Box](https://hanayama-toys.com/product/cast-box/). More difficult than you think, but very nice solution. Enjoyed it a lot. 
 - [Hanayama Cast Harmony](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
 - [Hanayama Cast Coaster](https://hanayama-toys.com/product/cast-coaster/). This is a great puzzle that I do really use as a coiffure.
