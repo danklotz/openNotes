@@ -4,6 +4,19 @@ In the following you find some pretty random reviews of some pretty random thing
 
 
 ## Moving Pictures
+- [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind off a feel-good movie with Will Smith, but I do not like the premise and the message. 
+- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. 
+- [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that. 
+- [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1). Wes Anderson at its best. This is just a great, great movie. 
+- [Morbius](https://www.imdb.com/title/tt5108870/?ref_=fn_al_tt_1). Mediocre movie: The setting is interesting, the Marvel tie-ins do not work for me, the ending is lame.  
+- [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=fn_al_tt_1). Does not work for me at all. 
+- [Kate](https://www.imdb.com/title/tt7737528/?ref_=fn_al_tt_1). Another woman-assassin movie. I think the movie is better than it's scores/reviews suggest. If you like this kind of movie, hard action and/or the Japanese setting I would recommend it. 
+- [Mortal Kombat, 2021](https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_19_pd_tp1_cp). The only thing I managed to like about this movie is the trailer.  
+- [Jungle Cruise](https://www.imdb.com/title/tt0870154/?ref_=hm_tpks_tt_i_1_pd_tp1_cp). Like "Pirates of the Caribbean" this movie about a Disneyworld themepark ride, but it fails to capture the magic of the setting.  
+- [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
+- [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
+- [The Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
+- [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with breathtaking pictures. 
 - [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but othen gets lost details and boring settings. Overall mediocre.  
 - [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beatyful pictures, but overall it felt like a waste of time. 
@@ -69,7 +82,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one.
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [Back to the Future ](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
-- [Big Fish ](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
+- [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=DCT5YV01C20Z2HCMK04R&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4). Very good movie. Maybe a bit overrated? Liked it a lot at first, but wouldn't watch it anymore (which is not a particularly good sign).
 - [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=tt_sims_tt). One of the movies that influenced me the most. Super good and unique.
 - [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
