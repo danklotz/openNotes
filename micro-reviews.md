@@ -19,7 +19,8 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
 - [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
 - [The Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
-- [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with breathtaking pictures. 
+- [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/?ref_=nm_knf_i4). A good movie with amazing cinematography.
+- [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography. 
 - [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but othen gets lost details and boring settings. Overall mediocre.  
 - [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beatyful pictures, but overall it felt like a waste of time. 
