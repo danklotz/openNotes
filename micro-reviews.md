@@ -2,6 +2,11 @@
 
 In the following you find some pretty random reviews of some pretty random things. Enjoy.
 
+Legend: 
+```
+    ⭐️ ... Emphasis to express how much i liked it.
+    🎭 ... Conditional recommendation ("if you are in this type of thing...") 
+```
 
 ## 🎟 Moving Pictures
 - [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com. 
@@ -24,11 +29,11 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but othen gets lost details and boring settings. Overall mediocre.  
 - [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beatyful pictures, but overall it felt like a waste of time. 
-- [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and withouth knowledge of what to expect.  
+- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and withouth knowledge of what to expect.  
 - [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
 - [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatyful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
 - [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
-- [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
+- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so. 
 - [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beatyful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
@@ -48,11 +53,11 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard too watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen.
 - [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). This is a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
 - [Kick-Ass](https://www.imdb.com/title/tt1250777/?ref_=nm_knf_i3). One of the better superhero movies.
-- [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Nonah Hill. And, Bill Hader steals the show.
+- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Nonah Hill. And, Bill Hader steals the show.
 - [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A good little zombie movie.
 - [Natural Born Kilelrs](https://www.imdb.com/title/tt0110632/?ref_=nm_knf_i3). Albeit the script is by Quetin Tarantino this movie has too much Oliver Stone in it for me.
 - [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
-- [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
+- ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
 - [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
@@ -61,8 +66,8 @@ In the following you find some pretty random reviews of some pretty random thing
 - [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
 - [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/?ref_=nv_sr_srsg_0). Almost complete trash. I just watched it because I was curious about how they realized the hacker-theme after watching Who am I.
 - [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
-- [Fanatstic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
-- [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nm_flmg_dr_4). A gem. And probably, my favorite Wes Anderson movie. The whole movie is polished to the max. The story is touching, intense and comical. The colors are great. The depiction of West Europe is perfect. I love it.
+- ⭐️ [Fanatstic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
+- ⭐️ [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nm_flmg_dr_4). A gem. And probably, my favorite Wes Anderson movie. The whole movie is polished to the max. The story is touching, intense and comical. The colors are great. The depiction of West Europe is perfect. I love it.
 - [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
 - [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I thus think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
 - [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
@@ -71,7 +76,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
-- [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.  
+- ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.  
 - [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
 - [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
 - [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
@@ -81,7 +86,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
-- [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
+- ⭐️ [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one.
@@ -96,7 +101,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [From Dusk till Dawn](https://www.imdb.com/title/tt0116367/?ref_=nm_flmg_wr_19). A uncut gem. I do enjoy the first part much more than the second. Nevertheless, I do appreciate the movie as a whole.
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
 - [Avengers: Endgame ](https://www.imdb.com/title/tt4154796/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=A32WGR8KNK73YPCB64F9&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_36). Please just stop.
-- [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.  
+- ⭐️ [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.  
 - [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.  
 
@@ -104,7 +109,7 @@ In the following you find some pretty random reviews of some pretty random thing
 Sometimes I do read:
 
 - *Abelson (1995): Statistics As Principled Argument.* I wanted to like this book, but I could not. While I agree with the basic idea (i.e, that scientist statistics should use statistics as tools to strengthen their arguments), I disagree with many --- if not most --- of the provides rationales and examples. It is also written in a way that is much to self righteous.  
-- *Atkins (2020): Fake Love Letters, Forged Telegrams, and Prison Escape Maps: Designing Graphic Props for Filmmaking.* A joy to read. Has less content about Wes Anderson than I would have thought. It does however manage to build that into an advantage. 
+- ⭐️ *Atkins (2020): Fake Love Letters, Forged Telegrams, and Prison Escape Maps: Designing Graphic Props for Filmmaking.* A joy to read. Has less content about Wes Anderson than I would have thought. It does however manage to build that into an advantage. 
 - *Bakan (2005): The Corporation.* A pathological look at corporations. This is a good read.
 - *Bishop (2011): Pattern Recognition and Machine Learning.* Good for looking things up and getting a first notion of particular topics. Nice plots.
 - *Bitmap Books (2019): The Art of Point-and-Click Adventure Games.* A beautiful book. An easy read. A joyful dive into nostalgia. Not very meaty.
@@ -114,28 +119,28 @@ Sometimes I do read:
 - *Childers (2013) Philosophy and Probability.* Very good book.
 - *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
 - *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
-- *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
+- ⭐️ *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
 - *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
 - *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
 - *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
-- *Ende (1994) Zettelkasten.* Wow!
+- ⭐️ *Ende (1994) Zettelkasten.* Wow!
 - *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die illustrationen fand ich ein wenig zu plakativ.  
-- *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
+- ⭐️ *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
 - *Foer (2011) Moonwalking with Einstein.* One of my favorite non-fiction books.
-- *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
+- ⭐️ *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
 - *Franklin (2001): The Science of Conjecture.* Scholarly tome about conjectures, evidence based decision making and probabilistic reasoning before the calculus of probability was invented. Hard to read, but very rich.
 - *Franklin (2009): What Science Knows: And How it Knows it.* Franklin is super smart, but this book is much to opinionated and on the nose for me. Overall it felt like a letdown after reading the "The Science of Conjecture". 
 - *Gladwell (2008) Outliers.* Did not age particularly well. I enjoyed it back in the day tough.
-- *Goodfellow, Bengio % Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
+- ⭐️ *Goodfellow, Bengio, & Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
 - *Jean Jullien (2016): Modern Life.* A bit on the short side. Yet most pictures are small, self contained parables about modern life. The not-so good illustrations are still imaginative and drawn in a pleasant way.
-- *Le Carré (2019) Federball.* <3
+- ⭐️ *Le Carré (2019) Federball.* <3
 - *Klein (2002) No Logo.* A book that became bigger than itself. Actually OK.
 - *MacKay (2003): Information Theory, Inference and Learning Algorithms.* Well written and interesting, but a bit to chaotic for my taste. Also I am not particularly interested in many topics.
 - *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.
 - *Moore, Gibbons & Higgins (1987) Watchmen.* I don't like the style, but the story is breathtaking.  
 - *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
 - *Page (2018) The Model Thinker.* Very enjoyable.
-- *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly of the right length for such a book.
+- ⭐️ *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly of the right length for such a book.
 - *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
 - *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
 - *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit to long for the info that is provided*.
@@ -143,8 +148,8 @@ Sometimes I do read:
 - *[Singer (2020?) Shape Up](https://basecamp.com/shapeup).* Probably good if your into this kind of thing. I am not. 
 - *Spiegelthaler (2019): The Art of Statistics.* Well written. Explains a lot.
 - *Stigler (1990) The History of Statistics.* Great read. Very interesting.
-- *Taleb (2007): Fooled by Randomness.* A gem.
-- *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
+- ⭐️ *Taleb (2007): Fooled by Randomness.* A gem.
+- ⭐️ *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
 - *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
 - *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
@@ -157,7 +162,7 @@ Sometimes I do read:
 - [Hanayama Cast Laby](https://hanayama-toys.com/product/cast-laby/). I do not know what a laby is, but the puzzle is nice. It contains two steps I did not expect and is designed in a very cool way. 
 - [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). Tthis puzzle might even be great if you enjoy the kind of solution. 
 - [Hanayama Cast Coil](https://hanayama-toys.com/product/cast-coil/). This one is easier than one would think at first. It looks very nice and I can see appreciate its deliberate design. However, I do not particularly enjoy this kind of puzzle. 
-- [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favourite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
+- ⭐️ [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favourite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
 - [Hanayama Cast L’oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beatyful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
 - [Hanayama Cast Box](https://hanayama-toys.com/product/cast-box/). More difficult than you think, but very nice solution. Enjoyed it a lot. 
 - [Hanayama Cast Harmony](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
@@ -168,13 +173,35 @@ Sometimes I do read:
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
 
 ## 🎪 Youtubes
-- [Uri Tuchman](https://www.youtube.com/channel/UCHsqqRjziUaMwZgQZHw-n1w). Amazing artist and builder, also very funny videos. 
-- [James Hoffmann](https://youtu.be/tltBHjmIUJ0). Pretty much everything I ever wanted to know about coffee and much, much more. Each video is very well made, and each topic is presented in a light and enjoyable way.
-- [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
-- [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie). Thoughtful reviews of art-related stuff. Artbooks, papers, pens, digital drawing tools, etc.). Can recommend.
-- [Marques Brownlee](https://www.youtube.com/c/mkbhd). Extremely well produced Youtube channel reviewing gadgets and other tech related products. For me it often feels too smooth. Sometimes too uncritical. In general goodish.   
+
+
+- 🎭 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). For me the best channel about (popular) math.
+- [3x3Custom - Tamar](https://www.youtube.com/c/3x3CustomTamar/videos). Interesting channel about woodworking. 
+- [AI Coffee Break with Letitia](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA). Perhaps my favorite channel for updates regarding trends in ML.
+- 🎭 [Archipel](https://www.youtube.com/channel/UC3zoY9LapZERsN7caDKqz0w). Very stylistic documentaries about japanese artists/creatives. Would recommend if you dig the aesthetics (I do). 
+- 🎭 [ARTGER](https://www.youtube.com/channel/UC_yXGNJDvXRd7041L8Gkw9g). Coolest way to learn about mongolian food and culture.
 - [Cinemassacre](https://www.youtube.com/AngryNintendoNerd). Game reviews and some movie stuff. The "angry video game nerd" was great back in the day. The whole channel is not what it one was. That is ok. That is time. The reviews you can find there are very personal and opinionated. Sometimes still funny. I would not probably not recommend the channel, but its definitely something to watch on a rainy day.
-- [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis). Probably the best game-reviewer on Youtube. Thoughtful, in-depth, long, and critical. Also the channel which gave me the idea to frame this note as micro reviews.
-- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw). Great overviews over Machine Learning topics and papers. I do not appreciate the shorter --- 2-5 minutes --- videos. The longer ones --- 15-30 minutes --- are quite nice however.
-- [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher). Best presenter of Machine Learning papers. Opinionated and smart. Must watch, there is a lot to learn here.
-- [The Art and Making of](https://www.youtube.com/channel/UCul0hqYdXADxADyoIku4p5g). Best reviewer of "the art of *xyz* books" and "making of *xyz* books" that I know of. Very opinionated and very thorough.
+- 🎭 [Du Salzane](https://www.youtube.com/channel/UCBvfIznyE2OVJdMcqfd_aLg). Very interestinf automata.
+- [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw). Meh. Ok overviews over Machine Learning topics and papers. I do not appreciate the shorter --- 2-5 minutes --- videos. The longer ones --- 15-30 minutes --- are quite nice however.
+- [History of Hydrology Interviews](https://www.youtube.com/channel/UCJvhzZ9wjcEJEnnnHyLoSZQ). Oldtimers talk about hydrology. Some of the interviews are interesting and some boring–but all of them are lengthy. 
+- 🎭 [HistoryofID • Matthew Bird](https://www.youtube.com/user/HistoryofID). Lectures about the history of industrial design. All of them are very well presented and super informative.  
+- [IARAI Research](https://www.youtube.com/channel/UClC7A82p47Nnj8ttU_COYeA). Channels with interesting (high level) lectures about AI. Good source for everyone who is already a bit deeper into the subject and wants to get a broad overview. 
+- [James Hoffmann](https://youtu.be/tltBHjmIUJ0). Pretty much everything I ever wanted to know about coffee and much, much more. Each video is very well made, and each topic is presented in a light and enjoyable way.
+- 🎭 [kazuaki harada](https://www.youtube.com/user/automatamaker/videos). I don't understand japanese, but the automata and contraptions are amazing. 
+- [Laura Kampf](https://www.youtube.com/c/laurakampf/featured). Builds something new every week and restores a house. Very interesting stuff if you like the style (I do). 
+- 🎭 [Lutèce Créations automatons](https://www.youtube.com/c/LutèceCréationsautomatons/videos). The best channel on classical automata that I know. 
+- [Marques Brownlee](https://www.youtube.com/c/mkbhd). I do not particularly like it. Extremely well produced Youtube channel reviewing gadgets and other tech related products. For me it often feels too smooth. Sometimes too uncritical. In general goodish. 
+- ⭐️ [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis). Probably the best game-reviewer on Youtube. Thoughtful, in-depth, long, and critical. Also the channel which gave me the idea to frame this note as micro reviews. 
+- [OskarPuzzle](https://www.youtube.com/user/OskarPuzzle). A puzzle maker on youtube discusses his puzzles and process. Very fascinating. 
+- 🎭 [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983). Slow and beatyful Japanese cooking at home. Very relaxing. 
+- ⭐️ [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
+- ⭐️ [Rose Anvil](https://www.youtube.com/channel/UCId9g4zlQ9BOn6fLKIt1Y0A). The best channel I found to learn about shoes and leather. Also cool if you want to see a lot of shoes cut in half. 
+- [Sabine Hossenfelder](https://www.youtube.com/user/peppermint78). Best science news channel I know. 
+- ⭐️ [ScienceOnline](https://www.youtube.com/c/ScienceOnline/videos). For a long time this was my favourite science channel on youtube. Sadly the creator died. May he rest in peace.
+- 🎭 [Sinnett Sticks](https://www.youtube.com/user/StinnettStickStudio). Some wood carving/stick making inspiration. I think one has to be in the right mood to enjoy it.  
+- [Suff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ). Funny DIY engineering projects. Inspirational, but not particularly educational. 
+- [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie). Thoughtful reviews of art-related stuff. Artbooks, papers, pens, digital drawing tools, etc.). Can recommend.
+- [Terry Barentsen](https://www.youtube.com/channel/UCHRUAMAzVUS_Szvxn55GXaQ). Amazing biking videos from crazy people.
+- ⭐️ [The Art and Making of](https://www.youtube.com/channel/UCul0hqYdXADxADyoIku4p5g). Best reviewer of "the art of *xyz* books" and "making of *xyz* books" that I know of. Very opinionated and very thorough. 
+- ⭐️ [Uri Tuchman](https://www.youtube.com/channel/UCHsqqRjziUaMwZgQZHw-n1w). Amazing artist and builder, also very funny videos.
+- ⭐️ [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher). Best presenter of Machine Learning papers. Opinionated and smart. Must watch, there is a lot to learn here.
