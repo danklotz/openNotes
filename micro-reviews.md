@@ -3,7 +3,10 @@
 In the following you find some pretty random reviews of some pretty random things. Enjoy.
 
 
-## Moving Pictures
+## 🎟 Moving Pictures
+- [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com. 
+- [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
+- [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies. 
 - [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind off a feel-good movie with Will Smith, but I do not like the premise and the message. 
 - [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that. 
@@ -79,6 +82,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
 - [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
+- [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one.
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [Back to the Future ](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
@@ -95,7 +99,7 @@ In the following you find some pretty random reviews of some pretty random thing
 - [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.  
 
-## Books
+## 📖 Books
 Sometimes I do read:
 
 - *Abelson (1995): Statistics As Principled Argument.* I wanted to like this book, but I could not. While I agree with the basic idea (i.e, that scientist statistics should use statistics as tools to strengthen their arguments), I disagree with many --- if not most --- of the provides rationales and examples. It is also written in a way that is much to self righteous.  
@@ -145,10 +149,14 @@ Sometimes I do read:
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
 
 
-## Regisseurs
-**10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Kar-Wai Wong, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
+## 🎬 Regisseurs
+**10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Wong Kar-Wai, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
-## Toys
+## 🧩 Toys
+- [Hanayama Cast Laby](https://hanayama-toys.com/product/cast-laby/). I do not know what a laby is, but the puzzle is nice. It contains two steps I did not expect and is designed in a very cool way. 
+- [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). Tthis puzzle might even be great if you enjoy the kind of solution. 
+- [Hanayama Cast Coil](https://hanayama-toys.com/product/cast-coil/). This one is easier than one would think at first. It looks very nice and I can see appreciate its deliberate design. However, I do not particularly enjoy this kind of puzzle. 
+- [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favourite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
 - [Hanayama Cast L’oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beatyful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
 - [Hanayama Cast Box](https://hanayama-toys.com/product/cast-box/). More difficult than you think, but very nice solution. Enjoyed it a lot. 
 - [Hanayama Cast Harmony](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
@@ -158,11 +166,7 @@ Sometimes I do read:
 - [Hanayama Cast News](https://hanayama-toys.com/product/cast-news/). I only was able to solve this one out of pure luck while playing around with it. Took me then still some time to understand its mechanism. Very good puzzle, but quite advanced.
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
 
-
-## Reviewers
-Also reviewer can be reviewed.
-
-### From Youtube
+## 🎪 Youtubes
 - [Uri Tuchman](https://www.youtube.com/channel/UCHsqqRjziUaMwZgQZHw-n1w). Amazing artist and builder, also very funny videos. 
 - [James Hoffmann](https://youtu.be/tltBHjmIUJ0). Pretty much everything I ever wanted to know about coffee and much, much more. Each video is very well made, and each topic is presented in a light and enjoyable way.
 - [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
