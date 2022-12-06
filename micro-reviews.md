@@ -9,6 +9,16 @@ Legend:
 ```
 
 ## 🎟 Moving Pictures
+- [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautyful eye candy. 
+- [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great.  
+- [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience. 
+- [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
+- [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching. 
+- [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Would recommend. 
+- [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Good asssassin movie mind candy. Nothing particularly memorably though. 
+- [Burf After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment. 
+- [O Brother, Where are Thou?](https://www.imdb.com/title/tt0190590/?ref_=nm_flmg_t_17_prd). Interesting journey through Southern USA: The songs are great, the pictures are stunning, the ideas are funny. 
+- ⭐️ [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And emensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com. 
 - [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
 - [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies. 
