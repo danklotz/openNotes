@@ -9,7 +9,17 @@ Legend:
 ```
 
 ## 🎟 Moving Pictures
-- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor of the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
+- []
+- [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy. 
+- [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of. 
+- [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold. 
+- [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it. 
+- [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
+- [Now You See Me](https://www.imdb.com/title/tt1670345/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). Making movies about magic/magicians is a great idea. I did not particularly like this one though. 
+- [Now You See Me 2](https://www.imdb.com/title/tt3110958/?ref_=tt_sims_tt_i_1). Like the first one, but worse.
+- [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.  
+- [John Wick 1-n](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1). Enjoyable mindless action that gets slightly worse with each iteration.
+- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
 - [Knives Out](https://www.imdb.com/title/tt8946378/). Genius crime movie. Overstylized, but in a very good way. 
 - [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=hm_fanfav_tt_t_5_pd_fp1). Funny assassin movie with lots and lots of action. Popcorn flick. Maybe a bit too involved at times.
 - [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/?ref_=nv_sr_srsg_1). Good, weird, and unconventional movie. Maybe not as good as everyone says, but definitely as weird and unconventional. 
@@ -73,6 +83,7 @@ Legend:
 - [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A good little zombie movie.
 - [Natural Born Killers](https://www.imdb.com/title/tt0110632/?ref_=nm_knf_i3). Albeit the script is by Quetin Tarantino this movie has too much Oliver Stone in it for me.
 - [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
+- [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much. 
 - ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
@@ -203,8 +214,10 @@ Sometimes I do read:
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
 
 ## 🎪 Youtubes
-
-
+- [Ralph Ammer](https://www.youtube.com/@ralphammer2/). I just love the way this guy does things. Everything is just very thoughtful, well prepared, and personal. I especially like the way he [writes](https://ralphammer.com).
+- [Adam Something](https://www.youtube.com/@AdamSomething). Very opinionated videos about city planning and transportation. I particularly like the way he deconstructs the grandeur of Musk & Co. 
+- [Italian Innovators](https://www.youtube.com/@ItalianInnovators/). Very interesting historical lectures about Italian design and innovations. Maybe a bit too biased at points.  
+- [Engineerguy](https://www.youtube.com/@engineerguyvideo/videos). Makes you fall in love with engineering (again). 
 - 🎭 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). For me the best channel about (popular) math.
 - [3x3Custom - Tamar](https://www.youtube.com/c/3x3CustomTamar/videos). Interesting channel about woodworking. 
 - [AI Coffee Break with Letitia](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA). Perhaps my favorite channel for updates regarding trends in ML.
