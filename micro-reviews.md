@@ -9,129 +9,172 @@ Legend:
 ```
 
 ## 🎟 Moving Pictures
-- []
-- [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy. 
-- [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of. 
-- [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold. 
-- [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it. 
-- [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
-- [Now You See Me](https://www.imdb.com/title/tt1670345/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). Making movies about magic/magicians is a great idea. I did not particularly like this one though. 
-- [Now You See Me 2](https://www.imdb.com/title/tt3110958/?ref_=tt_sims_tt_i_1). Like the first one, but worse.
-- [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.  
-- [John Wick 1-n](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1). Enjoyable mindless action that gets slightly worse with each iteration.
-- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
-- [Knives Out](https://www.imdb.com/title/tt8946378/). Genius crime movie. Overstylized, but in a very good way. 
-- [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=hm_fanfav_tt_t_5_pd_fp1). Funny assassin movie with lots and lots of action. Popcorn flick. Maybe a bit too involved at times.
-- [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/?ref_=nv_sr_srsg_1). Good, weird, and unconventional movie. Maybe not as good as everyone says, but definitely as weird and unconventional. 
-- [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times. 
-- [The Amazing Maurice](https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_1). I love the book so the movie has a bit of a disadvantage. Still a nice story, confidently told. Would have loved if it had a bit higher production values (especially in terms of lighting).
-- [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy. 
-- [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great.  
-- [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience. 
-- [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
-- [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching. 
-- [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Would recommend. 
-- [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though. 
-- [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment. 
-- [O Brother, Where are Thou?](https://www.imdb.com/title/tt0190590/?ref_=nm_flmg_t_17_prd). Interesting journey through Southern USA: The songs are great, the pictures are stunning, the ideas are funny. 
-- ⭐️ [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
-- [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com. 
-- [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
-- [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies. 
-- [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind-off a feel-good movie with Will Smith, but I do not like the premise and the message. 
-- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. 
-- [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that. 
-- [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1). Wes Anderson at its best. This is just a great, great movie. 
-- [Morbius](https://www.imdb.com/title/tt5108870/?ref_=fn_al_tt_1). Mediocre movie: The setting is interesting, the Marvel tie-ins do not work for me, the ending is lame.  
-- [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=fn_al_tt_1). Does not work for me at all. 
-- [Kate](https://www.imdb.com/title/tt7737528/?ref_=fn_al_tt_1). Another woman-assassin movie. I think the movie is better than it's scores/reviews suggest. If you like this kind of movie, hard action and/or the Japanese setting I would recommend it. 
-- [Mortal Kombat, 2021](https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_19_pd_tp1_cp). The only thing I managed to like about this movie is the trailer.  
-- [Jungle Cruise](https://www.imdb.com/title/tt0870154/?ref_=hm_tpks_tt_i_1_pd_tp1_cp). Like "Pirates of the Caribbean" this movie about a Disney theme park ride, but it fails to capture the magic of the setting.  
-- [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
-- [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
-- [The Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
-- [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/?ref_=nm_knf_i4). A good movie with amazing cinematography.
-- [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography. 
-- [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
-- [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but often gets lost details and boring settings. Overall mediocre.  
-- [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beatiful pictures, but overall it felt like a waste of time. 
-- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
-- [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
-- [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatiful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
-- [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
-- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
-- [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so. 
-- [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
-- [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beatyful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
-- [Léon: The Professional](https://www.imdb.com/title/tt0110413/?ref_=nm_knf_i3). Sometimes I think that the movies in the 90s where so good. Léon is a great example why I often return to this thought.  
-- [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who unironically like "The Fast and the Furios XYZ".
-- [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen.  
-- [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
-- [The Expendables 1, 2 & 3](https://www.imdb.com/title/tt1320253/?ref_=fn_al_tt_1). Meh.
-- [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). Difficult now to see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
-- [V for Vendetta](https://www.imdb.com/title/tt0434409/?ref_=tt_sims_tt). Matrix without the computers and political instead of transcendental philosophy. One of Natalie Portmans best roles. I can recommend the movie.  
-- [Cloak & Dagger](https://www.imdb.com/title/tt5614844/?ref_=nv_sr_srsg_0). At its best the series is mediocre, at its worst it is bad.  
-- [The Dark Crystal: Age of Resistance](https://www.imdb.com/title/tt6905542/?ref_=nm_flmg_act_6). This is an incredible unique and wonderful series. Please watch if you are not taken aback by the style and like fantasy.
-- [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). This is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
-- [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/?ref_=nm_flmg_dr_4). I know that a lot of people enjoyed this movie. I am not one of them.
-- [Fantastic Beasts and Where to Find Them](https://www.imdb.com/title/tt3183660/?ref_=nm_knf_i1). The visuals and settings are great. Everything else is forgettable, bland and boring.
-- [Kingsman: The Secret Service](https://www.imdb.com/title/tt2802144/?ref_=nm_knf_i2). A completely over the top action movie. If you can stomach this kind of movie --- which I do --- than its actually great.
-- [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen.
-- [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). This is a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
-- [Kick-Ass](https://www.imdb.com/title/tt1250777/?ref_=nm_knf_i3). One of the better superhero movies.
-- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
-- [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A good little zombie movie.
-- [Natural Born Killers](https://www.imdb.com/title/tt0110632/?ref_=nm_knf_i3). Albeit the script is by Quetin Tarantino this movie has too much Oliver Stone in it for me.
-- [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
-- [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much. 
-- ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
-- [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
-- [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
-- [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
-- [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
-- [Between Two Ferns: The Movie](https://www.imdb.com/title/tt9398640/?ref_=nm_flmg_act_5). I did like the old series on youtube. I do not like the flick.
-- [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
-- [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/?ref_=nv_sr_srsg_0). Almost complete trash. I just watched it because I was curious about how they realized the hacker-theme after watching Who am I.
-- [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
-- ⭐️ [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
-- ⭐️ [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nm_flmg_dr_4). A gem. And probably, my favorite Wes Anderson movie. The whole movie is polished to the max. The story is touching, intense and comical. The colors are great. The depiction of West Europe is perfect. I love it.
-- [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
-- [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I thus think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
-- [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
-- [Inception](https://www.imdb.com/title/tt1375666/?ref_=hm_fanfav_tt_15_pd_fp1). This movie gets a tumps up. I don't think it is as smart as everyone claims it is. Yet, Inception is clever and well made.
-- [Whatever Works](https://www.imdb.com/title/tt1178663/?ref_=nm_flmg_act_16). The movie works for me. One of the better Woody Allen movies. I am not sure about Larry David. It seems that he is not as funny as he normally is. But ok; good movie.
-- [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
-- [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
-- [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
-- ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.  
-- [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
-- [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
+- **#**
+- [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com.
 - [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
-- [King Arthur: Legend of the Sword](https://www.imdb.com/title/tt1972591/?ref_=nm_knf_i1). No. Please no! Nooooo!
+
+- **A**
 - [About Schmidt](https://www.imdb.com/title/tt0257360/?ref_=fn_al_tt_1). Better than I expected.
-- [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
-- [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
-- [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
+- [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
+- [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
+- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
+- [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
+- [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
+- [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
+- [Avengers: Endgame ](https://www.imdb.com/title/tt4154796/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=A32WGR8KNK73YPCB64F9&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_36). Please just stop.
+
+- **B**
+- [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.
+- [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). This is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
+- [Back to the Future ](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
+- [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
+- [Between Two Ferns: The Movie](https://www.imdb.com/title/tt9398640/?ref_=nm_flmg_act_5). I did like the old series on youtube. I do not like the flick.
+- ⭐️ [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
+- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. 
+- [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
+- [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Funny assassin movie with lots and lots of action. Popcorn flick. Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Maybe a bit too involved at times. Would recommend.
+- [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment.
+
+
+
+- **C**
+- [Cloak & Dagger](https://www.imdb.com/title/tt5614844/?ref_=nv_sr_srsg_0). At its best the series is mediocre, at its worst it is bad.
+- [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
+
+- **D**
+- [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/?ref_=nv_sr_srsg_0). Almost complete trash. I just watched it because I was curious about how they realized the hacker-theme after watching Who am I.
+- [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
+- [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography.
+- [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who unironically like "The Fast and the Furios XYZ".  
+
+- **E**
+- [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/?ref_=nv_sr_srsg_1). Good, weird, and unconventional movie. Maybe not as good as everyone says, but definitely as weird and unconventional.
+
+- **F**
+- [Fantastic Beasts and Where to Find Them](https://www.imdb.com/title/tt3183660/?ref_=nm_knf_i1). The visuals and settings are great. Everything else is forgettable, bland and boring.
+- [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/?ref_=nm_flmg_dr_4). I know that a lot of people enjoyed this movie. I am not one of them.
+- [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses.
+- ⭐️ [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
+- [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold.
+- ⭐️ [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
+- [From Dusk till Dawn](https://www.imdb.com/title/tt0116367/?ref_=nm_flmg_wr_19). A uncut gem. I do enjoy the first part much more than the second. Nevertheless, I do appreciate the movie as a whole.
+
+- **G**
+- [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
+- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
+- [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of.
+
+- **H**
+- [Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
+- [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
+- [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
+
+- **I**
+- [Inception](https://www.imdb.com/title/tt1375666/?ref_=hm_fanfav_tt_15_pd_fp1). This movie gets a tumps up. I don't think it is as smart as everyone claims it is. Yet, Inception is clever and well made.
+- [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
+
+- **J**
+- [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatiful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
+- [John Wick 1-n](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1). Enjoyable mindless action that gets slightly worse with each iteration.
+- [Jungle Cruise](https://www.imdb.com/title/tt0870154/?ref_=hm_tpks_tt_i_1_pd_tp1_cp). Like "Pirates of the Caribbean" this movie about a Disney theme park ride, but it fails to capture the magic of the setting.
+
+- **K**
+- [Kate](https://www.imdb.com/title/tt7737528/?ref_=fn_al_tt_1). Another woman-assassin movie. I think the movie is better than it's scores/reviews suggest. If you like this kind of movie, hard action and/or the Japanese setting I would recommend it.
+- [Kick-Ass](https://www.imdb.com/title/tt1250777/?ref_=nm_knf_i3). One of the better superhero movies.
+- [King Arthur: Legend of the Sword](https://www.imdb.com/title/tt1972591/?ref_=nm_knf_i1). No. Please no! Nooooo!
+- [Kingsman: The Secret Service](https://www.imdb.com/title/tt2802144/?ref_=nm_knf_i2). A completely over the top action movie. If you can stomach this kind of movie --- which I do --- than its actually great.
+- [Knives Out](https://www.imdb.com/title/tt8946378/). Genius crime movie. Overstylized, but in a very good way. 
+
+- **L**
+- [Léon: The Professional](https://www.imdb.com/title/tt0110413/?ref_=nm_knf_i3). Sometimes I think that the movies in the 90s where so good. Léon is a great example why I often return to this thought. 
+- [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
+- [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
+
+- **M**
+- [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
+- [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
+- [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
+- ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.  
+- [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but often gets lost details and boring settings. Overall mediocre.
+- [Morbius](https://www.imdb.com/title/tt5108870/?ref_=fn_al_tt_1). Mediocre movie: The setting is interesting, the Marvel tie-ins do not work for me, the ending is lame. 
+- [Mortal Kombat, 2021](https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_19_pd_tp1_cp). The only thing I managed to like about this movie is the trailer.
+- [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/?ref_=nm_knf_i4). A good movie with amazing cinematography.
+
+- **N** 
+- [Natural Born Killers](https://www.imdb.com/title/tt0110632/?ref_=nm_knf_i3). Albeit the script is by Quentin Tarantino this movie has too much Oliver Stone in it for me.
+- [Now You See Me](https://www.imdb.com/title/tt1670345/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). Making movies about magic/magicians is a great idea. I did not particularly like this one though.
+- [Now You See Me 2](https://www.imdb.com/title/tt3110958/?ref_=tt_sims_tt_i_1). Like the first one, but worse.
+
+- **O**
+- [O Brother, Where are Thou?](https://www.imdb.com/title/tt0190590/?ref_=nm_flmg_t_17_prd). Interesting journey through Southern USA: The songs are great, the pictures are stunning, the ideas are funny.
+- [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). This is a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
+- [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
+- [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much.
+
+- **P**
+- [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
+- [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
+- [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
+
+- **R**
+- [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
+- [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
+- [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that. 
+
+- **S**
+- [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind-off a feel-good movie with Will Smith, but I do not like the premise and the message.
+- [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
+- [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy. 
+- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
+- [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies.
+- [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one. 
+- [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
+
+- **T**
+- [The Amazing Maurice](https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_1). I love the book so the movie has a bit of a disadvantage. Still a nice story, confidently told. Would have loved if it had a bit higher production values (especially in terms of lighting).
+- [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
+- ⭐️ [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - ⭐️ [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
-- [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one.
-- [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
-- [Back to the Future ](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
-- [Wednesday](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_t_2_pd_fp1). Mediocre story, but: intriguing setting, good acting, amazing aesthetics.
-- [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
+- [The Dark Crystal: Age of Resistance](https://www.imdb.com/title/tt6905542/?ref_=nm_flmg_act_6). This is an incredible unique and wonderful series. Please watch if you are not taken aback by the style and like fantasy.
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=DCT5YV01C20Z2HCMK04R&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4). Very good movie. Maybe a bit overrated? Liked it a lot at first, but wouldn't watch it anymore (which is not a particularly good sign).
-- [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=tt_sims_tt). One of the movies that influenced me the most. Super good and unique.
-- [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
-- [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
-- [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it.
-- [From Dusk till Dawn](https://www.imdb.com/title/tt0116367/?ref_=nm_flmg_wr_19). A uncut gem. I do enjoy the first part much more than the second. Nevertheless, I do appreciate the movie as a whole.
-- [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
-- [Avengers: Endgame ](https://www.imdb.com/title/tt4154796/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=A32WGR8KNK73YPCB64F9&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_36). Please just stop.
-- ⭐️ [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.  
+- [The Expendables 1, 2 & 3](https://www.imdb.com/title/tt1320253/?ref_=fn_al_tt_1). Meh.
+- ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
 - [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
-- [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.  
+- ⭐️ [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nm_flmg_dr_4). A gem. And probably, my favorite Wes Anderson movie. The whole movie is polished to the max. The story is touching, intense and comical. The colors are great. The depiction of West Europe is perfect. I love it.
+- [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beautiful pictures, but overall it felt like a waste of time.
+- [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1). Wes Anderson at its best. This is just a great, great movie.
+- [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
+- [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). Difficult now to see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
+- [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
+- [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great. 
+- [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
+- [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
+- [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.
+- [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
+- [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
+- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
+- [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great. 
+- [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
+- [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
+
+- **V**
+- [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it.
+- [V for Vendetta](https://www.imdb.com/title/tt0434409/?ref_=tt_sims_tt). Matrix without the computers and political instead of transcendental philosophy. One of Natalie Portmans best roles. I can recommend the movie.
+
+- **W**
+- [Wednesday](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_t_2_pd_fp1). Mediocre story, but: intriguing setting, good acting, amazing aesthetics.
+- [Whatever Works](https://www.imdb.com/title/tt1178663/?ref_=nm_flmg_act_16). The movie works for me. One of the better Woody Allen movies. I am not sure about Larry David. It seems that he is not as funny as he normally is. But ok; good movie.
+- [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
+- [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy.
+- [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I thus think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
+- [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
+- [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
+ 
+**Z**
+- [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A good little zombie movie. 
 
 ## 📖 Books
 Sometimes I do read:
