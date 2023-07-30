@@ -17,7 +17,8 @@ Legend:
 - [About Schmidt](https://www.imdb.com/title/tt0257360/?ref_=fn_al_tt_1). Better than I expected.
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
-- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away. 
+- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
+- [Asteroid City](https://www.imdb.com/title/tt14230388/?ref_=nv_sr_srsg_3_tt_6_nm_2_q_wes%2520anderson). For me this is great movie about creativity, invention, and movie making. It is not as good as *The French Dispatch* --- which is similar in many ways and I love --- or as inspiring as *Paterson* --- which is a very different movie about creativity that I love. So, not the best of its kind, but still very worthwhile. 
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
 - [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
@@ -54,16 +55,18 @@ Legend:
 - **F**
 - [Fantastic Beasts and Where to Find Them](https://www.imdb.com/title/tt3183660/?ref_=nm_knf_i1). The visuals and settings are great. Everything else is forgettable, bland and boring.
 - [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/?ref_=nm_flmg_dr_4). I know that a lot of people enjoyed this movie. I am not one of them.
-- [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses.
+- [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - ⭐️ [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
 - [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold.
 - ⭐️ [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
+- ⭐️ [French Dispatch](https://www.imdb.com/title/tt8847712/?ref_=nm_flmg_t_3_wr). This movie is basically a love letter to the New Yorkers and its quirky style and people. But, everything is French and has a Wes Anderson touch. I love it. 
 - [From Dusk till Dawn](https://www.imdb.com/title/tt0116367/?ref_=nm_flmg_wr_19). A uncut gem. I do enjoy the first part much more than the second. Nevertheless, I do appreciate the movie as a whole.
 
 - **G**
 - [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
 - [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
 - [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of.
+- [Guardians of the Galaxy: Vol. 3](https://www.imdb.com/title/tt6791350/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_guardians%2520o). I liked the first one, found the second one boring and love the third one. This is a really great end to the series (and for me the last superhero movie I will watch in a long time).
 
 - **H**
 - [Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
@@ -75,8 +78,8 @@ Legend:
 - [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
 
 - **J**
-- [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beatiful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
-- [John Wick 1-n](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1). Enjoyable mindless action that gets slightly worse with each iteration.
+- [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beautiful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
+- [John Wick 1-4](https://www.imdb.com/title/tt2911666/?ref_=fn_al_tt_1). Enjoyable mindless action. From the first to thirds the movies get slightly worse, but the 4th manages to be a class of its own (different, but as good as "numero uno"). All of them are visual spectacles with little thought for story. The first is story-wise the best (what ever that means), and the last is the most visual stunning/best choreographed. 
 - [Jungle Cruise](https://www.imdb.com/title/tt0870154/?ref_=hm_tpks_tt_i_1_pd_tp1_cp). Like "Pirates of the Caribbean" this movie about a Disney theme park ride, but it fails to capture the magic of the setting.
 
 - **K**
@@ -113,9 +116,10 @@ Legend:
 - [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much.
 
 - **P**
-- [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
+- ⭐️ [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
+- [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
 
 - **R**
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
@@ -220,14 +224,14 @@ Sometimes I do read:
 - ⭐️ *Le Carré (2019) Federball.* <3
 - *Klein (2002) No Logo.* A book that became bigger than itself. Actually OK.
 - *MacKay (2003): Information Theory, Inference and Learning Algorithms.* Well written and interesting, but a bit to chaotic for my taste. Also I am not particularly interested in many topics.
-- *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the sotry baords.
+- *Miyazaki (2005): The Art of Howl's Moving Castle.* A beautiful art-book for a beautiful movie. Text is used only sparingly, but when it is insightful. The quality of the pictures is great. I love the story boards.
 - *Moore, Gibbons & Higgins (1987) Watchmen.* I don't like the style, but the story is breathtaking.  
 - *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
 - *Page (2018) The Model Thinker.* Very enjoyable.
-- ⭐️ *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly of the right length for such a book.
+- ⭐️ *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly the right length for such a book.
 - *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
 - *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
-- *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit to long for the info that is provided*.
+- *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit too long for the info that is provided*.
 - *Samir (2016): Philosophy of Science: A Very Short Introduction.* I liked it very much so. Very short, but well argued. Not sure how much prior knowledge is useful to enjoy the book. 
 - *[Singer (2020?) Shape Up](https://basecamp.com/shapeup).* Probably good if your into this kind of thing. I am not. 
 - *Spiegelthaler (2019): The Art of Statistics.* Well written. Explains a lot.
@@ -237,6 +241,10 @@ Sometimes I do read:
 - *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
 - *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
+- *Ekeland & Étienne (2021): Der Zufall (Die Comic-Bibliothek des Wissens).* Tolle Illustrationen, aber ohne Vorwissen ist der Inhalt zu spartanisch rübergebracht. Manche der Bilder und Beispiele sind gut, aber insgesamt ist alles zu wenig ausgeführt. 
+- ⭐️ *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
+- ⭐️ *Cartwright (2022): A Philosopher Looks at Science.* This is a great book. I think it is a good overview of Nancy Cartwrights ideas, albeit maybe not the best book to start. Still, it is very clearly written --- not complicated at all --- and in that sense much easier to read than some of her other books. I also like the illustrations. 
+- *Cartwright et al. (2023): The Tangle of Science.*  Its a good book (albeit the print quality is quite bad). For me it is, however, largely superseded by Cartwrights *A Philosopher Looks at Science* 
 
 
 ## 🎬 Regisseurs
