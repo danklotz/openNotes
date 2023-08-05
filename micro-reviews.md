@@ -183,15 +183,16 @@ Legend:
 ## 📖 Books
 Sometimes I do read:
 
-- *Lenhard (2019): Calculated Surprises.* TK
-- *Morini (2014): Il rischio.* TK
-- *Kosko (1994): Fuzzy Thinking: The New Science of Fuzzy Logic.* TK
-- *Kosko (2006): Noise.* TK
-- *Contino (2018): Brand by Hand.* TK
-- *Snicket (2021): Poison for Breakfast.* TK 
-- *Briggs (1990): Turbulent Mirror.* TK
-- *Abraham & Shaw (2016): Dynamics.* TK
-- *MDHR (2020): The Art of Cuphead.* TK
+- *Hammack (2023): The Thing We Make.* This is a great little book that tries to pinpoint the definition of engineering.
+- *Lenhard (2019): Calculated Surprises.* There where too many errors in the explanation of Neural Networks so I stoped reading. 
+- *Morini (2014): Il rischio.* Italian booklet about risk from a philosophical standpoint. Very interesting. 
+- *Kosko (1994): Fuzzy Thinking: The New Science of Fuzzy Logic.* Interesting to see how Kosko saw the role of fuzzy logic during its prime time (maybe a bit later already?). 
+- *Kosko (2006): Noise.* This is a very cool book with a quite unique perspective of noise. Easy to read and yet very deep, albeit some aspects are maybe a bit outdated.
+- *Contino (2018): Brand by Hand.* Beatyful book. The text-part is so so, but the artworks and the overall design is great. 
+- *Snicket (2021): Poison for Breakfast.* Great little meditation about writing.  
+- *Briggs (1990): Turbulent Mirror.* One of these 80s-90s book when everyone thought chaos theory is the greatest thing ever. The book is better than I expected. Very enjoyable. I very much liked the mirror metaphor. 
+- *Abraham & Shaw (2016): Dynamics.* Great, great book about visualizing dynamical systems. Has many intuitions and (almost) none of the math. Great
+- *MDHR (2020): The Art of Cuphead.* If you like the stile this book is perfect. One of the richest art--books I know. 
 - *Bradshaw (2017): The Trainable Cat.* Very informative book about cats (and how to train them). Geared towards cat owners, but I others also would find it interesting.
 - *Narayanamurti & Tsao (2021): The Genesis of Technoscientific Revolutions - Rethinking the Nature and Nurture of Research.* The book is better than its title. It starts strong but got boring for me quite quickly. The info about Xerox was great, but overall I had the feeling that it was more a series of blog posts than a fully developed book.
 - *Bertoloni (2019): Mechanism.* A very interesting book, by an extremely knowledgable author. Even tough I am not particularly interested in medicine (and its history) I still found the exposition compelling. 
@@ -229,7 +230,7 @@ Sometimes I do read:
 - *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
 - *Page (2018) The Model Thinker.* Very enjoyable.
 - ⭐️ *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly the right length for such a book.
-- *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessaite some backtracking trough the short booklet).  
+- *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessitate some backtracking trough the short booklet).  
 - *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
 - *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit too long for the info that is provided*.
 - *Samir (2016): Philosophy of Science: A Very Short Introduction.* I liked it very much so. Very short, but well argued. Not sure how much prior knowledge is useful to enjoy the book. 
@@ -251,6 +252,7 @@ Sometimes I do read:
 **10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Wong Kar-Wai, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
 ## 🧩 Toys
+- [Hanayama Cast Trinity](https://hanayama-toys.com/product/cast-trinity/). Difficult, but doable. For me this is right at the limit where these kind puzzles still make fun (a bit more difficult, like the Quartet, and it would become aggregating). 
 - [Hanayama Cast Laby](https://hanayama-toys.com/product/cast-laby/). I do not know what a laby is, but the puzzle is nice. It contains two steps I did not expect and is designed in a very cool way. 
 - [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). Tthis puzzle might even be great if you enjoy the kind of solution. 
 - [Hanayama Cast Coil](https://hanayama-toys.com/product/cast-coil/). This one is easier than one would think at first. It looks very nice and I can see appreciate its deliberate design. However, I do not particularly enjoy this kind of puzzle. 
