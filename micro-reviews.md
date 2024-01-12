@@ -141,6 +141,7 @@ Legend:
 
 - **O**
 - [O Brother, Where are Thou?](https://www.imdb.com/title/tt0190590/?ref_=nm_flmg_t_17_prd). Interesting journey through Southern USA: The songs are great, the pictures are stunning, the ideas are funny.
+- [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
 - [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). This is a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
 - [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
 - [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much.
@@ -148,13 +149,15 @@ Legend:
 - **P**
 - ⭐️ [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
+- [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
 - [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
 
 - **R**
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
-- [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that. 
+- [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
+- [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie. 
 
 - **S**
 - [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_see%2520h). Well made, mellow movie with some ok jokes and an ok plot. I realy wanted to like it more. 
@@ -169,13 +172,7 @@ Legend:
 - [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
 
 - **T**
-- [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
-- [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
-- [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.
 - [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
-- [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
-- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
-- [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
 - [Triangle of Sadness](https://www.imdb.com/title/tt7322224/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_triangle%2520of). Very enjoyable movie. I heard that many did not like it because it supposedly is an overly cynical take on rich people, but I did like it.
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
@@ -183,6 +180,7 @@ Legend:
 
 - **V**
 - [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it.
+- [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
 - [V for Vendetta](https://www.imdb.com/title/tt0434409/?ref_=tt_sims_tt). Matrix without the computers and political instead of transcendental philosophy. One of Natalie Portmans best roles. I can recommend the movie.
 
 - **W**
@@ -192,7 +190,9 @@ Legend:
 - [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy.
 - [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I thus think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
 - [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
+- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
 - [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
+- [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great. 
  
 **Z**
 - [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A good little zombie movie. 
