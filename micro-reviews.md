@@ -133,12 +133,12 @@ Legend:
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
 - [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
 - ⭐️[Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
-- [The menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoable if you can stomack the violence. Recommendation.
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). Difficult now to see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
+- [The menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
 - [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
-- [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great.
 - ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.
+- [Minority Report](https://www.imdb.com/title/tt0181689/?ref_=nmls_mkdn). This is a cool action/sci-fi movie. It explores what societies would do with very good prediction machines --- which, I think, is still interesting to think about today. 
 - [Mission Impossible](https://www.imdb.com/title/tt0117060/?ref_=nv_sr_srsg_4_tt_7_nm_0_q_mission%2520impossible). This is a very good action movie. It is super well structured, looks gorgeous, and there is always the right amount of tension there. Alas, it gave brid a whole series of not-so-good follow ups. 
 - [Mission Impossible: Dead Reckoning Part One](https://www.imdb.com/title/tt9603212/?ref_=hm_fanfav_tt_t_18_pd_fp1_r). I cannot believe that I am writing this, but this is actually a good action movie. I the almost 3 hours run time I never felt bored. As strange as it sounds, but I am now looking forward to see the next part. 
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but often gets lost details and boring settings. Overall mediocre.
@@ -149,6 +149,7 @@ Legend:
 - **N** 
 - [Natural Born Killers](https://www.imdb.com/title/tt0110632/?ref_=nm_knf_i3). Albeit the script is by Quentin Tarantino this movie has too much Oliver Stone in it for me.
 - [Nacho Libre](https://www.imdb.com/title/tt0457510/?ref_=nm_flmg_t_11_dr). A meditative movie about the importance of doing what you love, even if your not good at it. The movie is very quirky and special so I think its not for everyone. The humor is okaish, but the overall somethings off. All in all I really enjoyed it.  
+- [The Nice Guys](https://www.imdb.com/title/tt3799694/?ref_=tt_sims_tt_i_1). This is a great movie that a lot of time draws its comedic elements from reality. Which is great. Also the 70s feeling are just great.
 - [Now You See Me](https://www.imdb.com/title/tt1670345/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). Making movies about magic/magicians is a great idea. I did not particularly like this one though.
 - [Now You See Me 2](https://www.imdb.com/title/tt3110958/?ref_=tt_sims_tt_i_1). Like the first one, but worse.
 
@@ -159,6 +160,7 @@ Legend:
 - [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
 - [On the Road](https://www.imdb.com/title/tt0337692/?ref_=nm_flmg_t_34_act). I did not understand this movie and I did not like the vibe. 
 - [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much.
+- [Our Flag means Death (S1 & S2)](https://www.imdb.com/title/tt11000902/?ref_=tt_ov_inf). Ok. This series starts very interesting, but burns out during the second half of the first season. That said, albeit there sadly also exists a whole second season, it never gets too bad. 
 
 - **P**
 - ⭐️ [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
