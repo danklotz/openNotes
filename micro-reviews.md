@@ -10,6 +10,7 @@ Legend:
 
 ## 🎟 Moving Pictures
 - **#**
+- [21 Jumps Street](https://www.imdb.com/title/tt1232829/?ref_=nm_knf_t_4). I did not enjoy this, depsite generally liking Jonah Hill. 
 - [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com.
 - [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
 
@@ -101,7 +102,7 @@ Legend:
 
 - **I**
 - [I am Legend](https://www.imdb.com/title/tt0480249/?ref_=nm_knf_t_1). This movie was better than I expected: Not great, but good mind candy. 
-- [Inception](https://www.imdb.com/title/tt1375666/?ref_=hm_fanfav_tt_15_pd_fp1). This movie gets a tumps up. I don't think it is as smart as everyone claims it is. Yet, Inception is clever and well made.
+- [Inception](https://www.imdb.com/title/tt1375666/?ref_=hm_fanfav_tt_15_pd_fp1). This movie gets a tumps up. I loved this movie when I first watched it, but over (and rewatching it more often) I became a bit skeptical. I don't think it is as smart as everyone claims it is. Yet, Inception is clever, well made, and the acting is splendid
 - [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
 
 - **J**
@@ -126,7 +127,8 @@ Legend:
 - [Léon: The Professional](https://www.imdb.com/title/tt0110413/?ref_=nm_knf_i3). Sometimes I think that the movies in the 90s where so good. Léon is a great example why I often return to this thought.
 - [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1). Wes Anderson at its best. This is just a great, great movie.
 - [Little Miss Sunshine](https://www.imdb.com/title/tt0449059/?ref_=tt_sims_tt_i_7). This is a enjoyable little road movie with the right amount of jokes, development, and societal criticism. Just a good movie. 
-- [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.  
+- [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.
+- [Looper](https://www.imdb.com/title/tt1276104/?ref_=nm_knf_t_2). This is a nice action movie. It could have been much better if they would have invested a bit more time in the story, but well... It i what it is. 
 - [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
 
 - **M**
@@ -192,6 +194,8 @@ Legend:
 - [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
 
 - **T**
+- [Taxi](https://www.imdb.com/title/tt0152930/?ref_=nm_flmg_t_82_act). One of the action comedies that [Luc Besson](https://www.imdb.com/name/nm0000108/?ref_=tt_ov_wr) championed to build up the French action cinema (I thin?). The movie is funny and light hearted. Good candy to waste your time with. 
+- [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other seuqels where necessary, but I will not complain.
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
 - [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
