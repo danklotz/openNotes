@@ -31,7 +31,7 @@ Legend:
 - **B**
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.
 - [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). This is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
-- [Back to the Future ](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
+- ⭐️ [Back to the Future I to III](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
 - [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
 - [The Bear, S1](https://www.imdb.com/title/tt14452776/episodes/?ref_=tt_eps_sm). One of the finest tv series I have ever seen. If you are not put of by the cooking/restaurant theme a must watch. Truly incredible.
 - [The Bear, S2](https://www.imdb.com/title/tt14452776/episodes/?season=2). A master piece. I would say that the overall plot is constructed worse than then the one for S1, but some of individual episodes are even better. Definitely a highlight.
@@ -98,7 +98,9 @@ Legend:
 - **H**
 - [Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
 - [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
+- [The Hobbit 1 to 3](https://www.imdb.com/title/tt0903624/?ref_=tt_sims_tt_i_6). A cynical copy of the LOD formula without the heart and the story. I did like universe beforehand, but by the time the third Hobbit movie came I had no love for the franchise anymore. Sad.
 - ⭐️ [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
+- [House](https://www.imdb.com/title/tt0412142/?ref_=nm_knf_t_1). I think I would not watch this series anymore and it definitely has to many seasons. That said, back in the days I loved this take on the Sherlock Homes formula- Therefore, I still have a warm place for it in my heart. 
 
 - **I**
 - [I am Legend](https://www.imdb.com/title/tt0480249/?ref_=nm_knf_t_1). This movie was better than I expected: Not great, but good mind candy. 
@@ -129,6 +131,7 @@ Legend:
 - [Little Miss Sunshine](https://www.imdb.com/title/tt0449059/?ref_=tt_sims_tt_i_7). This is a enjoyable little road movie with the right amount of jokes, development, and societal criticism. Just a good movie. 
 - [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.
 - [Looper](https://www.imdb.com/title/tt1276104/?ref_=nm_knf_t_2). This is a nice action movie. It could have been much better if they would have invested a bit more time in the story, but well... It i what it is. 
+- [Lord of the Rings 1 to 3](https://www.imdb.com/title/tt0120737/?ref_=tt_sims_tt_i_11). The prototypical fantasy movies. If you like the universe then these movies are fascinating --- else do not watch since they are long. I happen to like it. 
 - [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
 
 - **M**
@@ -176,11 +179,13 @@ Legend:
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
+- [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me. 
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie. 
 
 - **S**
 - ⭐️ [The Secret of Kells](https://www.imdb.com/title/tt0485601/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_secrets%2520of%2520kel). This is a wonderful animation movie. It is worth watching it just for the art style alone. 
-- [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_see%2520h). Well made, mellow movie with some ok jokes and an ok plot. I realy wanted to like it more. 
+- [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_see%2520h). Well made, mellow movie with some ok jokes and an ok plot. I really wanted to like it more. 
+- [Seven](https://www.imdb.com/title/tt0114369/?ref_=tt_sims_tt_i_7). This is a very good crime/suspension movie. It is also one of these amazing movies of the 90s that only rarely come out these days and made [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr) a household name.  
 - [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind-off a feel-good movie with Will Smith, but I do not like the premise and the message.
 - [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
 - [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=hm_tpks_tt_i_2_pd_tp1_pbr_ic). Very good TV series, that probably should not have had 3 seasons. I especially season 1.
