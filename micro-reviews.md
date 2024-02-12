@@ -43,7 +43,7 @@ Legend:
 - ⭐️ [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
-- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. 
+- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
 - [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
 - [The Breakfast Club](https://www.imdb.com/title/tt0088847/?ref_=tt_tpks_tt_i_13_pd_detail_2_pbr_ic). Its probably because I have seen this movie when I was very young, but I just love it. 
 - [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Funny assassin movie with lots and lots of action. Popcorn flick. Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Maybe a bit too involved at times. Would recommend.
@@ -96,6 +96,7 @@ Legend:
 - [Guardians of the Galaxy: Vol. 3](https://www.imdb.com/title/tt6791350/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_guardians%2520o). I liked the first one, found the second one boring and love the third one. This is a really great end to the series (and for me the last superhero movie I will watch in a long time).
 
 - **H**
+- [Hero](https://www.imdb.com/title/tt0299977/?ref_=ttls_li_tt). This is one of the movies that made me fall in love with cinema. It is Chinese Kungfu movie, and also has some problematic political undertones. So, I think its not for everyone. However, if one is not too put off be these things one gets rewarded with extremely pleasing visuals. 
 - [Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
 - [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
 - [The Hobbit 1 to 3](https://www.imdb.com/title/tt0903624/?ref_=tt_sims_tt_i_6). A cynical copy of the LOD formula without the heart and the story. I did like universe beforehand, but by the time the third Hobbit movie came I had no love for the franchise anymore. Sad.
@@ -128,6 +129,7 @@ Legend:
 - [The Legend of Drunken Master](https://www.imdb.com/title/tt0111512/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_drunken%2520master%25202). I think this is one of the last kong fu movies (I know that strictly speaking that is not the right genre, but I do not care) of Jackie Chan. And boy, is it a good movie. I think it is one of the best Jackie Chan movies --- maybe even the best. 
 - [Léon: The Professional](https://www.imdb.com/title/tt0110413/?ref_=nm_knf_i3). Sometimes I think that the movies in the 90s where so good. Léon is a great example why I often return to this thought.
 - [The Life Aquatic with Steve Zissou](https://www.imdb.com/title/tt0362270/?ref_=fn_al_tt_1). Wes Anderson at its best. This is just a great, great movie.
+- [Life of Pi](https://www.imdb.com/title/tt0454876/?ref_=ttls_li_tt). The actual movie is great, but it has a bad aftertaste for me since (a) it is one of “those movies” where they manage to not pay the CFG people by using [dirty tricks](https://www.youtube.com/watch?v=9lcB9u-9mVE) and (b) there is a whole animal mistreatment controversy surrounding it. For me it just a tadd to cynical that a positive, life-affirming movie like this got such things going on behind the scenes... 
 - [Little Miss Sunshine](https://www.imdb.com/title/tt0449059/?ref_=tt_sims_tt_i_7). This is a enjoyable little road movie with the right amount of jokes, development, and societal criticism. Just a good movie. 
 - [Logan Lucky](https://www.imdb.com/title/tt5439796/?ref_=nv_sr_srsg_0). This is one of the best heist movies out there. It has it all: Funny, witty, thoughtful, super satisfying conclusion.
 - [Looper](https://www.imdb.com/title/tt1276104/?ref_=nm_knf_t_2). This is a nice action movie. It could have been much better if they would have invested a bit more time in the story, but well... It i what it is. 
@@ -173,6 +175,7 @@ Legend:
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
+- [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). I think I must not understand this movie since a lot of people like it, but I do not. 
 - [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
 
 - **R**
