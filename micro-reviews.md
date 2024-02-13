@@ -16,8 +16,9 @@ Legend:
 
 - **A**
 - [About Schmidt](https://www.imdb.com/title/tt0257360/?ref_=fn_al_tt_1). Better than I expected.
-- [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=hm_tpks_tt_i_1_pd_tp1_pbr_ic). For me the weakest of the new Poirot trillogy. That said, I do like the link of Venice to the horror/suspense theme, since before the city was branded as the city of love it always had a dark undertone and was associated with dark magic, intrigues and scary deaths. 
+- [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=hm_tpks_tt_i_1_pd_tp1_pbr_ic). For me the weakest of the new Poirot trilogy. That said, I do like the link of Venice to the horror/suspense theme, since before the city was branded as the city of love it always had a dark undertone and was associated with dark magic, intrigues and scary deaths. 
 - [The Amazing Maurice](https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_1). I love the book so the movie has a bit of a disadvantage. Still a nice story, confidently told. Would have loved if it had a bit higher production values (especially in terms of lighting).
+- [American History X](https://www.imdb.com/title/tt0120586/?ref_=hm_tpks_tt_i_27_pd_tp1_pbr_ic). This is a great movie about the propagation of violence over time. It is also a very interesting depiction of neo-nazis in America. And, it is also a study of how the external world related to internal ones. 
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
@@ -88,11 +89,13 @@ Legend:
 
 - **G**
 - [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
-- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
-- [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of.
 - ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
-- [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
+- [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
+- ⭐️ [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
+- [Good Will Hunting](https://www.imdb.com/title/tt0119217/?ref_=hm_tpks_tt_i_20_pd_tp1_pbr_ic). A relatable story about the difficulties of a genius in a normal world. Its good, but not my type of movie. 
 - ⭐️ [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/?ref_=nm_flmg_dr_4). A gem. And probably, my favorite Wes Anderson movie. The whole movie is polished to the max. The story is touching, intense and comical. The colors are great. The depiction of West Europe is perfect. I love it.
+- [Gran Torino](https://www.imdb.com/title/tt1205489/?ref_=hm_tpks_tt_i_2_pd_tp1_pbr_ic). I am not a big fan of Clint Eastwood (both as a director and as an actor), but I somehow surprisingly like the movie.
+- [Gravity Falls](https://www.imdb.com/title/tt1865718/?ref_=nm_knf_t_4). One of the best cartoon series I know of. 
 - [Guardians of the Galaxy: Vol. 3](https://www.imdb.com/title/tt6791350/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_guardians%2520o). I liked the first one, found the second one boring and love the third one. This is a really great end to the series (and for me the last superhero movie I will watch in a long time).
 
 - **H**
@@ -207,6 +210,7 @@ Legend:
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
 - [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
+- [Trainspotting](https://www.imdb.com/title/tt0117951/?ref_=hm_tpks_tt_i_18_pd_tp1_pbr_ic). I really, really enjoy trainspotting. The topic, the style, the englishness: all great. 
 - [Triangle of Sadness](https://www.imdb.com/title/tt7322224/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_triangle%2520of). Very enjoyable movie. I heard that many did not like it because it supposedly is an overly cynical take on rich people, but I did like it.
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
