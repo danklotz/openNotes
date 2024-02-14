@@ -20,11 +20,11 @@ Legend:
 - [The Amazing Maurice](https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_1). I love the book so the movie has a bit of a disadvantage. Still a nice story, confidently told. Would have loved if it had a bit higher production values (especially in terms of lighting).
 - [American History X](https://www.imdb.com/title/tt0120586/?ref_=hm_tpks_tt_i_27_pd_tp1_pbr_ic). This is a great movie about the propagation of violence over time. It is also a very interesting depiction of neo-nazis in America. And, it is also a study of how the external world related to internal ones. 
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
-- [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
+- [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
 - ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
+- [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
 - [Asteroid City](https://www.imdb.com/title/tt14230388/?ref_=nv_sr_srsg_3_tt_6_nm_2_q_wes%2520anderson). For me this is great movie about creativity, invention, and movie making. It is not as good as *The French Dispatch* --- which is similar in many ways and I love --- or as inspiring as *Paterson* --- which is a very different movie about creativity that I love. So, not the best of its kind, but still very worthwhile. 
-- [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
 - [Ava](https://www.imdb.com/title/tt8784956/?ref_=nv_sr_srsg_0). Yeah, I don't know. The movie is not necessary bad, but its not good either. I guess the best part are fight-choreographies.
 - [Avengers: Endgame ](https://www.imdb.com/title/tt4154796/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=A32WGR8KNK73YPCB64F9&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_36). Please just stop.
@@ -41,16 +41,15 @@ Legend:
 - ⭐️ [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
 - ⭐️ [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
+- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
+- [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
 - ⭐️ [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
-- [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
-- [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
 - [The Breakfast Club](https://www.imdb.com/title/tt0088847/?ref_=tt_tpks_tt_i_13_pd_detail_2_pbr_ic). Its probably because I have seen this movie when I was very young, but I just love it. 
 - [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Funny assassin movie with lots and lots of action. Popcorn flick. Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Maybe a bit too involved at times. Would recommend.
 - [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment.
-
-
+- [The Butterfly Effect](https://www.imdb.com/title/tt0289879/?ref_=nm_knf_t_4). Surprisingly good popcorn movie. A lot of things do not work for me, but somehow it still holds together. 
 
 - **C**
 - [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
@@ -88,6 +87,7 @@ Legend:
 - [From Dusk till Dawn](https://www.imdb.com/title/tt0116367/?ref_=nm_flmg_wr_19). A uncut gem. I do enjoy the first part much more than the second. Nevertheless, I do appreciate the movie as a whole.
 
 - **G**
+- [The Game](https://www.imdb.com/title/tt0119174/?ref_=tt_sims_tt_i_7). This is a very good thriller with a nice plot twist. Also, Michael Douglas is excellent. 
 - [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
 - ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
 - [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
@@ -182,6 +182,7 @@ Legend:
 - [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
 
 - **R**
+- [Rat Race](https://www.imdb.com/title/tt0250687/?ref_=nm_knf_t_2). Average comedy with star ensemble. 
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
@@ -198,9 +199,9 @@ Legend:
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
-- ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not offputting. 
-- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
+- ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
 - [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies.
+- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one. 
 - [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
 
@@ -209,8 +210,8 @@ Legend:
 - [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other seuqels where necessary, but I will not complain.
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
-- [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
 - [Trainspotting](https://www.imdb.com/title/tt0117951/?ref_=hm_tpks_tt_i_18_pd_tp1_pbr_ic). I really, really enjoy trainspotting. The topic, the style, the englishness: all great. 
+- [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
 - [Triangle of Sadness](https://www.imdb.com/title/tt7322224/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_triangle%2520of). Very enjoyable movie. I heard that many did not like it because it supposedly is an overly cynical take on rich people, but I did like it.
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
@@ -226,8 +227,8 @@ Legend:
 - [Watchmen (Series)](https://www.imdb.com/title/tt7049682/?ref_=nm_flmg_t_10_act). I did like the premise, but it just does not do it for me. I think I would have enjoyed the series much more if it would not be part of the Watchmen universe. 
 - [Wednesday](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_t_2_pd_fp1). Mediocre story, but: intriguing setting, good acting, amazing aesthetics.
 - [Whatever Works](https://www.imdb.com/title/tt1178663/?ref_=nm_flmg_act_16). The movie works for me. One of the better Woody Allen movies. I am not sure about Larry David. It seems that he is not as funny as he normally is. But ok; good movie.
-- [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
 - [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy.
+- [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
 - [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I therefore think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
 - [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
 - ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
