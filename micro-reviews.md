@@ -19,6 +19,7 @@ Legend:
 - [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=hm_tpks_tt_i_1_pd_tp1_pbr_ic). For me the weakest of the new Poirot trilogy. That said, I do like the link of Venice to the horror/suspense theme, since before the city was branded as the city of love it always had a dark undertone and was associated with dark magic, intrigues and scary deaths. 
 - [The Amazing Maurice](https://www.imdb.com/title/tt10473036/?ref_=nv_sr_srsg_1). I love the book so the movie has a bit of a disadvantage. Still a nice story, confidently told. Would have loved if it had a bit higher production values (especially in terms of lighting).
 - [American History X](https://www.imdb.com/title/tt0120586/?ref_=hm_tpks_tt_i_27_pd_tp1_pbr_ic). This is a great movie about the propagation of violence over time. It is also a very interesting depiction of neo-nazis in America. And, it is also a study of how the external world related to internal ones. 
+- [Amores Perros](https://www.imdb.com/title/tt0245712/?ref_=ttls_li_tt). This is the first movie by [Iñárritu](https://www.imdb.com/name/nm0327944/?ref_=tt_ov_dr) that I saw and also his debut (if you don’t count the shorts and the tv production). Anyways, the movie is a very interesting movie that weaves three stories about (kind of) unlikeable characters together. I can highly recommend it. 
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
@@ -61,14 +62,17 @@ Legend:
 - [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_knf_t_2). One of the best Kung Fu movies ever made.   
 
 - **D**
+- ⭐️ [Danger 5 (S1)](https://www.imdb.com/title/tt1807165/?ref_=nm_knf_t_1). Easily one of the best TV shows out there. 
 - [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/?ref_=nm_knf_t_2). Is a Wes Anderson Movie so its great. That said, I think it is among the ones I like the least. 
 - [The Dark Crystal: Age of Resistance](https://www.imdb.com/title/tt6905542/?ref_=nm_flmg_act_6). This is an incredible unique and wonderful series. Please watch if you are not taken aback by the style and like fantasy.
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=DCT5YV01C20Z2HCMK04R&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4). Very good movie. Maybe a bit overrated? Liked it a lot at first, but wouldn't watch it anymore (which is not a particularly good sign).
 - [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/?ref_=nv_sr_srsg_0). Almost complete trash. I just watched it because I was curious about how they realized the hacker-theme after watching Who am I.
 - [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
 - [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography.
-- [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who unironically like "The Fast and the Furios XYZ".  
+- [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who “unironically” like "The Fast and the Furios XYZ".  
 - [Donnie Darko](https://www.imdb.com/title/tt0246578/?ref_=hm_inth_tt_i_20). This movie proof how a picture can be great not despite but *because a director is not able to communicate properly. 
+- [Dr. Strange](https://www.imdb.com/title/tt1211837/?ref_=nm_flmg_t_8_act). An ok movie. However, it could be so much better if the plot would just be more intriguing. 
+- [Dr. Strange 2](https://www.imdb.com/title/tt9419884/?ref_=tt_sims_tt_i_6). Boring. 
 
 - **E**
 - [The Expendables 1, 2 & 3](https://www.imdb.com/title/tt1320253/?ref_=fn_al_tt_1). Meh.
@@ -110,9 +114,11 @@ Legend:
 
 - **I**
 - [I am Legend](https://www.imdb.com/title/tt0480249/?ref_=nm_knf_t_1). This movie was better than I expected: Not great, but good mind candy. 
+- [The Illusionist](https://www.imdb.com/title/tt0443543/?ref_=hm_tpks_tt_i_25_pd_tp1_pbr_ic). Nice movie. Good eye and brain candy. 
 - [Inception](https://www.imdb.com/title/tt1375666/?ref_=hm_fanfav_tt_15_pd_fp1). This movie gets a tumps up. I loved this movie when I first watched it, but over (and rewatching it more often) I became a bit skeptical. I don't think it is as smart as everyone claims it is. Yet, Inception is clever, well made, and the acting is splendid
 - [Isle of Dogs](https://www.imdb.com/title/tt5104604/?ref_=nm_flmg_act_5). Love the movie. It seems to be made with so much love. It is eye-catching, unique, creative and beautiful. The dogs are great too!
 - [The Italian Job](https://www.imdb.com/title/tt0317740/?ref_=tt_sims_tt_i_12). Okaish heist movie, but actually a goodish car-chase movie in disguise. I would say it is a quite enjoyable watch, but not a must. 
+- [Italian Spiderman](https://www.imdb.com/title/tt2705436/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_italian%2520spi). The perhaps best non-animated Spiderman movie so far. 
 
 - **J**
 - [James Bond: No time to die](https://www.imdb.com/title/tt2382320/?ref_=nm_flmg_act_6). I this this is a not particularly good movie of a not particularly good franchise. I did like the opening in Italy and some shots are beautiful. However, all in all it feels like a movie that should have been one hour long got a runtime of almost tree!
@@ -148,7 +154,7 @@ Legend:
 - ⭐️[Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). The defining action mvoie of the 90s. It is difficult to now see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
-- [The menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
+- [The Menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
 - [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
 - ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.
 - [Minority Report](https://www.imdb.com/title/tt0181689/?ref_=nmls_mkdn). This is a cool action/sci-fi movie. It explores what societies would do with very good prediction machines --- which, I think, is still interesting to think about today. 
@@ -158,6 +164,7 @@ Legend:
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but often gets lost details and boring settings. Overall mediocre.
 - [Morbius](https://www.imdb.com/title/tt5108870/?ref_=fn_al_tt_1). Mediocre movie: The setting is interesting, the Marvel tie-ins do not work for me, the ending is lame. 
 - [Mortal Kombat, 2021](https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_19_pd_tp1_cp). The only thing I managed to like about this movie is the trailer.
+- [Mr. and Mrs. Smith](https://www.imdb.com/title/tt0356910/?ref_=hm_tpks_tt_i_4_pd_tp1_pbr_ic). A waste of time. 
 - [Murder on the Orient Express](https://www.imdb.com/title/tt3402236/?ref_=nm_knf_i4). A good movie with amazing cinematography.
 
 - **N** 
@@ -192,6 +199,7 @@ Legend:
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
 - [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me. 
+- [Road to Perdition](https://www.imdb.com/title/tt0257044/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_road%2520to%2520). A good gangster movie, but not my favourite. 
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie. 
 
 - **S**
@@ -202,6 +210,7 @@ Legend:
 - [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
 - [The Shape of Water](https://www.imdb.com/title/tt5580390/?ref_=ttls_li_tt). A dark, quirky romance between a human and a monster. A very good movie, even if I found some aspects (like the dancing scenes) too on the nose. 
 - [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=hm_tpks_tt_i_2_pd_tp1_pbr_ic). Very good TV series, that probably should not have had 3 seasons. I especially season 1.
+- [Sherlock Homes](https://www.imdb.com/title/tt0988045/?ref_=nm_knf_t_4). Funny, light-hearted, and action-driven take on Sherlock Holmes. I think the movie kind of stands on the shoulders of the Robert Downey’s successful comeback with Iron Man. As a consequence, the movie is perhaps a bit overrated, but still a nice watch. 
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
