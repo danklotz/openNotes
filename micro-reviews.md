@@ -195,6 +195,7 @@ Legend:
 
 - **R**
 - [Rat Race](https://www.imdb.com/title/tt0250687/?ref_=nm_knf_t_2). Average comedy with star ensemble. 
+- [Red Dragon](https://www.imdb.com/title/tt0289765/?ref_=hm_tpks_tt_i_18_pd_tp1_pbr_ic). This is probably the worst movie out of the *”Hannibal Trilogy”* and yet it is still a very good thriller. My main problem with the movie is probably that Ed Nortons character is not vulnerable enough. 
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
@@ -225,6 +226,7 @@ Legend:
 - [Taxi](https://www.imdb.com/title/tt0152930/?ref_=nm_flmg_t_82_act). One of the action comedies that [Luc Besson](https://www.imdb.com/name/nm0000108/?ref_=tt_ov_wr) championed to build up the French action cinema (I thin?). The movie is funny and light hearted. Good candy to waste your time with. 
 - [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other seuqels where necessary, but I will not complain.
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
+- [The Lives of Others](https://www.imdb.com/title/tt0405094/?ref_=tt_sims_tt_i_5). This is a great movie about a dark time in the history of East Germany. It is somewhat sombre, but also fundamentally life affirming. The is one caveat: I watched it in German and and I am not sure if the movie works in English. Probably. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
 - [Trainspotting](https://www.imdb.com/title/tt0117951/?ref_=hm_tpks_tt_i_18_pd_tp1_pbr_ic). I really, really enjoy trainspotting. The topic, the style, the englishness: all great. 
 - [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
@@ -258,6 +260,8 @@ Legend:
 ## 📖 Books
 Sometimes I do read:
 
+- *Rubin (2023): The Creative Act.* Its a book about being creative. I was surprised about how much I enjoyed this book. To be honest I am also irritated that the book is such a best-seller, since it is kind-off “out there” --- bordering esoteric at some points. I am not sure how much people generally can draw out of it. But ok. A cool thing that I’d like to mention either way is that the book really renders itself to be over multiple session and a prolonged amount of time --- always just one or two thoughts. That is at least how I did. So that is cool. 
+- *Frisch (2019): Magic is dead.* I have mixed feelings. The book is very well written (I wish I could write only half as good) and I like the autobiographical non-fiction aspect. However, the book was written in 2019 and it already appears to be out-of-date. On top of that best part of this book are the ones about Frisch’s mother and not the parts about magic or its history. I particularly found the naive admiration of entrepreneurs in the magic industry annoying. So yeah, mixed feelings...
 - *Hammack (2023): The Thing We Make.* This is a great little book that tries to pinpoint the definition of engineering.
 - *Lenhard (2019): Calculated Surprises.* There where too many errors in the explanation of Neural Networks so I stoped reading. 
 - *Morini (2014): Il rischio.* Italian booklet about risk from a philosophical standpoint. Very interesting. 
