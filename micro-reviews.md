@@ -73,6 +73,7 @@ Legend:
 - [Donnie Darko](https://www.imdb.com/title/tt0246578/?ref_=hm_inth_tt_i_20). This movie proof how a picture can be great not despite but *because a director is not able to communicate properly. 
 - [Dr. Strange](https://www.imdb.com/title/tt1211837/?ref_=nm_flmg_t_8_act). An ok movie. However, it could be so much better if the plot would just be more intriguing. 
 - [Dr. Strange 2](https://www.imdb.com/title/tt9419884/?ref_=tt_sims_tt_i_6). Boring. 
+- [Dungeons and Dragons: Honor Among Thieves](https://www.imdb.com/title/tt2906216/?ref_=fn_al_tt_1). This movie is surprisingly funny and light-hearted. It follows the formula from [Guardians of the Galaxy](https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_guaradians%2520of%2520the%2520) in that a untrustworthy, „useless“ leader assembles a band of misfits and saves the day. Cool. 
 
 - **E**
 - [The Expendables 1, 2 & 3](https://www.imdb.com/title/tt1320253/?ref_=fn_al_tt_1). Meh.
@@ -95,6 +96,7 @@ Legend:
 - [The Game](https://www.imdb.com/title/tt0119174/?ref_=tt_sims_tt_i_7). This is a very good thriller with a nice plot twist. Also, Michael Douglas is excellent. 
 - [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
 - ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
+- [The Girl Next Door](https://www.imdb.com/title/tt0265208/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_girl%2520next%2520door). I have to give it to the movie. It is funnier than I thought, given its premise: A comedy about teeny falls in love with a (former) pornstar. That said, the is still not a particularly great. 
 - [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
 - ⭐️ [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
 - [Good Will Hunting](https://www.imdb.com/title/tt0119217/?ref_=hm_tpks_tt_i_20_pd_tp1_pbr_ic). A relatable story about the difficulties of a genius in a normal world. Its good, but not my type of movie. 
@@ -214,6 +216,7 @@ Legend:
 - [Sherlock Homes](https://www.imdb.com/title/tt0988045/?ref_=nm_knf_t_4). Funny, light-hearted, and action-driven take on Sherlock Holmes. I think the movie kind of stands on the shoulders of the Robert Downey’s successful comeback with Iron Man. As a consequence, the movie is perhaps a bit overrated, but still a nice watch. 
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
+- ⭐️ [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
 - ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
 - [Starship Troopers](https://www.imdb.com/title/tt0120201/?ref_=ttls_li_tt). Classic. Probably one of the most action driven anti-war movies out there. It’s good. 
