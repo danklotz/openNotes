@@ -216,6 +216,7 @@ Legend:
 - [Sherlock Homes](https://www.imdb.com/title/tt0988045/?ref_=nm_knf_t_4). Funny, light-hearted, and action-driven take on Sherlock Holmes. I think the movie kind of stands on the shoulders of the Robert Downey’s successful comeback with Iron Man. As a consequence, the movie is perhaps a bit overrated, but still a nice watch. 
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
+- [Smiley’s People (series)](https://www.imdb.com/title/tt0083480/?ref_=tt_sims_tt_i_1). Fantastic mini series of John le Carré’s famous spy novel. Maybe a bit slow by todays standards, but still a great watch. I think the series is almost stronger than [Tinker, Tayler, Soldier, Spy](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2), since it has more suspense and a nicer conclusion. But, both are nice. 
 - ⭐️ [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
 - ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
@@ -230,6 +231,8 @@ Legend:
 - [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other seuqels where necessary, but I will not complain.
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [The Lives of Others](https://www.imdb.com/title/tt0405094/?ref_=tt_sims_tt_i_5). This is a great movie about a dark time in the history of East Germany. It is somewhat sombre, but also fundamentally life affirming. The is one caveat: I watched it in German and and I am not sure if the movie works in English. Probably. 
+- [Tinker, Tailor, Soldier, Spy (series)](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2). Maybe a bit slow for todays standards, but still great series about cold war espionage. 
+- [Tinker, Tailor, Soldier, Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_tinker%2520taylor). This is a very slick cold war thriller. For me it does not reach the peaks of the [BBC miniseries](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2) or [the books](https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy), but I still would recommend it to all spy movie fans. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
 - [Trainspotting](https://www.imdb.com/title/tt0117951/?ref_=hm_tpks_tt_i_18_pd_tp1_pbr_ic). I really, really enjoy trainspotting. The topic, the style, the englishness: all great. 
 - [The Transporter](https://www.imdb.com/title/tt0293662/?ref_=tt_sims_tt). Great action movie which --- in my eyes --- cemented the prototype of a Jason Statham role.
@@ -242,6 +245,7 @@ Legend:
 - [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it.
 - [The Vault](https://www.imdb.com/title/tt9742794/?ref_=nv_sr_srsg_0). Mediocre heist movie with nice pictures.
 - [V for Vendetta](https://www.imdb.com/title/tt0434409/?ref_=tt_sims_tt). Matrix without the computers and political instead of transcendental philosophy. One of Natalie Portman’s best roles. I can recommend the movie.
+- [Vicky Cristina Barcelona](https://www.imdb.com/title/tt0497465/?ref_=tt_sims_tt_i_2). This is an interesting movie. about love and different forms of affection. I would not say that its great, but its definitely worth seeing. 
 
 - **W**
 - [Watchmen](https://www.imdb.com/title/tt0409459/?ref_=tt_sims_tt_i_1). Maybe the only Zack Snyder movie I find enjoyable. 
