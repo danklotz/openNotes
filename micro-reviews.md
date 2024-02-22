@@ -70,12 +70,14 @@ Legend:
 - [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
 - [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography.
 - [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who “unironically” like "The Fast and the Furios XYZ".  
+- [Desperado](https://www.imdb.com/title/tt0112851/?ref_=tt_sims_tt_i_1). Very good gunslinger movie with, amongst others, a young Antonio Banderas and Salma Hayek. Its fun. 
 - [Donnie Darko](https://www.imdb.com/title/tt0246578/?ref_=hm_inth_tt_i_20). This movie proof how a picture can be great not despite but *because a director is not able to communicate properly. 
 - [Dr. Strange](https://www.imdb.com/title/tt1211837/?ref_=nm_flmg_t_8_act). An ok movie. However, it could be so much better if the plot would just be more intriguing. 
 - [Dr. Strange 2](https://www.imdb.com/title/tt9419884/?ref_=tt_sims_tt_i_6). Boring. 
 - [Dungeons and Dragons: Honor Among Thieves](https://www.imdb.com/title/tt2906216/?ref_=fn_al_tt_1). This movie is surprisingly funny and light-hearted. It follows the formula from [Guardians of the Galaxy](https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_guaradians%2520of%2520the%2520) in that a untrustworthy, „useless“ leader assembles a band of misfits and saves the day. Cool. 
 
 - **E**
+- [El Mariachi](https://www.imdb.com/title/tt0104815/?ref_=nm_knf_t_1). Great predecessor of [Desperado](https://www.imdb.com/title/tt0112851/?ref_=tt_sims_tt_i_1) and [Once Upon a Time in Mexico](https://www.imdb.com/title/tt0285823/?ref_=tt_sims_tt_i_2).  
 - [The Expendables 1, 2 & 3](https://www.imdb.com/title/tt1320253/?ref_=fn_al_tt_1). Meh.
 - [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/?ref_=nv_sr_srsg_1). Good, weird, and unconventional movie. Maybe not as good as everyone says, but definitely as weird and unconventional.
 
@@ -182,6 +184,7 @@ Legend:
 - [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
 - [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). A masterpiece. Even with todays watching habits, this remains a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
 - [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
+- [Once Upon a Time in Mexico](https://www.imdb.com/title/tt0285823/?ref_=tt_sims_tt_i_2). Worthy successor o desperado.  Salma Hayek plays a more important role and everything is a even more over the top. Overall I think the movie is a bit worse than its predecessors.  I am happy that no other one came out. It is a nice ending for the series. 
 - [On the Road](https://www.imdb.com/title/tt0337692/?ref_=nm_flmg_t_34_act). I did not understand this movie and I did not like the vibe. 
 - [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/). I don't know. I guess I can best describe it as average. I did not like it that much, but also did not not like it that much.
 - [Our Flag means Death (S1 & S2)](https://www.imdb.com/title/tt11000902/?ref_=tt_ov_inf). Ok. This series starts very interesting, but burns out during the second half of the first season. That said, albeit there sadly also exists a whole second season, it never gets too bad. 
@@ -220,6 +223,7 @@ Legend:
 - ⭐️ [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
 - ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
+- [Spy Game](https://www.imdb.com/title/tt0266987/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). Very good spy movie. 
 - [Starship Troopers](https://www.imdb.com/title/tt0120201/?ref_=ttls_li_tt). Classic. Probably one of the most action driven anti-war movies out there. It’s good. 
 - [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies.
 - ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
