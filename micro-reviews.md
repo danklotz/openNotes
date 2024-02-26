@@ -115,7 +115,8 @@ Legend:
 - [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
 - [The Hobbit 1 to 3](https://www.imdb.com/title/tt0903624/?ref_=tt_sims_tt_i_6). A cynical copy of the LOD formula without the heart and the story. I did like universe beforehand, but by the time the third Hobbit movie came I had no love for the franchise anymore. Sad.
 - ⭐️ [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
-- [House](https://www.imdb.com/title/tt0412142/?ref_=nm_knf_t_1). I think I would not watch this series anymore and it definitely has to many seasons. That said, back in the days I loved this take on the Sherlock Homes formula- Therefore, I still have a warm place for it in my heart. 
+- [House](https://www.imdb.com/title/tt0412142/?ref_=nm_knf_t_1). I think I would not watch this series anymore and it definitely has to many seasons. That said, back in the days I loved this take on the Sherlock Homes formula- Therefore, I still have a warm place for it in my heart.
+- [House Of Ninjas (series)](https://www.imdb.com/title/tt22012992/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_house%2520of%2520ninj). Combining a family sitcom with edgy, over the top ninja action sounded like a fun premise to me. However, the whole series is super frustrating, because it is superficial and inconsequent in an annoying way. 
 
 - **I**
 - [I am Legend](https://www.imdb.com/title/tt0480249/?ref_=nm_knf_t_1). This movie was better than I expected: Not great, but good mind candy. 
