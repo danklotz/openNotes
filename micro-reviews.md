@@ -23,7 +23,7 @@ Legend:
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
-- ⭐️ [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
+- 🎭 [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
 - [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
 - [Asteroid City](https://www.imdb.com/title/tt14230388/?ref_=nv_sr_srsg_3_tt_6_nm_2_q_wes%2520anderson). For me this is great movie about creativity, invention, and movie making. It is not as good as *The French Dispatch* --- which is similar in many ways and I love --- or as inspiring as *Paterson* --- which is a very different movie about creativity that I love. So, not the best of its kind, but still very worthwhile. 
 - [Atomic Blonde](https://www.imdb.com/title/tt2406566/?ref_=nm_flmg_act_16). A good movie if one is in the mood for action. I like the style, the fights and the setting.
@@ -41,11 +41,11 @@ Legend:
 - [Between Two Ferns: The Movie](https://www.imdb.com/title/tt9398640/?ref_=nm_flmg_act_5). I did like the old series on youtube. I do not like the flick.
 - ⭐️ [Blue Eye Samurai (series)](https://www.imdb.com/title/tt13309742/?ref_=nv_sr_srsg_4_tt_4_nm_4_q_blue%2520eyed%2520samu). If [Kill Bill](https://www.imdb.com/title/tt0266697/?ref_=fn_al_tt_1) would be nudged up a bit and also become an animation series in ancient Japan you would probably get something like this. I cannot emphasize enough how good this animation is. The story is great, the art is great, the action is great, the choreography is great, the homages are great. I have some problems with some small parts here an there, but they do not matter. This is just very enjoybale. 
 - ⭐️ [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
-- ⭐️ [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
+- 🎭 [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
 - [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
 - [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
-- ⭐️ [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
+- 🎭 [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
 - [The Breakfast Club](https://www.imdb.com/title/tt0088847/?ref_=tt_tpks_tt_i_13_pd_detail_2_pbr_ic). Its probably because I have seen this movie when I was very young, but I just love it. 
@@ -63,7 +63,7 @@ Legend:
 - [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_knf_t_2). One of the best Kung Fu movies ever made.   
 
 - **D**
-- ⭐️ [Danger 5 (S1)](https://www.imdb.com/title/tt1807165/?ref_=nm_knf_t_1). Easily one of the best TV shows out there. 
+- 🎭 [Danger 5 (S1)](https://www.imdb.com/title/tt1807165/?ref_=nm_knf_t_1). Easily one of the best TV shows out there. 
 - [The Darjeeling Limited](https://www.imdb.com/title/tt0838221/?ref_=nm_knf_t_2). Is a Wes Anderson Movie so its great. That said, I think it is among the ones I like the least. 
 - [The Dark Crystal: Age of Resistance](https://www.imdb.com/title/tt6905542/?ref_=nm_flmg_act_6). This is an incredible unique and wonderful series. Please watch if you are not taken aback by the style and like fantasy.
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=DCT5YV01C20Z2HCMK04R&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4). Very good movie. Maybe a bit overrated? Liked it a lot at first, but wouldn't watch it anymore (which is not a particularly good sign).
@@ -89,7 +89,7 @@ Legend:
 - [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - ⭐️ [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
 - ⭐️ [Ferris Bueller’s Day Off](https://www.imdb.com/title/tt0091042/?ref_=tt_sims_tt_i_1). This movies shows coolest *rich kids* in the world skip high school and manages to depicts them as likeable funny characters! Some things in the movie feel a bit old now, but that makes everything even funnier. In summary, this is movie a super funny, ever-green, feel good movie. 
-- ⭐️ [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
+- 🎭 [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
 - [Finest Kind](https://www.imdb.com/title/tt7991508/?ref_=fn_al_tt_1). Very good movie about families and intergenerational conflict. Also stars fishing and drugs.
 - [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold.
 - [Following](https://www.imdb.com/title/tt0154506/?ref_=nm_flmg_t_14_wr0.) An early work of Christopher Nolan, which I liked very when I saw it --- ages ago. And I actually, still think its very good. 
@@ -99,7 +99,7 @@ Legend:
 - **G**
 - [The Game](https://www.imdb.com/title/tt0119174/?ref_=tt_sims_tt_i_7). This is a very good thriller with a nice plot twist. Also, Michael Douglas is excellent. 
 - [Gangs of New York](https://www.imdb.com/title/tt0217505/?ref_=fn_al_tt_1). I did enjoy the movie, but it did not leave a lasting impression.
-- ⭐️ [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
+- 🎭 [The Gentlemen](https://www.imdb.com/title/tt8367814/?ref_=fn_al_tt_1). I guess this is Guy Ritchie at its best. Pretty much everything I like about his movies, without much of the bad.
 - [The Girl Next Door](https://www.imdb.com/title/tt0265208/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_girl%2520next%2520door). I have to give it to the movie. It is funnier than I thought, given its premise: A comedy about teeny falls in love with a (former) pornstar. That said, the is still not a particularly great. 
 - [Glass Onion](https://www.imdb.com/title/tt11564570/). The very entertaining successor off the very entertaining Knives Out and as good as it. Glass Onion goes into a very different direction: A intriguing mixture of satire, social commentary crime-comedy and character play. commentary. Benoit Blanc fades a bit into the background. But, the movie is as ingenious the first one. 
 - ⭐️ [The Godfather i, ii & iii](https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt) Top. Aged very well. First is best.
@@ -115,7 +115,7 @@ Legend:
 - [Hitman's Bodyguard](https://www.imdb.com/title/tt1959563/?ref_=nv_sr_srsg_6). A funny action movie, which is at time annoying and a bit too long.
 - [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=nv_sr_srsg_0). Basically an over-the-top sequel to "The Hitman's Bodyguard": Little continuity, more crazy jokes and less interesting plot. Good if you like this kind of movie. 
 - [The Hobbit 1 to 3](https://www.imdb.com/title/tt0903624/?ref_=tt_sims_tt_i_6). A cynical copy of the LOD formula without the heart and the story. I did like universe beforehand, but by the time the third Hobbit movie came I had no love for the franchise anymore. Sad.
-- ⭐️ [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
+- 🎭 [Horace and Pete](https://www.imdb.com/title/tt5425186/?ref_=nv_sr_srsg_0). This one was much more than I expected. Must watch.
 - [House](https://www.imdb.com/title/tt0412142/?ref_=nm_knf_t_1). I think I would not watch this series anymore and it definitely has to many seasons. That said, back in the days I loved this take on the Sherlock Homes formula- Therefore, I still have a warm place for it in my heart.
 - [House Of Ninjas (series)](https://www.imdb.com/title/tt22012992/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_house%2520of%2520ninj). Combining a family sitcom with edgy, over the top ninja action sounded like a fun premise to me. However, the whole series is super frustrating, because it is superficial and inconsequent in an annoying way. 
 
@@ -158,7 +158,7 @@ Legend:
 - **M**
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
 - [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
-- ⭐️[Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
+- ⭐️ [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). The defining action mvoie of the 90s. It is difficult to now see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
 - [The Menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
@@ -193,7 +193,7 @@ Legend:
 - [Our Flag means Death (S1 & S2)](https://www.imdb.com/title/tt11000902/?ref_=tt_ov_inf). Ok. This series starts very interesting, but burns out during the second half of the first season. That said, albeit there sadly also exists a whole second season, it never gets too bad. 
 
 - **P**
-- ⭐️ [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
+- 🎭 [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [The Perks of Being a Wallflower](https://www.imdb.com/title/tt1659337/?ref_=fn_al_tt_1). This is one of those movies that reminds me that I will never be able to understand American culture. Apart from that, it is a wonderful high school movie about growing older in a more than imperfect world. 
 - [Poker Face](https://www.imdb.com/title/tt14269590/?ref_=nv_sr_srsg_1_tt_5_nm_2_q_poker%2520). I have my problems with movies from [Rian Johnson](https://www.imdb.com/name/nm0426059/?ref_=tt_ov_wr), but he clearly knows how to make stories about crime, riddles, and investigation. Poker Face is one of the coolest detective series I have watched. 
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
@@ -213,7 +213,7 @@ Legend:
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie. 
 
 - **S**
-- ⭐️ [The Secret of Kells](https://www.imdb.com/title/tt0485601/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_secrets%2520of%2520kel). This is a wonderful animation movie. It is worth watching it just for the art style alone. 
+- 🎭 [The Secret of Kells](https://www.imdb.com/title/tt0485601/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_secrets%2520of%2520kel). This is a wonderful animation movie. It is worth watching it just for the art style alone. 
 - [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_see%2520h). Well made, mellow movie with some ok jokes and an ok plot. I really wanted to like it more. 
 - [Seven](https://www.imdb.com/title/tt0114369/?ref_=tt_sims_tt_i_7). This is a very good crime/suspension movie. It is also one of these amazing movies of the 90s that only rarely come out these days and made [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr) a household name.  
 - [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind-off a feel-good movie with Will Smith, but I do not like the premise and the message.
@@ -224,13 +224,13 @@ Legend:
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
 - [Smiley’s People (series)](https://www.imdb.com/title/tt0083480/?ref_=tt_sims_tt_i_1). Fantastic mini series of John le Carré’s famous spy novel. Maybe a bit slow by todays standards, but still a great watch. I think the series is almost stronger than [Tinker, Tayler, Soldier, Spy](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2), since it has more suspense and a nicer conclusion. But, both are nice. 
-- ⭐️ [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
+- 🎭 [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
-- ⭐️ [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
+- 🎭 [Spider Man: Across the spider verse](https://www.imdb.com/title/tt9362722/?ref_=hm_fanfav_tt_i_13_pd_fp1_r). One of the best animated movies I know. Definitely must watch if animation and/or the "spider man" theme is not off putting. 
 - [Spy Game](https://www.imdb.com/title/tt0266987/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). Very good spy movie. 
 - [Starship Troopers](https://www.imdb.com/title/tt0120201/?ref_=ttls_li_tt). Classic. Probably one of the most action driven anti-war movies out there. It’s good. 
 - [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies.
-- ⭐️ [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
+- 🎭 [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one. 
 - [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
 
@@ -240,7 +240,7 @@ Legend:
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [The Lives of Others](https://www.imdb.com/title/tt0405094/?ref_=tt_sims_tt_i_5). This is a great movie about a dark time in the history of East Germany. It is somewhat sombre, but also fundamentally life affirming. The is one caveat: I watched it in German and and I am not sure if the movie works in English. Probably. 
 - [Thor](https://www.imdb.com/title/tt0800369/?ref_=hm_tpks_tt_i_30_pd_tp1_pbr_ic). Nah. 
-- ⭐️ [There Will Be Blood](https://www.imdb.com/title/tt0469494/?ref_=nm_knf_t_1). This is an extremely good movie. In my eyes, the movie is is ultimately about how our society profits from (and maybe even needs) very bad people that push their agenda to get successful. But, it also touches upon happiness, religion, progress, and love. 
+- 🎭 [There Will Be Blood](https://www.imdb.com/title/tt0469494/?ref_=nm_knf_t_1). This is an extremely good movie. In my eyes, the movie is is ultimately about how our society profits from (and maybe even needs) very bad people that push their agenda to get successful. But, it also touches upon happiness, religion, progress, and love. 
 - [Tinker, Tailor, Soldier, Spy (series)](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2). Maybe a bit slow for todays standards, but still great series about cold war espionage. 
 - [Tinker, Tailor, Soldier, Spy](https://www.imdb.com/title/tt1340800/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_tinker%2520taylor). This is a very slick cold war thriller. For me it does not reach the peaks of the [BBC miniseries](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2) or [the books](https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy), but I still would recommend it to all spy movie fans. 
 - [To Rome With Love](https://www.imdb.com/title/tt1859650/?ref_=nm_flmg_dr_9). Very enjoyable movie, but for me somehow overshadowed by Midnight in Paris.
@@ -269,7 +269,7 @@ Legend:
 - [Wolfwalkers](https://www.imdb.com/title/tt5198068/). The movie is great. It has some pacing problems and the style is almost a bit to loose at some point. But, I still love the art-style. Its so great and unique and expressive and beautiful. I therefore think that Wolfwalkers is a must see for everyone who likes animation in some way or another.
 - ⭐️ [The Wonderful Story of Henry Sugar](https://www.imdb.com/title/tt16968450/?ref_=hm_tpks_tt_i_17_pd_tp1_pbr_ic). This is indeed wonderful. This short is Wes Anderson at its best. It tells the story of a not-so-likable gambler who becomes a better human trough a variety of connected stories. The movie feels a bit like [Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/), but more dynamic and colorful. The story is comes from [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl). I think, this gives it an additional charm in similar way that the Stefan Zweig homage gave to Grand Budapest Hotel. 
 - [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
-- ⭐️ [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
+- 🎭 [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
 - [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
 - [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great. 
  
@@ -305,7 +305,7 @@ Sometimes I do read:
 - *Childers (2013) Philosophy and Probability.* Very good book.
 - *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
 - *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
-- ⭐️ *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
+- 🎭 *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
 - *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
 - *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
 - *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
@@ -313,11 +313,11 @@ Sometimes I do read:
 - *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die illustrationen fand ich ein wenig zu plakativ.  
 - ⭐️ *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
 - *Foer (2011) Moonwalking with Einstein.* One of my favorite non-fiction books.
-- ⭐️ *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
+- 🎭 *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
 - *Franklin (2001): The Science of Conjecture.* Scholarly tome about conjectures, evidence based decision making and probabilistic reasoning before the calculus of probability was invented. Hard to read, but very rich.
 - *Franklin (2009): What Science Knows: And How it Knows it.* Franklin is super smart, but this book is much to opinionated and on the nose for me. Overall it felt like a letdown after reading the "The Science of Conjecture". 
 - *Gladwell (2008) Outliers.* Did not age particularly well. I enjoyed it back in the day tough.
-- ⭐️ *Goodfellow, Bengio, & Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
+- 🎭 *Goodfellow, Bengio, & Courvile (2016) Deep Learning.* Good book. A bit theoretical, but not too much. Perhaps a bit difficult for the novice. Good to look things up.
 - *Jean Jullien (2022): Jean Jullien.* TK
 - *Jean Jullien (2016): Modern Life.* A bit on the short side. Yet most pictures are small, self contained parables about modern life. The not-so good illustrations are still imaginative and drawn in a pleasant way.
 - ⭐️ *Le Carré (2019) Federball.* <3
@@ -327,7 +327,7 @@ Sometimes I do read:
 - *Moore, Gibbons & Higgins (1987) Watchmen.* I don't like the style, but the story is breathtaking.  
 - *Murphy (2012) Machine Learning.* Very good to look things up, but not made for *reading* it cover to cover. Also, over 1k pages! WTF.
 - *Page (2018) The Model Thinker.* Very enjoyable.
-- ⭐️ *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly the right length for such a book.
+- 🎭 *Polan (2018): A Place of My Own.* A very good book if you are interested in architecture and building (as a hobby I guess). Poetic, complex, well-paced. And, exactly the right length for such a book.
 - *Priest (2017): Logic: A Very Short Introduction.* Very nice book. I think the different chapters are best enjoyed with some pause between each one (even or maybe even because that will necessitate some backtracking trough the short booklet).  
 - *Proctor & Schiebinger (ed, 2008) Proctor, R: Agnotology.* More interesting than I expected, less than I hoped.
 - *Otto (2019) Wütendes Wetter.* Auf der Suche nach den Schuldigen für Hitzewellen, Hochwasser und Stürme. German. *Interesting popular science book about the genesis climate attribution studies. Maybe a tidbit too long for the info that is provided*.
@@ -335,14 +335,14 @@ Sometimes I do read:
 - *[Singer (2020?) Shape Up](https://basecamp.com/shapeup).* Probably good if your into this kind of thing. I am not. 
 - *Spiegelthaler (2019): The Art of Statistics.* Well written. Explains a lot.
 - *Stigler (1990) The History of Statistics.* Great read. Very interesting.
-- ⭐️ *Taleb (2007): Fooled by Randomness.* A gem.
-- ⭐️ *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
+- 🎭 *Taleb (2007): Fooled by Randomness.* A gem.
+- 🎭 *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
 - *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
 - *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
 - *Ekeland & Étienne (2021): Der Zufall (Die Comic-Bibliothek des Wissens).* Tolle Illustrationen, aber ohne Vorwissen ist der Inhalt zu spartanisch rübergebracht. Manche der Bilder und Beispiele sind gut, aber insgesamt ist alles zu wenig ausgeführt. 
-- ⭐️ *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
-- ⭐️ *Cartwright (2022): A Philosopher Looks at Science.* This is a great book. I think it is a good overview of Nancy Cartwrights ideas, albeit maybe not the best book to start. Still, it is very clearly written --- not complicated at all --- and in that sense much easier to read than some of her other books. I also like the illustrations. 
+- 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
+- 🎭 *Cartwright (2022): A Philosopher Looks at Science.* This is a great book. I think it is a good overview of Nancy Cartwrights ideas, albeit maybe not the best book to start. Still, it is very clearly written --- not complicated at all --- and in that sense much easier to read than some of her other books. I also like the illustrations. 
 - *Cartwright et al. (2023): The Tangle of Science.*  Its a good book (albeit the print quality is quite bad). For me it is, however, largely superseded by Cartwrights *A Philosopher Looks at Science* 
 
 
@@ -385,17 +385,17 @@ Sometimes I do read:
 - [Laura Kampf](https://www.youtube.com/c/laurakampf/featured). Builds something new every week and restores a house. Very interesting stuff if you like the style (I do). 
 - 🎭 [Lutèce Créations automatons](https://www.youtube.com/c/LutèceCréationsautomatons/videos). The best channel on classical automata that I know. 
 - [Marques Brownlee](https://www.youtube.com/c/mkbhd). I do not particularly like it. Extremely well produced Youtube channel reviewing gadgets and other tech related products. For me it often feels too smooth. Sometimes too uncritical. In general goodish. 
-- ⭐️ [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis). Probably the best game-reviewer on Youtube. Thoughtful, in-depth, long, and critical. Also the channel which gave me the idea to frame this note as micro reviews. 
+- 🎭 [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis). Probably the best game-reviewer on Youtube. Thoughtful, in-depth, long, and critical. Also the channel which gave me the idea to frame this note as micro reviews. 
 - [OskarPuzzle](https://www.youtube.com/user/OskarPuzzle). A puzzle maker on youtube discusses his puzzles and process. Very fascinating. 
 - 🎭 [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983). Slow and beatyful Japanese cooking at home. Very relaxing. 
-- ⭐️ [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
-- ⭐️ [Rose Anvil](https://www.youtube.com/channel/UCId9g4zlQ9BOn6fLKIt1Y0A). The best channel I found to learn about shoes and leather. Also cool if you want to see a lot of shoes cut in half. 
+- 🎭 [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
+- 🎭 [Rose Anvil](https://www.youtube.com/channel/UCId9g4zlQ9BOn6fLKIt1Y0A). The best channel I found to learn about shoes and leather. Also cool if you want to see a lot of shoes cut in half. 
 - [Sabine Hossenfelder](https://www.youtube.com/user/peppermint78). Best science news channel I know. 
 - ⭐️ [ScienceOnline](https://www.youtube.com/c/ScienceOnline/videos). For a long time this was my favourite science channel on youtube. Sadly the creator died. May he rest in peace.
 - 🎭 [Sinnett Sticks](https://www.youtube.com/user/StinnettStickStudio). Some wood carving/stick making inspiration. I think one has to be in the right mood to enjoy it.  
 - [Suff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ). Funny DIY engineering projects. Inspirational, but not particularly educational. 
 - [Teoh Yi Chie](https://www.youtube.com/c/TeohYiChie). Thoughtful reviews of art-related stuff. Artbooks, papers, pens, digital drawing tools, etc.). Can recommend.
 - [Terry Barentsen](https://www.youtube.com/channel/UCHRUAMAzVUS_Szvxn55GXaQ). Amazing biking videos from crazy people.
-- ⭐️ [The Art and Making of](https://www.youtube.com/channel/UCul0hqYdXADxADyoIku4p5g). Best reviewer of "the art of *xyz* books" and "making of *xyz* books" that I know of. Very opinionated and very thorough. 
+- 🎭 [The Art and Making of](https://www.youtube.com/channel/UCul0hqYdXADxADyoIku4p5g). Best reviewer of "the art of *xyz* books" and "making of *xyz* books" that I know of. Very opinionated and very thorough. 
 - ⭐️ [Uri Tuchman](https://www.youtube.com/channel/UCHsqqRjziUaMwZgQZHw-n1w). Amazing artist and builder, also very funny videos.
-- ⭐️ [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher). Best presenter of Machine Learning papers. Opinionated and smart. Must watch, there is a lot to learn here.
+- 🎭 [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher). Best presenter of Machine Learning papers. Opinionated and smart. Must watch, there is a lot to learn here.
