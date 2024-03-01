@@ -23,6 +23,7 @@ Legend:
 - [Amsterdam](https://www.imdb.com/title/tt10304142/?ref_=nm_flmg_t_2_act). I do not understand this movie. 
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
+- [Arcane (series)](https://www.imdb.com/title/tt11126994/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). You can think about League of Legends what you want, but this is a very good animation series. It’s great on many levels: Art, story, and ideas. If I would critique something it is that I wish that they would go a bit further at some points even if that would have made the series more controversial. N
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
 - 🎭 [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
 - [The Assassination of Jesse James by the Coward Robert Ford](https://www.imdb.com/title/tt0443680/?ref_=hm_tpks_tt_t_29_pd_tp1_pbr_ic). I love the aesthetics, but the plot and the pacing not so much. Needs to be watched with patience.
@@ -35,6 +36,7 @@ Legend:
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.
 - [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). Just fun. Essentially, Baby Driver is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
 - ⭐️ [Back to the Future I to III](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
+- [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). I cannot precisely point out why, but the after watching the movie it felt as if I just wasted my time. Not the best feeling. 
 - [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
 - [The Bear, S1](https://www.imdb.com/title/tt14452776/episodes/?ref_=tt_eps_sm). One of the finest tv series I have ever seen. If you are not put of by the cooking/restaurant theme a must watch. Truly incredible.
 - [The Bear, S2](https://www.imdb.com/title/tt14452776/episodes/?season=2). A master piece. I would say that the overall plot is constructed worse than then the one for S1, but some of individual episodes are even better. Definitely a highlight.
@@ -255,6 +257,9 @@ Legend:
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
 - [The Truman Show](https://www.imdb.com/title/tt0120382/?ref_=tt_tpks_tt_i_5_pd_detail_2_pbr_ic). Movies like these are  the reason why I loved Jim Carey back in the day. I am very happy that I saw the movie when I saw it, since I do not know how I would perceive it today. 
+
+**U**
+- [Unbreakable](https://www.imdb.com/title/tt0217869/?ref_=hm_tpks_tt_i_7_pd_tp1_pbr_ic). I mainly added this here so I have a movie with U 😅. That said, I think Unbreakable is a vey ok movie. I like the premise and the execution is also fine. A good waste of time so to speak. 
 
 - **V**
 - [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it.
