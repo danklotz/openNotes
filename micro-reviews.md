@@ -218,7 +218,9 @@ Legend:
 - [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me. 
 - [Road to Perdition](https://www.imdb.com/title/tt0257044/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_road%2520to%2520). A good gangster movie, but not my favourite. 
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.
-- [RRR](https://www.imdb.com/title/tt8178634/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_rrr). I went into this movie expected a completely over-the-top Bolywood movie. I got an evern more over-the-top movie than I expected. The movie has all the Bolywood elements in there that I do not like but in doses that I still find bearable. I also think it is too long and I wished that the action would be toned dwon by... A LOT. But, of course one does not get that with these kind of productions. Overall, I ahve to say that the movie is really funny and I can recommend it.
+- [RRR](https://www.imdb.com/title/tt8178634/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_rrr). I went into this movie expected a completely over-the-top Bollywood movie. I got an even more over-the-top movie than I expected. The movie has all the Bollywood elements in there that I do not like but in doses that I still find bearable. I also think it is too long and I wished that the action would be toned down by... A LOT. But, of course one does not get that with these kind of productions. Overall, I have to say that the movie is really funny and I can recommend it.
+
+
 
 - **S**
 - 🎭 [The Secret of Kells](https://www.imdb.com/title/tt0485601/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_secrets%2520of%2520kel). This is a wonderful animation movie. It is worth watching it just for the art style alone. 
