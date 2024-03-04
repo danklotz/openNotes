@@ -10,9 +10,11 @@ Legend:
 
 ## 🎟 Moving Pictures
 - **#**
+- [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
+- [12 Monkeys](https://www.imdb.com/title/tt0114746/?ref_=tt_sims_tt_i_3). This is a super cool science fiction movie. It has a great premise and it executes perfectly. Also, the movie is surreal and strange in a good way. 
 - [21 Jumps Street](https://www.imdb.com/title/tt1232829/?ref_=nm_knf_t_4). I did not enjoy this, depsite generally liking Jonah Hill. 
 - [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com.
-- [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
+
 
 - **A**
 - [About Schmidt](https://www.imdb.com/title/tt0257360/?ref_=fn_al_tt_1). Better than I expected.
@@ -91,6 +93,7 @@ Legend:
 - [Fantastic Beasts: The Crimes of Grindelwald](https://www.imdb.com/title/tt4123430/?ref_=nm_flmg_dr_4). I know that a lot of people enjoyed this movie. I am not one of them.
 - [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/). Silly movie with very bad story telling which does not understand its strengths and weaknesses. 
 - ⭐️ [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/?ref_=hm_tpks_tt_16_pd_tp1_cp). One of the best Wes Anderson Movies and in many ways the spiritual predecessor of Isle of Dogs. Would recommend.
+- [Fear and Loathing in Las Vegas](https://www.imdb.com/title/tt0120669/?ref_=hm_tpks_tt_i_3_pd_tp1_pbr_ic). I always wanted to like FaL movie, but I never did. It is jus too loose for me.  
 - ⭐️ [Ferris Bueller’s Day Off](https://www.imdb.com/title/tt0091042/?ref_=tt_sims_tt_i_1). This movies shows coolest *rich kids* in the world skip high school and manages to depicts them as likeable funny characters! Some things in the movie feel a bit old now, but that makes everything even funnier. In summary, this is movie a super funny, ever-green, feel good movie. 
 - 🎭 [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
 - [Finest Kind](https://www.imdb.com/title/tt7991508/?ref_=fn_al_tt_1). Very good movie about families and intergenerational conflict. Also stars fishing and drugs.
