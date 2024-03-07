@@ -298,9 +298,12 @@ Legend:
 
 ## 📖 Books
 Sometimes I do read:
-
+ 
+- *Harris (2022): The Bitmap Brothers: Universe.* This is a beautiful and fun book. I think it especially hits if you grow up with some of the games (as I did). The illustrations are great and the images are well chosen. I personally would have wished for more Z content, but ok that might just be me. That said, in the end the book is, of course, purely brain candy and there is not much to learn or take away from it --- even if I have to say that I found reading about the actual history of the company interesting enough. 
 - *Rubin (2023): The Creative Act.* Its a book about being creative. I was surprised about how much I enjoyed this book. To be honest I am also irritated that the book is such a best-seller, since it is kind-off “out there” --- bordering esoteric at some points. I am not sure how much people generally can draw out of it. But ok. A cool thing that I’d like to mention either way is that the book really renders itself to be over multiple session and a prolonged amount of time --- always just one or two thoughts. That is at least how I did. So that is cool. 
 - *Frisch (2019): Magic is dead.* I have mixed feelings. The book is very well written (I wish I could write only half as good) and I like the autobiographical non-fiction aspect. However, the book was written in 2019 and it already appears to be out-of-date. On top of that best part of this book are the ones about Frisch’s mother and not the parts about magic or its history. I particularly found the naive admiration of entrepreneurs in the magic industry annoying. So yeah, mixed feelings...
+- *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
+- *Moris (2009): Catwatching.* Another cat book. It is interesting how little we know about these furry things that live together with us. A lot of the things we assume seem to be projections and intuitions. 
 - *Hammack (2023): The Thing We Make.* This is a great little book that tries to pinpoint the definition of engineering.
 - *Lenhard (2019): Calculated Surprises.* There where too many errors in the explanation of Neural Networks so I stoped reading. 
 - *Morini (2014): Il rischio.* Italian booklet about risk from a philosophical standpoint. Very interesting. 
