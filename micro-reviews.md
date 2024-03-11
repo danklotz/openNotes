@@ -298,13 +298,20 @@ Legend:
 **Z**
 - [Zombieland](https://www.imdb.com/title/tt1156398/?ref_=nm_knf_i4). A ok little zombie movie. 
 
+## Comics & co
+I do not associate with the culture around comics, but I did read a lot of comics (especially when I was younger). 
+
+- ⭐️ Doxiadis & Papadimitriou (2009): Logicomix. This comic is simply amazing. It basically tells the story of Russel and Whiteheads quest to write the Principia Mathematica --- but also describes how it became clear that you cannot proof the completeness of it. I think the role and genius of Whitehead is a bit undersold. I do however really like the portrayal of Wittgenstein. 
+- 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
+- *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
+
+
 ## 📖 Books
 Sometimes I do read:
  
 - *Harris (2022): The Bitmap Brothers: Universe.* This is a beautiful and fun book. I think it especially hits if you grow up with some of the games (as I did). The illustrations are great and the images are well chosen. I personally would have wished for more Z content, but ok that might just be me. That said, in the end the book is, of course, purely brain candy and there is not much to learn or take away from it --- even if I have to say that I found reading about the actual history of the company interesting enough. 
 - *Rubin (2023): The Creative Act.* Its a book about being creative. I was surprised about how much I enjoyed this book. To be honest I am also irritated that the book is such a best-seller, since it is kind-off “out there” --- bordering esoteric at some points. I am not sure how much people generally can draw out of it. But ok. A cool thing that I’d like to mention either way is that the book really renders itself to be over multiple session and a prolonged amount of time --- always just one or two thoughts. That is at least how I did. So that is cool. 
 - *Frisch (2019): Magic is dead.* I have mixed feelings. The book is very well written (I wish I could write only half as good) and I like the autobiographical non-fiction aspect. However, the book was written in 2019 and it already appears to be out-of-date. On top of that best part of this book are the ones about Frisch’s mother and not the parts about magic or its history. I particularly found the naive admiration of entrepreneurs in the magic industry annoying. So yeah, mixed feelings...
-- *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
 - *Moris (2009): Catwatching.* Another cat book. It is interesting how little we know about these furry things that live together with us. A lot of the things we assume seem to be projections and intuitions. 
 - *Hammack (2023): The Thing We Make.* This is a great little book that tries to pinpoint the definition of engineering.
 - *Lenhard (2019): Calculated Surprises.* There where too many errors in the explanation of Neural Networks so I stoped reading. 
@@ -366,7 +373,6 @@ Sometimes I do read:
 - *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
 - *Ekeland & Étienne (2021): Der Zufall (Die Comic-Bibliothek des Wissens).* Tolle Illustrationen, aber ohne Vorwissen ist der Inhalt zu spartanisch rübergebracht. Manche der Bilder und Beispiele sind gut, aber insgesamt ist alles zu wenig ausgeführt. 
-- 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
 - 🎭 *Cartwright (2022): A Philosopher Looks at Science.* This is a great book. I think it is a good overview of Nancy Cartwrights ideas, albeit maybe not the best book to start. Still, it is very clearly written --- not complicated at all --- and in that sense much easier to read than some of her other books. I also like the illustrations. 
 - *Cartwright et al. (2023): The Tangle of Science.*  Its a good book (albeit the print quality is quite bad). For me it is, however, largely superseded by Cartwrights *A Philosopher Looks at Science* 
 
