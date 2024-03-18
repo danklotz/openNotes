@@ -306,7 +306,10 @@ I do not associate with the culture around comics, but I did read a lot of comic
 
 - ⭐️ Doxiadis & Papadimitriou (2009): Logicomix. This comic is simply amazing. It basically tells the story of Russel and Whiteheads quest to write the Principia Mathematica --- but also describes how it became clear that you cannot proof the completeness of it. I think the role and genius of Whitehead is a bit undersold. I do however really like the portrayal of Wittgenstein. 
 - 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
-- *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
+- 🎭 *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
+- Naruto (1999-2014): I liked the series at first, but then the slow pace killed me (even before it reached Shippuden). 
+
+
 
 
 ## 📖 Books
