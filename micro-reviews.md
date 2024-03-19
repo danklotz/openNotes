@@ -169,6 +169,7 @@ Legend:
 - [Looper](https://www.imdb.com/title/tt1276104/?ref_=nm_knf_t_2). This is a nice action movie. It could have been much better if they would have invested a bit more time in the story, but well... It i what it is. 
 - [Lord of the Rings 1 to 3](https://www.imdb.com/title/tt0120737/?ref_=tt_sims_tt_i_11). The prototypical fantasy movies. If you like the universe then these movies are fascinating --- else do not watch since they are long. I happen to like it. 
 - [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
+- [Lupin I & II (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_lupin). Interesting take on [Arsène Lupin](https://en.wikipedia.org/wiki/Arsène_Lupin). Very French. The series plays in the modern days and a fan of Lupin (played by Omar Sy) uses the strategies of the master thief to reach his own goals. It a good watch, but thought that the 2 seasons where a bit too long. I was therefore quite surprised to see that a third one will come out in 2024.
 
 - **M**
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
@@ -274,6 +275,7 @@ Legend:
 
 **U**
 - [Unbreakable](https://www.imdb.com/title/tt0217869/?ref_=hm_tpks_tt_i_7_pd_tp1_pbr_ic). I mainly added this here so I have a movie with U 😅. That said, I think Unbreakable is a vey ok movie. I like the premise and the execution is also fine. A good waste of time so to speak. 
+- [Underworld](https://www.imdb.com/title/tt0320691/?ref_=hm_tpks_tt_i_26_pd_tp1_pbr_ic). Style over substance. Some of it works, most does not.
 
 - **V**
 - [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/?ref_=nm_flmg_t_7_wr). Okaish science fiction movie. Would not recommend, but also not discourage watching it.
