@@ -80,6 +80,7 @@ Legend:
 - [Dead Pool 1 & 2](https://www.imdb.com/title/tt5463162/?ref_=hm_tpks_tt_i_17_pd_tp1_pbr_ic). Parts of the movies are funny, but overall it is not my kind of humor. 
 - [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography.
 - [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who “unironically” like "The Fast and the Furios XYZ".  
+- [Departed](https://www.imdb.com/title/tt0407887/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_departed). Overly dramatic staging of the struggles between an undercover cop and mole. I think the movie is not for everyone and it is also not for all times. But, it is fun to watch and never boring. I would recommend Departed to everyone who likes stories about agent, crime and/or undercover operations
 - [Desperado](https://www.imdb.com/title/tt0112851/?ref_=tt_sims_tt_i_1). Very good gunslinger movie with, amongst others, a young Antonio Banderas and Salma Hayek. Its fun. 
 - [Donnie Darko](https://www.imdb.com/title/tt0246578/?ref_=hm_inth_tt_i_20). This movie proof how a picture can be great not despite but *because a director is not able to communicate properly.
 - [Dune: Part I](https://www.imdb.com/title/tt1160419/?ref_=nv_sr_srsg_3_tt_8_nm_0_q_dune%2520part%2520). Visually interesting movie, but in the end I felt to detached from all characters to care and was even slightly bored.
