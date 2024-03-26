@@ -257,6 +257,7 @@ Legend:
 - [Succession](https://www.imdb.com/title/tt7660850/?ref_=nv_sr_srsg_1). One of the best series I ever watched. Season 3 is probably the weakest, but is still better than almost all other TV dramas/comedies.
 - 🎭 [Superbad](https://www.imdb.com/title/tt0829482/?ref_=nm_flmg_act_45). One of my favorite comedies. It is perfect for what it is. Michael Cera is Michael Cera. Jonnah Hill is Jonnah Hill. And, Bill Hader steals the show.
 - [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/?ref_=nm_knf_i1). Albeit the movie has all elements that I should like I did not enjoy this one. 
+- [Superman Returns](https://www.imdb.com/title/tt0348150/?ref_=nm_knf_t_2). A big waste of time. 
 - [Swiss Army Man](https://www.imdb.com/title/tt4034354/?ref_=nm_knf_t_2). Quite good if you can sustain the weirdness. In some sense a parody of many indie movie conventions, but a bit too over the top at times.
 
 - **T**
