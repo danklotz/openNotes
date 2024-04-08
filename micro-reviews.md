@@ -65,6 +65,7 @@ Legend:
 - [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
 - [Charlie’s Angels](https://www.imdb.com/title/tt5033998/?ref_=nm_flmg_t_11_act). Big waste of time. 
 - [China Town](https://www.imdb.com/title/tt0071315/?ref_=nm_knf_t_2). I saw this movie by coincidence, without knowing anything about it before hand. And boy, that was a cool experience --- such a good movie. 
+- [The Climb](https://www.imdb.com/title/tt8637440/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520climb). I loved the start, did not like the main movie, and found the end ok. Overall: Interesting movie. 
 - [Cloak & Dagger](https://www.imdb.com/title/tt5614844/?ref_=nv_sr_srsg_0). At its best the series is mediocre, at its worst it is bad.
 - [Confessions of a Dangerous Mind](https://www.imdb.com/title/tt0270288/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_confessions%2520of%2520a%2520dange). Good movie about a show host who is also a C.I.A. agent. Kind off a slow burner. Dreamy, at times surrealistic, always stylish. Needs commitment.
 - [Crank](https://www.imdb.com/title/tt0479884/?ref_=nm_knf_t_1). An ok action movie. It has an interesting ideas and some funny ideas, but overall the pacing (and the characters) are a bit to annoying.
