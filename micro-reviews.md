@@ -44,6 +44,7 @@ Legend:
 - [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
 - [The Bear, S1](https://www.imdb.com/title/tt14452776/episodes/?ref_=tt_eps_sm). One of the finest tv series I have ever seen. If you are not put of by the cooking/restaurant theme a must watch. Truly incredible.
 - [The Bear, S2](https://www.imdb.com/title/tt14452776/episodes/?season=2). A master piece. I would say that the overall plot is constructed worse than then the one for S1, but some of individual episodes are even better. Definitely a highlight.
+- [The Bear, S3](https://www.imdb.com/title/tt14452776/episodes/?season=3&ref_=tt_eps_sn_3). I have mixed feelings about this season. It is still better than most series and the first episode is a master piece. However, the season also did not manage to enchant me like the previous ones did. I guess it is impossible to keep the magic up forever. 
 - [The Beekeeper](https://www.imdb.com/title/tt15314262/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520beeke). I like the idea, but the movie is just nothing for me.  
 - [Between Two Ferns: The Movie](https://www.imdb.com/title/tt9398640/?ref_=nm_flmg_act_5). I did like the old series on youtube. I do not like the flick.
 - [Being John Malkovich](https://www.imdb.com/title/tt0120601/?ref_=hm_tpks_tt_i_3_pd_tp1_pbr_ic). A self referential movie that has a self referential plot. Quite interesting.  
@@ -56,6 +57,7 @@ Legend:
 - 🎭 [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
+- [The Boys S4](https://www.imdb.com/title/tt1190634/episodes/?season=4&ref_=tt_eps_sn_4). Surprisingly bad. Very bad that is. So far this season is definitely the lowest point of the series.  
 - [The Breakfast Club](https://www.imdb.com/title/tt0088847/?ref_=tt_tpks_tt_i_13_pd_detail_2_pbr_ic). Its probably because I have seen this movie when I was very young, but I just love it. 
 - [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Funny assassin movie with lots and lots of action. Popcorn flick. Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Maybe a bit too involved at times. Would recommend.
 - [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment.
@@ -180,6 +182,7 @@ Legend:
 - [Magic in the Moonlight](https://www.imdb.com/title/tt2870756/?ref_=tt_sims_tt). I do not like the movie too much. I like all the actors and the ideas are nice --- but I feel like the premise is not my pair of shoes.
 - ⭐️ [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
+- [Marmalade](https://www.imdb.com/title/tt21275544/?ref_=nv_sr_srsg_4_tt_7_nm_1_in_0_q_marmelade). Predictable heist movie with some nice ideas. Not the best, not the worst.  
 - [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). The defining action mvoie of the 90s. It is difficult to now see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
 - [The Menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
 - [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
@@ -216,6 +219,7 @@ Legend:
 - [Our Flag means Death (S1 & S2)](https://www.imdb.com/title/tt11000902/?ref_=tt_ov_inf). Ok. This series starts very interesting, but burns out during the second half of the first season. That said, albeit there sadly also exists a whole second season, it never gets too bad. 
 
 - **P**
+- [Palm Springs](https://www.imdb.com/title/tt9484998/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_palm%2520springs). Okaish romance comedy with some nice ideas around the time loop concept. I liked it. 
 - 🎭 [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [The Perks of Being a Wallflower](https://www.imdb.com/title/tt1659337/?ref_=fn_al_tt_1). This is one of those movies that reminds me that I will never be able to understand American culture. Apart from that, it is a wonderful high school movie about growing older in a more than imperfect world. 
 - [Poker Face](https://www.imdb.com/title/tt14269590/?ref_=nv_sr_srsg_1_tt_5_nm_2_q_poker%2520). I have my problems with movies from [Rian Johnson](https://www.imdb.com/name/nm0426059/?ref_=tt_ov_wr), but he clearly knows how to make stories about crime, riddles, and investigation. Poker Face is one of the coolest detective series I have watched. 
@@ -239,6 +243,7 @@ Legend:
 
 
 - **S**
+- 🎭 [The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/?ref_=hm_tpks_tt_i_5_pd_tp1_pbr_ic). This is a wonderful, life-affirming movie. Very, very enjoyable. The message reminds me of [sun and steel](https://en.wikipedia.org/wiki/Sun_and_Steel_(essay)) --- but without the mysticism and the problematic elements. 
 - 🎭 [The Secret of Kells](https://www.imdb.com/title/tt0485601/?ref_=nv_sr_srsg_4_tt_8_nm_0_q_secrets%2520of%2520kel). This is a wonderful animation movie. It is worth watching it just for the art style alone. 
 - [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_see%2520h). Well made, mellow movie with some ok jokes and an ok plot. I really wanted to like it more. 
 - [Seven](https://www.imdb.com/title/tt0114369/?ref_=tt_sims_tt_i_7). This is a very good crime/suspension movie. It is also one of these amazing movies of the 90s that only rarely come out these days and made [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr) a household name.  
