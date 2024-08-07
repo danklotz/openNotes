@@ -10,5 +10,5 @@ The papers are not selected for their importance or impact, but for how interest
 - [Robert Abrahart (2005): Neurohydrology: implementation options and a research agenda](https://doi.org/10.1111/j.1475-4762.1999.tb00179.x). The paper that [schmidhubered](https://en.wikipedia.org/wiki/Jürgen_Schmidhuber) our little [initiative](https://neuralhydrology.github.io). From todays point of view it is very interesting to see how many things Abrahart was able to conceptualize. 
 - [Kalra and Paddock (2016): Driving to Safety](https://www.rand.org/pubs/research_reports/RR1478.html). TBD
 - [Horvath and Solenthaler (2013): Mass Preserving Multi-Scale SPH](https://graphics.pixar.com/library/MultiScaleSPH/paper.pdf). TBD
-- [Judd: Fifty years of forecasting chaos and the shadow of imperfect models](https://doi.org/10.1587/nolta.7.234). TBD
+- [Judd (2016): Fifty years of forecasting chaos and the shadow of imperfect models](https://doi.org/10.1587/nolta.7.234). TBD
 - [Zadeh (2006): Generalized theory of uncertainty (GTU)—principal concepts and ideas](https://doi.org/10.1016/j.csda.2006.04.029). TBD
