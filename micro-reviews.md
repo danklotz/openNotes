@@ -39,7 +39,8 @@ Legend:
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.
 - [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). Just fun. Essentially, Baby Driver is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
 - ⭐️ [Back to the Future I to III](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
-- [Bad Boys](https://www.imdb.com/title/tt0112442/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). One the movies that made Will Smith the anamorphous movie star that he is today. Fun candy, but not very nutritional. 
+- [Bad Boys](https://www.imdb.com/title/tt0112442/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). One the movies that made Will Smith the anamorphous movie star that he is today. Fun candy, but not very nutritional.
+- [BlacKkKlansman](https://www.imdb.com/title/tt7349662/?ref_=tt_mv_close). The movie tells the story of a black undercover agent who investigates the KKK in the 70s. It has its lengths and even felt boring at some points. But overall it is packed full with ideas and commentary about the current state of the US. Spike Lee knows what he is doing. 
 - [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). I cannot precisely point out why, but the after watching the movie it felt as if I just wasted my time. Not the best feeling. 
 - [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
 - [The Bear, S1](https://www.imdb.com/title/tt14452776/episodes/?ref_=tt_eps_sm). One of the finest tv series I have ever seen. If you are not put of by the cooking/restaurant theme a must watch. Truly incredible.
@@ -50,8 +51,9 @@ Legend:
 - [Being John Malkovich](https://www.imdb.com/title/tt0120601/?ref_=hm_tpks_tt_i_3_pd_tp1_pbr_ic). A self referential movie that has a self referential plot. Quite interesting.  
 - ⭐️ [Blue Eye Samurai (series)](https://www.imdb.com/title/tt13309742/?ref_=nv_sr_srsg_4_tt_4_nm_4_q_blue%2520eyed%2520samu). If [Kill Bill](https://www.imdb.com/title/tt0266697/?ref_=fn_al_tt_1) would be nudged up a bit and also become an animation series in ancient Japan you would probably get something like this. I cannot emphasize enough how good this animation is. The story is great, the art is great, the action is great, the choreography is great, the homages are great. I have some problems with some small parts here an there, but they do not matter. This is just very enjoybale. 
 - ⭐️ [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
-- 🎭 [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
+- 🎭 [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And immensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
+- [Birds of Prey](https://www.imdb.com/title/tt7713068/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_emancipation%2520of). An average superhero movie. Actually, I would say slightly below average. [Barbie](https://www.imdb.com/name/nm3053338/?ref_=tt_cl_t_1) is a great Harley Quinn, but that does not save the movie. 
 - [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
 - [Blue Jasmine](https://www.imdb.com/title/tt2334873/?ref_=nm_flmg_dr_8). This would be a great movie if the ending would be a little bit better. The way it is, however, it is just a good one.
 - 🎭 [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
@@ -65,6 +67,7 @@ Legend:
 
 - **C**
 - [Café Society](https://www.imdb.com/title/tt4513674/?ref_=nm_flmg_dr_5). This movie is also a mixed bag for me. I enjoy the premise, the style and the humor, but I did not enjoy it that much. Maybe its to rushed?
+- [Challengers](https://www.imdb.com/title/tt16426418/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_challengers). This is a good movie. I do not care about tennis at all, but that does not matter. The female lead has kind of a bad chemistry with the two male leads, but the movie is constructed in such a way that it makes it even better. 
 - [Charlie’s Angels](https://www.imdb.com/title/tt5033998/?ref_=nm_flmg_t_11_act). Big waste of time. 
 - [China Town](https://www.imdb.com/title/tt0071315/?ref_=nm_knf_t_2). I saw this movie by coincidence, without knowing anything about it before hand. And boy, that was a cool experience --- such a good movie. 
 - [The Climb](https://www.imdb.com/title/tt8637440/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520climb). I loved the start, did not like the main movie, and found the end ok. Overall: Interesting movie. 
@@ -80,7 +83,8 @@ Legend:
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&pf_rd_r=DCT5YV01C20Z2HCMK04R&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=top&ref_=chttp_tt_4). Very good movie. Maybe a bit overrated? Liked it a lot at first, but wouldn't watch it anymore (which is not a particularly good sign).
 - [Dark Web: Cicada 3301](https://www.imdb.com/title/tt8110246/?ref_=nv_sr_srsg_0). Almost complete trash. I just watched it because I was curious about how they realized the hacker-theme after watching Who am I.
 - [Dead Man](https://www.imdb.com/title/tt0112817/?ref_=tt_sims_tt). A good movie. Just not my pair of shoes.
-- [Dead Pool 1 & 2](https://www.imdb.com/title/tt5463162/?ref_=hm_tpks_tt_i_17_pd_tp1_pbr_ic). Parts of the movies are funny, but overall it is not my kind of humor. 
+- [Deadpool 1 & 2](https://www.imdb.com/title/tt5463162/?ref_=hm_tpks_tt_i_17_pd_tp1_pbr_ic). Parts of the movies are funny, but overall it is not my kind of humor.
+- [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/?ref_=hm_top_tt_i_2). I do not understand why everyone likes this movie so much. The movie is ok. It feels a like AHDS is described. At the end I was exhausted. The movie is way too long and has too many bad comedy elements. Yet, it still better than most Marvel movies these days. 
 - [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=nv_sr_srsg_0). A mediocre movie with amazing cinematography.
 - [Death Race](https://www.imdb.com/title/tt0452608/?ref_=fn_al_tt_1). Mad Max for people who “unironically” like "The Fast and the Furios XYZ".  
 - [Departed](https://www.imdb.com/title/tt0407887/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_departed). Overly dramatic staging of the struggles between an undercover cop and mole. I think the movie is not for everyone and it is also not for all times. But, it is fun to watch and never boring. I would recommend Departed to everyone who likes stories about agent, crime and/or undercover operations
@@ -158,7 +162,8 @@ Legend:
 - [Kick-Ass](https://www.imdb.com/title/tt1250777/?ref_=nm_knf_i3). One of the better superhero movies.
 - [Kill Bill 1](https://www.imdb.com/title/tt0266697/?ref_=tt_sims_tt_i_10). This is is just a very enjoyable movie if one likes action and good choreography. It also has a very iconic visual language. 
 - [Kill Bill 2](https://www.imdb.com/title/tt0378194/?ref_=tt_sims_tt_i_1). The second movie breaks with everything from the first one. The visual language change, the pacing is different and the (few) existing action scenes play out completely different. And yet, the movie is still very entertaining.  
-- [The Killer](https://www.imdb.com/title/tt1136617/?ref_=hm_tpks_tt_i_12_pd_tp1_pbr_ic). I thought that I lost interest in David Finchers work, but I was wrong. This was interesting. 
+- [The Killer (John Woo, 2024)](https://www.imdb.com/title/tt1121948/?ref_=nm_flmg_t_1_act). Nice little action movie by a legendary director. I think the movie could have been better in many ways, but it is an enjoyable watch if you do not expect too much.
+- [The Killer (David Fincher)](https://www.imdb.com/title/tt1136617/?ref_=hm_tpks_tt_i_12_pd_tp1_pbr_ic). I thought that I lost interest in David Finchers work, but I was wrong. This was interesting. 
 - [King Arthur: Legend of the Sword](https://www.imdb.com/title/tt1972591/?ref_=nm_knf_i1). No. Please no! Nooooo!
 - [The King's Man](https://www.imdb.com/title/tt6856242/). The movie has some beautiful pictures, but overall it felt like a waste of time.
 - [Kingsman: The Secret Service](https://www.imdb.com/title/tt2802144/?ref_=nm_knf_i2). A completely over the top action movie. If you can stomach this kind of movie --- which I do --- than its actually great.
@@ -175,7 +180,9 @@ Legend:
 - [Looper](https://www.imdb.com/title/tt1276104/?ref_=nm_knf_t_2). This is a nice action movie. It could have been much better if they would have invested a bit more time in the story, but well... It i what it is. 
 - [Lord of the Rings 1 to 3](https://www.imdb.com/title/tt0120737/?ref_=tt_sims_tt_i_11). The prototypical fantasy movies. If you like the universe then these movies are fascinating --- else do not watch since they are long. I happen to like it. 
 - [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
-- [Lupin I & II (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_lupin). Interesting take on [Arsène Lupin](https://en.wikipedia.org/wiki/Arsène_Lupin). Very French. The series plays in the modern days and a fan of Lupin (played by Omar Sy) uses the strategies of the master thief to reach his own goals. It a good watch, but thought that the 2 seasons where a bit too long. I was therefore quite surprised to see that a third one will come out in 2024.
+- [Lupin I & II (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_lupin). Interesting take on [Arsène Lupin](https://en.wikipedia.org/wiki/Arsène_Lupin). Very French. The series plays in the modern days and a fan of Lupin (played by [Omar Sy](https://www.imdb.com/name/nm1082477/?ref_=tt_cl_t_1)) uses the strategies of the master thief to reach his own goals. It a good watch, but thought that the 2 seasons where a bit too long. I was therefore quite surprised to see that a third one will come out in 2024.
+- [Lupin III (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_lupin). I have mixed feelings about this season. It starts very dynamic and fresh, but then becomes stale. Each minor point is executed very well, but the overall plot is disappointing. The twists within the series are too clear, but the end is too enigmatic. Still nice to see, but I prefer the first season. 
+-   
 
 - **M**
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
