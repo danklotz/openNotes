@@ -294,6 +294,7 @@ Legend:
 
 **U**
 - [Unbreakable](https://www.imdb.com/title/tt0217869/?ref_=hm_tpks_tt_i_7_pd_tp1_pbr_ic). I mainly added this here so I have a movie with U 😅. That said, I think Unbreakable is a vey ok movie. I like the premise and the execution is also fine. A good waste of time so to speak. 
+- [Uncharted](https://www.imdb.com/title/tt1464335/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_uncharted). This one is more bad than good. It is not a total disaster, but I could definitely count more negatives than positives. That said, I do not know the games, so maybe I am missing something. 
 - [Underworld](https://www.imdb.com/title/tt0320691/?ref_=hm_tpks_tt_i_26_pd_tp1_pbr_ic). Style over substance. Some of it works, most does not.
 
 - **V**
