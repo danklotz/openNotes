@@ -59,7 +59,7 @@ Legend:
 - 🎭 [The Boys S1](https://www.imdb.com/title/tt1190634/episodes?season=1&ref_=tt_eps_sn_1). AMAZING.
 - [The Boys S2](https://www.imdb.com/title/tt1190634/episodes?season=2). Still good. it manages to be more structured than the first season, while being much more all over the place at the same time.  
 - [The Boys S3](https://www.imdb.com/title/tt1190634/episodes?season=3). They go way to deep in this one. Better than season 2, but not as novel as season 1. 
-- [The Boys S4](https://www.imdb.com/title/tt1190634/episodes/?season=4&ref_=tt_eps_sn_4). Surprisingly bad. Very bad that is. So far this season is definitely the lowest point of the series.  
+- [The Boys S4](https://www.imdb.com/title/tt1190634/episodes/?season=4&ref_=tt_eps_sn_4). Surprisingly bad. And, with that I mean that the season is VERY BAD. So far this season is definitely the lowest point of the series.  
 - [The Breakfast Club](https://www.imdb.com/title/tt0088847/?ref_=tt_tpks_tt_i_13_pd_detail_2_pbr_ic). Its probably because I have seen this movie when I was very young, but I just love it. 
 - [Bullet Train](https://www.imdb.com/title/tt12593682/?ref_=nv_sr_srsg_1). Funny assassin movie with lots and lots of action. Popcorn flick. Entertaining *tarantinoesque* spectacle. Quite funny and over the top. Maybe a bit too involved at times. Would recommend.
 - [Burn After Reading](https://www.imdb.com/title/tt0887883/?ref_=hm_tpks_tt_t_1_pd_tp1_pbr_ic). Just great entertainment.
@@ -70,11 +70,12 @@ Legend:
 - [Challengers](https://www.imdb.com/title/tt16426418/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_challengers). This is a good movie. I do not care about tennis at all, but that does not matter. The female lead has kind of a bad chemistry with the two male leads, but the movie is constructed in such a way that it makes it even better. 
 - [Charlie’s Angels](https://www.imdb.com/title/tt5033998/?ref_=nm_flmg_t_11_act). Big waste of time. 
 - [China Town](https://www.imdb.com/title/tt0071315/?ref_=nm_knf_t_2). I saw this movie by coincidence, without knowing anything about it before hand. And boy, that was a cool experience --- such a good movie. 
-- [The Climb](https://www.imdb.com/title/tt8637440/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520climb). I loved the start, did not like the main movie, and found the end ok. Overall: Interesting movie. 
+- [The Climb](https://www.imdb.com/title/tt8637440/?ref_=nv_sr_srsg_2_tt_8_nm_0_q_the%2520climb). I loved the start, did not like the main movie, and found the end ok. Overall: Interesting movie.
 - [Cloak & Dagger](https://www.imdb.com/title/tt5614844/?ref_=nv_sr_srsg_0). At its best the series is mediocre, at its worst it is bad.
 - [Confessions of a Dangerous Mind](https://www.imdb.com/title/tt0270288/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_confessions%2520of%2520a%2520dange). Good movie about a show host who is also a C.I.A. agent. Kind off a slow burner. Dreamy, at times surrealistic, always stylish. Needs commitment.
 - [Crank](https://www.imdb.com/title/tt0479884/?ref_=nm_knf_t_1). An ok action movie. It has an interesting ideas and some funny ideas, but overall the pacing (and the characters) are a bit to annoying.
-- [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_knf_t_2). One of the best Kung Fu movies ever made.   
+- [Cross](https://www.imdb.com/title/tt11794812/?ref_=fn_al_tt_1). I am not a big fan of this kind of crime trhillers. I think within the genre this series is ok. It is just not my thing. 
+- [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_knf_t_2). One of the best Kung Fu movies ever made.
 
 - **D**
 - 🎭 [Danger 5 (S1)](https://www.imdb.com/title/tt1807165/?ref_=nm_knf_t_1). Easily one of the best TV shows out there. 
@@ -263,6 +264,7 @@ Legend:
 - [Shōgun](https://www.imdb.com/title/tt2788316/?ref_=hm_top_tt_i_3). Truly impressive series from start to end. 
 - [Shutter Island](https://www.imdb.com/title/tt1130884/?ref_=nm_knf_t_4). Shutter Island is a kind of mystery/horror thriller, which actually is not my kind of genre. I still have to say that it is a great movie that grabbed my from start to finish. 
 - [Sin City](https://www.imdb.com/title/tt0401792/?ref_=tt_sims_tt_i_6). Beautiful eye candy.
+- [Slow Horses](https://www.imdb.com/title/tt5875444/?ref_=nv_sr_srsg_0_tt_4_nm_4_in_0_q_Slow%2520). This is one of the best series I watched and Gary Oldman is a genius. My current season ranking is 2 > 1 > 4 > 3.
 - [Smiley’s People (series)](https://www.imdb.com/title/tt0083480/?ref_=tt_sims_tt_i_1). Fantastic mini series of John le Carré’s famous spy novel. Maybe a bit slow by todays standards, but still a great watch. I think the series is almost stronger than [Tinker, Tayler, Soldier, Spy](https://www.imdb.com/title/tt0080297/?ref_=tt_sims_tt_i_2), since it has more suspense and a nicer conclusion. But, both are nice. 
 - 🎭 [Snatch](https://www.imdb.com/title/tt0208092/?ref_=fn_al_tt_1). Franky F**** Four Fingers.
 - ⭐️ [Song of the Sea](https://www.imdb.com/title/tt1865505/?ref_=nm_knf_t_2). From what I have seen so far this is my favorite movie by [Tom Moore](https://www.imdb.com/name/nm1119079/?ref_=tt_ov_dr). Everything about the movie is just wonderful. Again, I would recommend it for the art alone, but the story is also heartfelt and moving. Just a very touching experience.   
@@ -291,6 +293,7 @@ Legend:
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
 - [The Truman Show](https://www.imdb.com/title/tt0120382/?ref_=tt_tpks_tt_i_5_pd_detail_2_pbr_ic). Movies like these are  the reason why I loved Jim Carey back in the day. I am very happy that I saw the movie when I saw it, since I do not know how I would perceive it today. 
+- [Tulsa King](https://www.imdb.com/title/tt16358384/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_tulsa%2520). The first season is interesting, the second season rather boring. As a whole the series is never great, but, I guess, it is nice to see Stalone is still kicking
 
 **U**
 - [Unbreakable](https://www.imdb.com/title/tt0217869/?ref_=hm_tpks_tt_i_7_pd_tp1_pbr_ic). I mainly added this here so I have a movie with U 😅. That said, I think Unbreakable is a vey ok movie. I like the premise and the execution is also fine. A good waste of time so to speak. 
@@ -424,6 +427,7 @@ Sometimes I do read:
 - [Hanayama Cast Nutcase](https://hanayama-toys.com/product/cast-nutcase/). Actually simpler than the level would suggest. Very nice solution.
 - [Hanayama Cast News](https://hanayama-toys.com/product/cast-news/). I only was able to solve this one out of pure luck while playing around with it. Took me then still some time to understand its mechanism. Very good puzzle, but quite advanced.
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
+- [Hanayama Cast Heart](https://hanayama-toys.com/product/cast-heart/). TBD. 
 
 ## 🎪 Youtubes
 - [Ralph Ammer](https://www.youtube.com/@ralphammer2/). I just love the way this guy does things. Everything is just very thoughtful, well prepared, and personal. I especially like the way he [writes](https://ralphammer.com).
