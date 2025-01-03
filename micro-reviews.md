@@ -12,7 +12,7 @@ Legend:
 - **#**
 - [8 Mile](https://www.imdb.com/title/tt0298203/?ref_=nv_sr_srsg_0). This is a much better movie than commonly thought. I admit that it is not great cinema. The movie is also not the junk that some pretend it is.
 - [12 Monkeys](https://www.imdb.com/title/tt0114746/?ref_=tt_sims_tt_i_3). This is a super cool science fiction movie. It has a great premise and it executes perfectly. Also, the movie is surreal and strange in a good way. 
-- [21 Jumps Street](https://www.imdb.com/title/tt1232829/?ref_=nm_knf_t_4). I did not enjoy this, depsite generally liking Jonah Hill. 
+- [21 Jumps Street](https://www.imdb.com/title/tt1232829/?ref_=nm_knf_t_4). I did not enjoy this, despite generally liking Jonah Hill. 
 - [500 Days of Summer](https://www.imdb.com/title/tt1022603/?ref_=nm_flmg_act_25). This is a wonderful rom com.
 
 
@@ -39,7 +39,7 @@ Legend:
 - [Bable](https://www.imdb.com/title/tt0449467/?ref_=hm_tpks_tt_22_pd_tp1_cp). Good movie. Difficult to think now that blockbusters at a time had this quality.
 - [Baby Driver](https://www.imdb.com/title/tt3890160/?ref_=tt_sims_tt). Just fun. Essentially, Baby Driver is a great, great car-chase movie. The heist aspect is also nice, but you want to watch this movie because of the chase scenes.
 - ⭐️ [Back to the Future I to III](https://www.imdb.com/title/tt0088763/?ref_=nm_knf_i1). Classic. Very enjoyable movie.
-- [Bad Boys](https://www.imdb.com/title/tt0112442/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). One the movies that made Will Smith the anamorphous movie star that he is today. Fun candy, but not very nutritional.
+- [Bad Boys](https://www.imdb.com/title/tt0112442/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). One the movies that made Will Smith the star that he is today. Fun candy, but not very nutritional.
 - [BlacKkKlansman](https://www.imdb.com/title/tt7349662/?ref_=tt_mv_close). The movie tells the story of a black undercover agent who investigates the KKK in the 70s. It has its lengths and even felt boring at some points. But overall it is packed full with ideas and commentary about the current state of the US. Spike Lee knows what he is doing. 
 - [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=hm_tpks_tt_i_6_pd_tp1_pbr_ic). I cannot precisely point out why, but the after watching the movie it felt as if I just wasted my time. Not the best feeling. 
 - [Beach Bum](https://www.imdb.com/title/tt6511932/?ref_=nv_sr_srsg_0). Nothing for me. Felt annoying from minute one on, so that I eventually needed to stop watching.
@@ -49,9 +49,9 @@ Legend:
 - [The Beekeeper](https://www.imdb.com/title/tt15314262/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520beeke). I like the idea, but the movie is just nothing for me.  
 - [Between Two Ferns: The Movie](https://www.imdb.com/title/tt9398640/?ref_=nm_flmg_act_5). I did like the old series on youtube. I do not like the flick.
 - [Being John Malkovich](https://www.imdb.com/title/tt0120601/?ref_=hm_tpks_tt_i_3_pd_tp1_pbr_ic). A self referential movie that has a self referential plot. Quite interesting.  
-- ⭐️ [Blue Eye Samurai (series)](https://www.imdb.com/title/tt13309742/?ref_=nv_sr_srsg_4_tt_4_nm_4_q_blue%2520eyed%2520samu). If [Kill Bill](https://www.imdb.com/title/tt0266697/?ref_=fn_al_tt_1) would be nudged up a bit and also become an animation series in ancient Japan you would probably get something like this. I cannot emphasize enough how good this animation is. The story is great, the art is great, the action is great, the choreography is great, the homages are great. I have some problems with some small parts here an there, but they do not matter. This is just very enjoybale. 
+- ⭐️ [Blue Eye Samurai (series)](https://www.imdb.com/title/tt13309742/?ref_=nv_sr_srsg_4_tt_4_nm_4_q_blue%2520eyed%2520samu). If [Kill Bill](https://www.imdb.com/title/tt0266697/?ref_=fn_al_tt_1) would be nudged up a bit and also become an animation series in ancient Japan you would probably get something like this. I cannot emphasize enough how good this animation is. The story is great, the art is great, the action is great, the choreography is great, the homages are great. I have some problems with some small parts here an there, but they do not matter. This is just very enjoyable. 
 - ⭐️ [Big Fish](https://www.imdb.com/title/tt0319061/?ref_=nm_flmg_dr_14). <3 <3 <3 One of my favorite movies <3 <3 <3
-- 🎭 [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And immensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
+- 🎭 [The Big Lebowski](https://www.imdb.com/title/tt0118715/). And imensly good way to waste ones time. Probably the best slacker movie and one of the finest of them all.
 - [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=nv_sr_srsg_0). It is what it is. And that is fine. If you like Bill & Ted (like me) you will like this movie, if you don't like em or don't know em its nothing for you.
 - [Birds of Prey](https://www.imdb.com/title/tt7713068/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_emancipation%2520of). An average superhero movie. Actually, I would say slightly below average. [Barbie](https://www.imdb.com/name/nm3053338/?ref_=tt_cl_t_1) is a great Harley Quinn, but that does not save the movie. 
 - [Black Swan](https://www.imdb.com/title/tt0947798/?ref_=ttls_li_tt). Incredibly movie about ballet, which is, of course, good because it is not about ballet. Not for every day. 
@@ -95,7 +95,7 @@ Legend:
 - [Dune: Part II](https://www.imdb.com/title/tt15239678/). This is a much better movie than part I. The visuals are still breathtaking, but now characters, pacing and story also became great. I also liked how a lot of the future visions that go beyond the story where weaved into. The movie has its problems, but its still great. Outside of the fandom, however, its a must see for science fiction fans. 
 - [Dr. Strange](https://www.imdb.com/title/tt1211837/?ref_=nm_flmg_t_8_act). An ok movie. However, it could be so much better if the plot would just be more intriguing. 
 - [Dr. Strange 2](https://www.imdb.com/title/tt9419884/?ref_=tt_sims_tt_i_6). Boring.
-- [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_rive-Away%2520Dolls). A Cohen withouth its brother. I understand why the Drive-Away Dools got such mixed reviews. The humor is quite at times quite blunt and a lot of scenes are overacted. Even I recognized that. But, appart from that the experience feels like a light-harded movie from the brothers with all elements that I like about their movies, less of the darkness, and some to loud scenes. 
+- [Drive-Away Dolls](https://www.imdb.com/title/tt19356262/?ref_=nv_sr_srsg_0_tt_1_nm_0_q_rive-Away%2520Dolls). A Cohen without its brother. I understand why the Drive-Away Dools got such mixed reviews. The humor is quite at times quite blunt and a lot of scenes are overacted. Even I recognized that. But, apart from that the experience feels like a light hearted movie from the brothers with all elements that I like about their movies, less of the darkness, and some to loud scenes. 
 - [Dungeons and Dragons: Honor Among Thieves](https://www.imdb.com/title/tt2906216/?ref_=fn_al_tt_1). This movie is surprisingly funny and light-hearted. It follows the formula from [Guardians of the Galaxy](https://www.imdb.com/title/tt2015381/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_guaradians%2520of%2520the%2520) in that a untrustworthy, „useless“ leader assembles a band of misfits and saves the day. Cool. 
 
 - **E**
@@ -191,7 +191,7 @@ Legend:
 - ⭐️ [Magnolia](https://www.imdb.com/title/tt0175880/?ref_=tt_sims_tti). A set of intricately interwoven stories. Hard to watch, and yet one of my favorite movies. So, i recommend to watch it, but not too often. There are some truly incredible performances to be seen. 
 - [The Man from U.N.C.L.E.](https://www.imdb.com/title/tt1638355/?ref_=nm_knf_i4). A good agent movie with the actor from these awful new-age Superman movies. For my personal taste the movie a bit too much of a caricature and a bit too dynamic. But probably that is just me.
 - [Marmalade](https://www.imdb.com/title/tt21275544/?ref_=nv_sr_srsg_4_tt_7_nm_1_in_0_q_marmelade). Predictable heist movie with some nice ideas. Not the best, not the worst.  
-- [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). The defining action mvoie of the 90s. It is difficult to now see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
+- [The Matrix](https://www.imdb.com/title/tt0133093/?ref_=tt_sims_tt). The defining action movie of the 90s. It is difficult to now see how influential this movie was. Albeit it did not age that well (partly because of the follow up movies, I think), Matrix is still great for what it was.
 - [The Menu](https://www.imdb.com/title/tt9764362/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_the%2520menu). A comedy, horror thriller about fine dining? Yes, and a very good one at that. Super enjoyable if you can stomach the violence. Recommendation.
 - [The Men who stare at Goat](https://www.imdb.com/title/tt1234548/?ref_=hm_tpks_tt_t_15_pd_tp1_pbr_ic). The trailer is better than the movie. The latter is rather mediocre. 
 - ⭐️ [Midnight in Paris](https://www.imdb.com/title/tt1605783/?ref_=nm_flmg_dr_10). Great, great, great movie. Easy going, witty, funny, thoughtful but not too ensnared. Lovely setting.
@@ -279,7 +279,7 @@ Legend:
 
 - **T**
 - [Taxi](https://www.imdb.com/title/tt0152930/?ref_=nm_flmg_t_82_act). One of the action comedies that [Luc Besson](https://www.imdb.com/name/nm0000108/?ref_=tt_ov_wr) championed to build up the French action cinema (I thin?). The movie is funny and light hearted. Good candy to waste your time with. 
-- [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other seuqels where necessary, but I will not complain.
+- [Taxi 2](https://www.imdb.com/title/tt0183869/?ref_=nm_flmg_t_75_act). I have nothing to add to this one. It is the same as Taxi. I wonder if this and all the other sequels where necessary, but I will not complain.
 - [Ted](https://www.imdb.com/title/tt1637725/?ref_=tt_tpks_tt_i_12_pd_detail_2_pbr_ic). I do not understand people who like this kind of movie/humor. 
 - [The Lives of Others](https://www.imdb.com/title/tt0405094/?ref_=tt_sims_tt_i_5). This is a great movie about a dark time in the history of East Germany. It is somewhat sombre, but also fundamentally life affirming. The is one caveat: I watched it in German and and I am not sure if the movie works in English. Probably. 
 - [Thor](https://www.imdb.com/title/tt0800369/?ref_=hm_tpks_tt_i_30_pd_tp1_pbr_ic). Nah. 
@@ -344,7 +344,7 @@ Sometimes I read.
 - *Spiegelhalter (2024):* The Art of Uncertainty. I very much liked *The Art of Statistics* by Spiegelhalter (hint: there is also a very short review below somewhere). And, on top of that I do tend to like books about the conceptualizations of probability (hint: as can probably (hihi) be induced from some of my reviews). However, I did not like this book. That is not to say that the Art of Uncertainty is not a valuable read. As a matter of fact, I think it can be useful to use the examples, games and illustrations form the book to teach about uncertainty/probability since everything is broken down and explained very well. It just felt a bit too superficial and boring for me. 
 - *Hirsch (2024):* The Book of Bill. Is there a name for texts/books that mask themselves are artifacts? There is [ergodic literature](https://en.wikipedia.org/wiki/Ergodic_literature), I guess. But, that seems a bit too broad for the artifact sort of thing. Anyways. The Book of Bill is such a text and it is wild. There are a lot of creative ideas in it and they push the art and graphic designs in wild directions. Sometimes this works better and sometimes this works worse. At times it does indeed feel like a TV show. Also, there are codes in the book! And then, there is this mysterious website...
 - *Pawitan and Lee (2024):* Philosophies, Puzzles and Paradoxes: A Statistician’s Search for Truth. This is a very interesting book about probability and how it relates to statistics (at least I read it like that). I sometimes had the feeling that the authors explain some things too intensively and other things not enough. But, I guess that is unavoidable with a book that touches on so many topics. 
-- *Fearnley-Whittingstall (2005):* The Big Bento Box Of Unuseless Japanese Inventions: The Art of Chindogu. A delightfully weird book about a delightfully weird topic. The unuseless inventions are just great. Truly inspiring. The layout is special. I am often not sure if (modern) Japanese layouts are intentionally weird or if there are a [cultural reasons](https://youtu.be/vi8pyS076a8?si=ECdmWGpayKTzgcNG). For this book I am also not 100% sure, but it does add to the my enjoyment. 
+- *Fearnley-Whittingstall (2005):* The Big Bento Box Of Unuseless Japanese Inventions. A delightfully weird book about a delightfully weird topic. The unuseless inventions are just great. Truly inspiring. The layout is special. I am often not sure if (modern) Japanese layouts are intentionally weird or if there are a [cultural reasons](https://youtu.be/vi8pyS076a8?si=ECdmWGpayKTzgcNG). For this book I am also not 100% sure, but it does add to the my enjoyment. 
 - *Bridgman (1960): The Logic of Modern Physics.* A very interesting book about operationalism in a hard science like physics. It is a bit hard to read --- partially because of the subject, and partially because the language is already outdated. Still worth it for those interesting in logical concept that underpin science. 
 - *Harris (2022): The Bitmap Brothers: Universe.* This is a beautiful and fun book. I think it especially hits if you grow up with some of the games (as I did). The illustrations are great and the images are well chosen. I personally would have wished for more Z content, but ok that might just be me. That said, in the end the book is, of course, purely brain candy and there is not much to learn or take away from it --- even if I have to say that I found reading about the actual history of the company interesting enough. 
 - *Rubin (2023): The Creative Act.* Its a book about being creative. I was surprised about how much I enjoyed this book. To be honest I am also irritated that the book is such a best-seller, since it is kind-off “out there” --- bordering esoteric at some points. I am not sure how much people generally can draw out of it. But ok. A cool thing that I’d like to mention either way is that the book really renders itself to be over multiple session and a prolonged amount of time --- always just one or two thoughts. That is at least how I did. So that is cool. 
@@ -355,7 +355,7 @@ Sometimes I read.
 - *Morini (2014): Il rischio.* Italian booklet about risk from a philosophical standpoint. Very interesting. 
 - *Kosko (1994): Fuzzy Thinking: The New Science of Fuzzy Logic.* Interesting to see how Kosko saw the role of fuzzy logic during its prime time (maybe a bit later already?). 
 - *Kosko (2006): Noise.* This is a very cool book with a quite unique perspective of noise. Easy to read and yet very deep, albeit some aspects are maybe a bit outdated.
-- *Contino (2018): Brand by Hand.* Beatyful book. The text-part is so so, but the artworks and the overall design is great. 
+- *Contino (2018): Brand by Hand.* Beautyful book. The text-part is so so, but the artworks and the overall design is great. 
 - *Snicket (2021): Poison for Breakfast.* Great little meditation about writing.  
 - *Briggs (1990): Turbulent Mirror.* One of these 80s-90s book when everyone thought chaos theory is the greatest thing ever. The book is better than I expected. Very enjoyable. I very much liked the mirror metaphor. 
 - *Abraham & Shaw (2016): Dynamics.* Great, great book about visualizing dynamical systems. Has many intuitions and (almost) none of the math. Great
@@ -374,15 +374,15 @@ Sometimes I read.
 - *Childers (2013) Philosophy and Probability.* Very good book.
 - *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
 - *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
-- 🎭 *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite uniqure illustrations. Some of the topics could need more exposures. 
+- 🎭 *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite unique illustrations. Some of the topics could need more exposures. 
 - *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
 - *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
-- *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Suprisingly good read.
+- *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Surprisingly good read.
 - ⭐️ *Ende (1994) Zettelkasten.* Wow!
 - *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die illustrationen fand ich ein wenig zu plakativ.  
 - ⭐️ *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
 - *Foer (2011) Moonwalking with Einstein.* One of my favorite non-fiction books.
-- 🎭 *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is suprisingly sophisticated (very gentle too).
+- 🎭 *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is surprisingly sophisticated (very gentle too).
 - *Franklin (2001): The Science of Conjecture.* Scholarly tome about conjectures, evidence based decision making and probabilistic reasoning before the calculus of probability was invented. Hard to read, but very rich.
 - *Franklin (2009): What Science Knows: And How it Knows it.* Franklin is super smart, but this book is much to opinionated and on the nose for me. Overall it felt like a letdown after reading the "The Science of Conjecture". 
 - *Gladwell (2008) Outliers.* Did not age particularly well. I enjoyed it back in the day tough.
@@ -420,7 +420,7 @@ Sometimes I read.
 ## 🧩 Toys
 - [Hanayama Cast Trinity](https://hanayama-toys.com/product/cast-trinity/). Difficult, but doable. For me this is right at the limit where these kind puzzles still make fun (a bit more difficult, like the Quartet, and it would become aggregating). 
 - [Hanayama Cast Laby](https://hanayama-toys.com/product/cast-laby/). I do not know what a laby is, but the puzzle is nice. It contains two steps I did not expect and is designed in a very cool way. 
-- [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). Tthis puzzle might even be great if you enjoy the kind of solution. 
+- [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). This puzzle might even be great if you enjoy the kind of solution. 
 - [Hanayama Cast Coil](https://hanayama-toys.com/product/cast-coil/). This one is easier than one would think at first. It looks very nice and I can see appreciate its deliberate design. However, I do not particularly enjoy this kind of puzzle. 
 - ⭐️ [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favourite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
 - [Hanayama Cast L’Oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beautyful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
@@ -431,7 +431,7 @@ Sometimes I read.
 - [Hanayama Cast Nutcase](https://hanayama-toys.com/product/cast-nutcase/). Actually simpler than the level would suggest. Very nice solution.
 - [Hanayama Cast News](https://hanayama-toys.com/product/cast-news/). I only was able to solve this one out of pure luck while playing around with it. Took me then still some time to understand its mechanism. Very good puzzle, but quite advanced.
 - [Hanayama Cast Quartet](https://hanayama-toys.com/product/cast-quartet/). Perhaps the puzzle that took me the longest so far. I am told that it has multiple solutions. The one i found is enough for me. The solution is quite satisfying. But tricky! Happy to not do it again!  
-- [Hanayama Cast Heart](https://hanayama-toys.com/product/cast-heart/). TBD. 
+- [Hanayama Cast Heart](https://hanayama-toys.com/product/cast-heart/). Easier than I imagined. But, the handling feels to finicky. Also the solution is not as satisfying as other (good) Hanayama puzzles. 
 
 ## 🎪 Youtubes
 - [Ralph Ammer](https://www.youtube.com/@ralphammer2/). I just love the way this guy does things. Everything is just very thoughtful, well prepared, and personal. I especially like the way he [writes](https://ralphammer.com).
