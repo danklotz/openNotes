@@ -1,13 +1,11 @@
 # VIPs: Very Interesting Papers
 
-In the following is a list of papers that I love. It’s a bit of a living document and I hope to eventually write a short motivation/comment for all of the papers. They deserve it. 
-
-The papers are not selected for their importance or impact, but for how interesting they are to me. I exclude paper that I’ve been involved or where I have personal attachments to the authors. The order has no particular meaning. 
+First, a list of papers that I love. The papers are not selected for their importance or impact, but for how interesting they are to me. I exclude paper that I’ve been involved or where I have personal attachments to the authors. The order has no particular meaning. 
 
 - [Klemeš (1986): Dilettantism in hydrology: Transition or destiny?](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR022i09Sp0177S?casa_token=KQ0xJR6iXFIAAAAA%3AxZrK4zMcg56qG4kAFphUBUolIuyluKxZB5esNm-LG0X3qB4vps6oSVM-JL39OtYKG1Z3X3jmM_0u4td1). More an essay than a scientific treatment. It essence, Klemeš lines out what kind of research hydrologist should do to avoid [scientism](https://en.wikipedia.org/wiki/Scientism) and becoming more of a real science: Avoid sophistication without grounding, ask epistemic questions, focus on processes. The piece is certainly a product of its time (e.g., stochastic hydrology  does basically not exist anymore), but it is still a joy to read because Klemeš is super opinionated and writes very well. I look at it regularly and over time I came to disagree with quite some parts.
-- [Zadeh (2006): Generalized theory of uncertainty (GTU)—principal concepts and ideas](https://doi.org/10.1016/j.csda.2006.04.029). TBD
+- [Zadeh (2006): Generalized theory of uncertainty (GTU)—principal concepts and ideas](https://doi.org/10.1016/j.csda.2006.04.029). This paper is very nice for thinking about uncertainty. It is also one of the last papers that Zadeh wrote. I think it is even likely that he never finished it properly. Hence, it is of *historical importance*. Zadeh, especially in his later work, has a very nice way of explaining things and uses very (very !) well chosen examples to illustrate his thinking. This makes it comparatively easy to read the paper.  
 - [Robert Abrahart (2005): Neurohydrology: implementation options and a research agenda](https://doi.org/10.1111/j.1475-4762.1999.tb00179.x). The paper that [schmidhubered](https://en.wikipedia.org/wiki/Jürgen_Schmidhuber) our little [initiative](https://neuralhydrology.github.io). From todays point of view it is very interesting to see how many things Abrahart was able to conceptualize. 
-- [Horvath and Solenthaler (2013): Mass Preserving Multi-Scale SPH](https://graphics.pixar.com/library/MultiScaleSPH/paper.pdf). TBD
+- [Horvath and Solenthaler (2013): Mass Preserving Multi-Scale SPH](https://graphics.pixar.com/library/MultiScaleSPH/paper.pdf). I know nothing about this field of research (i.e., [SPH](https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics) for rendering fluids). But, this paper always appealed to me. I think the main reason for that is that I really like how they present their ideas. So clean. Apart form that, I am also very much interested in the multi-scale setting --- specifically how we can combine coarse, global with fine, local information. But, this interest comes from a completely different domain.  
 - [Judd (2016): Fifty years of forecasting chaos and the shadow of imperfect models](https://doi.org/10.1587/nolta.7.234). TBD
 - [Kalra and Paddock (2016): Driving to Safety](https://www.rand.org/pubs/research_reports/RR1478.html). TBD
 - [Zach Lypton (2016): The Mythos of Model Interpretability](https://dl.acm.org/doi/pdf/10.1145/3236386.3241340). TBD
@@ -16,6 +14,9 @@ The papers are not selected for their importance or impact, but for how interest
 
 
 # Paper Comments
+Second, some random commentary on some random papers. The star (⭐️) means something, something, good. 
+
+- ⭐️ [Smith et al. (2024): Rethinking Aleatoric and Epistemic Uncertainty](https://arxiv.org/abs/2412.20892). I started reading this paper wanting to not like it because I find the difference between aleatoric and epistemic uncertainty generally useful. Turns out that the title is a bit missleading. What they actually do is to provide a more nuanced macro-perspective on the topic, which integrates different concepts that are used in the fiels. Now, I think, I will adopt their view.  
 - [Surís, Vondrick (2022): Representing Spatial Trajectories as Distributions](https://arxiv.org/abs/2210.01322). TBD
 - ⭐️ [Surís, Liu, Vondrick (2021): Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600). Exploiting the properties of hyperbolic embeddings (or hyperbolic space) for processes over time. 
 - ⭐️ [Teney et al. (2022): Evading the Simplicity Bias: Training a Diverse Set of Models Discovers Solutions With Superior OOD Generalization](https://openaccess.thecvf.com/content/CVPR2022/html/Teney_Evading_the_Simplicity_Bias_Training_a_Diverse_Set_of_Models_CVPR_2022_paper.html). Develops a gradient based regularization techniques to encourage diversity in ensembles. 
