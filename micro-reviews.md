@@ -25,7 +25,8 @@ Legend:
 - [Amsterdam](https://www.imdb.com/title/tt10304142/?ref_=nm_flmg_t_2_act). I do not understand this movie. 
 - [Anna](https://www.imdb.com/title/tt7456310/?ref_=nm_flmg_wr_4). Very similar to Atomic Blonde, but not so fresh. Still good.
 - [A Rainy Day in New York](https://www.imdb.com/title/tt7139936/?ref_=nm_flmg_dr_2). Surprisingly good movie for people who like Woody Allen movies.  I do not like the setting too much.
-- [Arcane (series)](https://www.imdb.com/title/tt11126994/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). You can think about League of Legends what you want, but this is a very good animation series. It’s great on many levels: Art, story, and ideas. If I would critique something it is that I wish that they would go a bit further at some points even if that would have made the series more controversial.
+- [Arcane (series; S1)](https://www.imdb.com/title/tt11126994/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). You can think about League of Legends what you want, but this is a very good animation series. It’s great on many levels: Art, story, and ideas. If I would critique something it is that I wish that they would go a bit further at some points even if that would have made the series more controversial.
+- [Arcane (series; S2)](https://www.imdb.com/title/tt11126994/?ref_=hm_tpks_tt_i_16_pd_tp1_pbr_ic). Overall it feels as if someone wanted to push ideas for multiple seasons into a single one. The art of this season is even better than the one of S1; the presentation is also more slick (albeit I have to say that, as cool as it is, the music-video story telling annoyed my after some point). Everything else, however is less good than the first season. 
 - [Argylle](https://www.imdb.com/title/tt15009428/?ref_=nv_sr_srsg_0_tt_4_nm_4_q_argyl). Because of its premise and its ties in to [Kingsman](https://www.imdb.com/title/tt2802144/?ref_=nm_knf_t_3) and whatnot I really wanted to like this spy comedy. Alas, I did not. In the end the movie was just too superficial and goofy (in a bad way) for me. 
 - [Army of Thieves](https://www.imdb.com/title/tt13024674/?ref_=nv_sr_srsg_0). Beautiful visuals, mediocre movie, annoying franchise tie-ins and extremely bad ending.
 - 🎭 [A Series of Unfortunate Events (Netflix Series)](https://www.imdb.com/title/tt4834206/?ref_=nv_sr_srsg_2). This is a visual stunning series with a magical plot, but no magic in it. Maybe not for everyone but I've been blown away.
@@ -74,8 +75,9 @@ Legend:
 - [Cloak & Dagger](https://www.imdb.com/title/tt5614844/?ref_=nv_sr_srsg_0). At its best the series is mediocre, at its worst it is bad.
 - [Confessions of a Dangerous Mind](https://www.imdb.com/title/tt0270288/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_confessions%2520of%2520a%2520dange). Good movie about a show host who is also a C.I.A. agent. Kind off a slow burner. Dreamy, at times surrealistic, always stylish. Needs commitment.
 - [Crank](https://www.imdb.com/title/tt0479884/?ref_=nm_knf_t_1). An ok action movie. It has an interesting ideas and some funny ideas, but overall the pacing (and the characters) are a bit to annoying.
-- [Cross](https://www.imdb.com/title/tt11794812/?ref_=fn_al_tt_1). I am not a big fan of this kind of crime trhillers. I think within the genre this series is ok. It is just not my thing. 
+- [Cross](https://www.imdb.com/title/tt11794812/?ref_=fn_al_tt_1). I am not a big fan of this kind of crime thrillers. I think within the genre this series is ok. It is just not my thing. 
 - [Crouching Tiger, Hidden Dragon](https://www.imdb.com/title/tt0190332/?ref_=nm_knf_t_2). One of the best Kung Fu movies ever made.
+- [The Cuphead Show](https://www.imdb.com/title/tt10611608/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_cuphead). Would only recommend if you like the [Cuphead](https://en.wikipedia.org/wiki/Cuphead) artstyle and/or the game. 
 
 - **D**
 - 🎭 [Danger 5 (S1)](https://www.imdb.com/title/tt1807165/?ref_=nm_knf_t_1). Easily one of the best TV shows out there. 
@@ -112,6 +114,7 @@ Legend:
 - ⭐️ [Ferris Bueller’s Day Off](https://www.imdb.com/title/tt0091042/?ref_=tt_sims_tt_i_1). This movies shows coolest *rich kids* in the world skip high school and manages to depicts them as likeable funny characters! Some things in the movie feel a bit old now, but that makes everything even funnier. In summary, this is movie a super funny, ever-green, feel good movie. 
 - 🎭 [Fight Club](https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_1). A good movie. If you have not seen it, watch it. Do not wait. It will get spoiled for you.
 - [Finest Kind](https://www.imdb.com/title/tt7991508/?ref_=fn_al_tt_1). Very good movie about families and intergenerational conflict. Also stars fishing and drugs.
+- [The First Slam Dunk](https://www.imdb.com/title/tt15242330/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_the%2520first%2520sl). This is a good animation movie, but I do NOT like the aesthetic (as opposed to the way the comics are drawn). 
 - [Flight of the Conchords](https://www.imdb.com/title/tt0863046/?ref_=nm_knf_t_4). Two guys from New Zealand stranded in New York. Comedy gold.
 - [Following](https://www.imdb.com/title/tt0154506/?ref_=nm_flmg_t_14_wr0.) An early work of Christopher Nolan, which I liked very when I saw it --- ages ago. And I actually, still think its very good. 
 - ⭐️ [French Dispatch](https://www.imdb.com/title/tt8847712/?ref_=nm_flmg_t_3_wr). This movie is basically a love letter to the New Yorkers and its quirky style and people. But, everything is French and has a Wes Anderson touch. I love it. 
@@ -183,7 +186,6 @@ Legend:
 - [Lucy](https://www.imdb.com/title/tt2872732/?ref_=tt_sims_tt_i_6). Eye candy.
 - [Lupin I & II (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_lupin). Interesting take on [Arsène Lupin](https://en.wikipedia.org/wiki/Arsène_Lupin). Very French. The series plays in the modern days and a fan of Lupin (played by [Omar Sy](https://www.imdb.com/name/nm1082477/?ref_=tt_cl_t_1)) uses the strategies of the master thief to reach his own goals. It a good watch, but thought that the 2 seasons where a bit too long. I was therefore quite surprised to see that a third one will come out in 2024.
 - [Lupin III (series)](https://www.imdb.com/title/tt2531336/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_lupin). I have mixed feelings about this season. It starts very dynamic and fresh, but then becomes stale. Each minor point is executed very well, but the overall plot is disappointing. The twists within the series are too clear, but the end is too enigmatic. Still nice to see, but I prefer the first season. 
--   
 
 - **M**
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/?ref_=fn_al_tt_1). A visual spectacle and actually a surprisingly cool premise. One of the best "car-movies" I have seen. 
@@ -218,7 +220,7 @@ Legend:
 
 - **O**
 - [O Brother, Where are Thou?](https://www.imdb.com/title/tt0190590/?ref_=nm_flmg_t_17_prd). Interesting journey through Southern USA: The songs are great, the pictures are stunning, the ideas are funny.
-- [Ocean’s 11](https://www.imdb.com/title/tt0240772/?ref_=ttls_li_tt). A funny heist movie with an ensemble of stars. The movie is modeled after another movie that is also called [Ocean’s 11](https://www.imdb.com/title/tt0054135/?ref_=tt_sims_tt_i_3 ). I have, however, not seen tha latter one. As for the new one, it is light hearted, never serious and and well paced --- also: it would not have needed any of the sequels. 
+- [Ocean’s 11](https://www.imdb.com/title/tt0240772/?ref_=ttls_li_tt). A funny heist movie with an ensemble of stars. The movie is modeled after another movie that is also called [Ocean’s 11](https://www.imdb.com/title/tt0054135/?ref_=tt_sims_tt_i_3 ). I have, however, not seen the latter one. As for the new one, it is light hearted, never serious and and well paced --- also: it would not have needed any of the sequels. 
 - [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=nv_sr_srsg_0). This movie is definitely not for me. I do not hate it, but I definitely do not like it.
 - [Once Upon a Time in America](https://www.imdb.com/title/tt0087843/?ref_=nm_knf_i2). A masterpiece. Even with todays watching habits, this remains a great movie. Maybe a bit too long and to slow for today's audience/viewing-customs. But, for me, it will always be a classic.
 - [Once Upon a Time... In Hollywood](https://www.imdb.com/title/tt7131622/?ref_=hm_tpks_tt_i_9_pd_tp1_cp). This one is probably more interesting for people from USA (or LA specifically), who are more familiar with the whole backstory. But, even if you are like me --- and do not know anything about it --- it is still good movie and a lot of fun.
@@ -245,12 +247,11 @@ Legend:
 - [Red Notice](https://www.imdb.com/name/nm1428524/?ref_=ttfc_fc_wr2). A bad heist movie with Dwayne Johnson and Ryan Reynolds. I like the genre, but the movie not so.
 - [Reservoir Dogs](https://www.imdb.com/title/tt10763164/?ref_=nm_flmg_wr_25). Almost more a play than a movie. Watch it if you like this sort of thing. I love it. 
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
-- [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me. 
+- [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me.
+- [Road House](https://www.imdb.com/title/tt3359350/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_road%2520house). Starts interesting, but is actually very boring. 
 - [Road to Perdition](https://www.imdb.com/title/tt0257044/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_road%2520to%2520). A good gangster movie, but not my favourite. 
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.
 - [RRR](https://www.imdb.com/title/tt8178634/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_rrr). I went into this movie expected a completely over-the-top Bollywood movie. I got an even more over-the-top movie than I expected. The movie has all the Bollywood elements in there that I do not like but in doses that I still find bearable. I also think it is too long and I wished that the action would be toned down by... A LOT. But, of course one does not get that with these kind of productions. Overall, I have to say that the movie is really funny and I can recommend it.
-
-
 
 - **S**
 - 🎭 [The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/?ref_=hm_tpks_tt_i_5_pd_tp1_pbr_ic). This is a wonderful, life-affirming movie. Very, very enjoyable. The message reminds me of [sun and steel](https://en.wikipedia.org/wiki/Sun_and_Steel_(essay)) --- but without the mysticism and the problematic elements. 
@@ -294,7 +295,8 @@ Legend:
 - [True Blood](https://www.imdb.com/title/tt0844441/?ref_=nm_flmg_t_13_act). I do not know. I was fascinated at first because the world of the series resembled [Vampires: The Masquerade](https://en.wikipedia.org/wiki/Vampire:_The_Masquerade) so much. However, the series did not have much substance and got less interesting form episode to episode. 
 - [True Romance](https://www.imdb.com/title/tt0108399/?ref_=nm_flmg_wr_24). Fun movie. Easy to watch but nothing amazing.
 - [The Truman Show](https://www.imdb.com/title/tt0120382/?ref_=tt_tpks_tt_i_5_pd_detail_2_pbr_ic). Movies like these are  the reason why I loved Jim Carey back in the day. I am very happy that I saw the movie when I saw it, since I do not know how I would perceive it today. 
-- [Tulsa King](https://www.imdb.com/title/tt16358384/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_tulsa%2520). The first season is interesting, the second season rather boring. As a whole the series is never great, but, I guess, it is nice to see Stalone is still kicking
+- [Tulsa King, S1](https://www.imdb.com/title/tt16358384/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_tulsa%2520). The first season is interesting, the second season rather boring. As a whole the series is never great, but, I guess, it is nice to see Stalone is still kicking
+- [Tulsa King, S2](https://www.imdb.com/title/tt16358384/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_tulsa%2520). I thought I would enjoy getting back into the Tulsa world, but I found it boring. One season would have been enough. 
 
 **U**
 - [Unbreakable](https://www.imdb.com/title/tt0217869/?ref_=hm_tpks_tt_i_7_pd_tp1_pbr_ic). I mainly added this here so I have a movie with U 😅. That said, I think Unbreakable is a vey ok movie. I like the premise and the execution is also fine. A good waste of time so to speak. 
@@ -334,7 +336,7 @@ I do not associate with the culture around comics, but I did read a lot of comic
 - 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
 - 🎭 *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
 - Naruto (1999-2014): I liked the series at first, but then the slow pace killed me (even before it reached Shippuden).
-- [Dargon Ball](https://en.wikipedia.org/wiki/Dragon_Ball). When I was a kid I saw the animation and I only read the comic years later. Given todays standards it does seem to be a bit aimless at first, but I think that is understandable since Dragon Ball had to establish the standards for [Shonen](https://en.wikipedia.org/wiki/Shōnen_manga) in the first place. I do like the adventurous, funny, and silly atmosphere that the first iteration had. It’s sad that it god lost in the follow-up series.
+- [Dragon Ball](https://en.wikipedia.org/wiki/Dragon_Ball). When I was a kid I saw the animation and I only read the comic years later. Given todays standards it does seem to be a bit aimless at first, but I think that is understandable since Dragon Ball had to establish the standards for [Shonen](https://en.wikipedia.org/wiki/Shōnen_manga) in the first place. I do like the adventurous, funny, and silly atmosphere that the first iteration had. It’s sad that it god lost in the follow-up series.
 
 
 ## 📖 Books
@@ -357,7 +359,7 @@ Sometimes I read.
 - *Morini (2014): Il rischio.* Italian booklet about risk from a philosophical standpoint. Very interesting. 
 - *Kosko (1994): Fuzzy Thinking: The New Science of Fuzzy Logic.* Interesting to see how Kosko saw the role of fuzzy logic during its prime time (maybe a bit later already?). 
 - *Kosko (2006): Noise.* This is a very cool book with a quite unique perspective of noise. Easy to read and yet very deep, albeit some aspects are maybe a bit outdated.
-- *Contino (2018): Brand by Hand.* Beautyful book. The text-part is so so, but the artworks and the overall design is great. 
+- *Contino (2018): Brand by Hand.* Beautiful book. The text-part is so so, but the artworks and the overall design is great. 
 - *Snicket (2021): Poison for Breakfast.* Great little meditation about writing.  
 - *Briggs (1990): Turbulent Mirror.* One of these 80s-90s book when everyone thought chaos theory is the greatest thing ever. The book is better than I expected. Very enjoyable. I very much liked the mirror metaphor. 
 - *Abraham & Shaw (2016): Dynamics.* Great, great book about visualizing dynamical systems. Has many intuitions and (almost) none of the math. Great
@@ -375,13 +377,13 @@ Sometimes I read.
 - *Cartwright (2020) Nature, the Artful Modeler.* Very interesting. Assumes some familiarity with the work of Cartwright.
 - *Childers (2013) Philosophy and Probability.* Very good book.
 - *[Chimero (?) The Shape of Design](https://shapeofdesignbook.com/).* meh.
-- *Cleave (2014): Royal London Sketchbook.* I would recommend th is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
-- 🎭 *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatyful design book. Quite unique illustrations. Some of the topics could need more exposures. 
+- *Cleave (2014): Royal London Sketchbook.* I would recommend the is book only for a small niche audience, that are interested in the technique. Which is: Photos post-processed to appear like some form of painting.
+- 🎭 *Contino (2018): Brand by Hand: Blisters, Calluses, and Clients: A Life in Design.* Beatiful design book. Quite unique illustrations. Some of the topics could need more exposures. 
 - *Diaconis (2017) Ten Great Ideas about Chance.* I like it. Jumps a round a little bit too much and probably assumes to much pre-knowledge on for specific parts. Goes quite deep about some topics.
 - *Edney (2019) Cartography: The Ideal and Its History.* Definitely written with cartographers as readers in mind. Nevertheless interesting.
 - *Efron & Hastie (2016): Computer Age Statistical Inference.* Very technical, very interesting. Surprisingly good read.
 - ⭐️ *Ende (1994) Zettelkasten.* Wow!
-- *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die illustrationen fand ich ein wenig zu plakativ.  
+- *Ende (1982): Die Schattennähmaschiene.* Eine illustrierte Gedichtssammlung von Michael Ende (Unendliche Geschiche). Sehr lieb gemacht. Die Illustrationen fand ich ein wenig zu plakativ.  
 - ⭐️ *Ende (1979): Die unendliche Geschichte.* <3 <3 <3
 - *Foer (2011) Moonwalking with Einstein.* One of my favorite non-fiction books.
 - 🎭 *Fortrey (2005): The Earth: An Intimate History.* A must read for any earth-scientist. Care if you are not a native speaker since the language is surprisingly sophisticated (very gentle too).
@@ -407,7 +409,7 @@ Sometimes I read.
 - *Spiegelhalter (2019): The Art of Statistics.* Well written. Explains a lot.
 - *Stigler (1990) The History of Statistics.* Great read. Very interesting.
 - 🎭 *Taleb (2007): Fooled by Randomness.* A gem.
-- 🎭 *Taleb (2016): The Bed of Procstes.* My favorite book by Taleb and a great influence on my thinking.
+- 🎭 *Taleb (2016): The Bed of Procustes.* My favorite book by Taleb and a great influence on my thinking.
 - *Tufte (2006) Beautiful Evidence.* Very good. Inspiring.
 - *Vehlmann & Bodart (2005) Green Manor II* Very witty. Fun and easy read.
 - *White et al. (1993) Complexity and Chaos.* Not sure what to think about this *thing*. Definitely not my pair of shoes.
@@ -424,8 +426,8 @@ Sometimes I read.
 - [Hanayama Cast Laby](https://hanayama-toys.com/product/cast-laby/). I do not know what a laby is, but the puzzle is nice. It contains two steps I did not expect and is designed in a very cool way. 
 - [Hanayama Cast Galaxy](https://hanayama-toys.com/product/cast-galaxy/). I liked this one. It is similar to the [Cast Coil](https://hanayama-toys.com/product/cast-galaxy/), but much less involved (+ there is something else you need to solve it). This puzzle might even be great if you enjoy the kind of solution. 
 - [Hanayama Cast Coil](https://hanayama-toys.com/product/cast-coil/). This one is easier than one would think at first. It looks very nice and I can see appreciate its deliberate design. However, I do not particularly enjoy this kind of puzzle. 
-- ⭐️ [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favourite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
-- [Hanayama Cast L’Oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beautyful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
+- ⭐️ [Hanayama Cast Key II](https://hanayama-toys.com/product/cast-key-ii/). Probably my favorite Hanyama puzzle. It is easy enough so you don't get a headache. But, it also requires enough attention and observation skills to keep you on your toes. It is designed in stages, each one has a new trick to discover. It is a pure delight. 
+- [Hanayama Cast L’Oeuf](https://hanayama-toys.com/product/cast-loeuf/). Very beautiful puzzle with an extremely satisfying solution. Probably a bit easier than the difficulty would suggest. 
 - [Hanayama Cast Box](https://hanayama-toys.com/product/cast-box/). More difficult than you think, but very nice solution. Enjoyed it a lot. 
 - [Hanayama Cast Harmony](https://hanayama-toys.com/product/cast-harmony/). Beautiful puzzle with a nice trick. Very enjoyable.
 - [Hanayama Cast Coaster](https://hanayama-toys.com/product/cast-coaster/). This is a great puzzle that I do really use as a coiffure.
@@ -437,16 +439,17 @@ Sometimes I read.
 
 ## 🎪 Youtubes
 - [Ralph Ammer](https://www.youtube.com/@ralphammer2/). I just love the way this guy does things. Everything is just very thoughtful, well prepared, and personal. I especially like the way he [writes](https://ralphammer.com).
+- [Super Eyepatch Wolf](https://www.youtube.com/@supereyepatchwolf0/videos). I am neither into horror nor into Wrestling, still the channel is full of interesting reviews, recommendation, and thoughts about popular media. 
 - [Adam Something](https://www.youtube.com/@AdamSomething). Very opinionated videos about city planning and transportation. I particularly like the way he deconstructs the grandeur of Musk & Co. 
 - [Italian Innovators](https://www.youtube.com/@ItalianInnovators/). Very interesting historical lectures about Italian design and innovations. Maybe a bit too biased at points.  
 - [Engineerguy](https://www.youtube.com/@engineerguyvideo/videos). Makes you fall in love with engineering (again). 
 - 🎭 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw). For me the best channel about (popular) math.
 - [3x3Custom - Tamar](https://www.youtube.com/c/3x3CustomTamar/videos). Interesting channel about woodworking. 
 - [AI Coffee Break with Letitia](https://www.youtube.com/channel/UCobqgqE4i5Kf7wrxRxhToQA). Perhaps my favorite channel for updates regarding trends in ML.
-- 🎭 [Archipel](https://www.youtube.com/channel/UC3zoY9LapZERsN7caDKqz0w). Very stylistic documentaries about japanese artists/creatives. Would recommend if you dig the aesthetics (I do). 
-- 🎭 [ARTGER](https://www.youtube.com/channel/UC_yXGNJDvXRd7041L8Gkw9g). Coolest way to learn about mongolian food and culture.
+- 🎭 [Archipel](https://www.youtube.com/channel/UC3zoY9LapZERsN7caDKqz0w). Very stylistic documentaries about Japanese artists/creatives. Would recommend if you dig the aesthetics (I do). 
+- 🎭 [ARTGER](https://www.youtube.com/channel/UC_yXGNJDvXRd7041L8Gkw9g). Coolest way to learn about Mongolian food and culture.
 - [Cinemassacre](https://www.youtube.com/AngryNintendoNerd). Game reviews and some movie stuff. The "angry video game nerd" was great back in the day. The whole channel is not what it one was. That is ok. That is time. The reviews you can find there are very personal and opinionated. Sometimes still funny. I would not probably not recommend the channel, but its definitely something to watch on a rainy day.
-- 🎭 [Du Salzane](https://www.youtube.com/channel/UCBvfIznyE2OVJdMcqfd_aLg). Very interestinf automata.
+- 🎭 [Du Salzane](https://www.youtube.com/channel/UCBvfIznyE2OVJdMcqfd_aLg). Very interesting automata.
 - [Henry AI Labs](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw). Meh. Ok overviews over Machine Learning topics and papers. I do not appreciate the shorter --- 2-5 minutes --- videos. The longer ones --- 15-30 minutes --- are quite nice however.
 - [History of Hydrology Interviews](https://www.youtube.com/channel/UCJvhzZ9wjcEJEnnnHyLoSZQ). Oldtimers talk about hydrology. Some of the interviews are interesting and some boring–but all of them are lengthy. 
 - 🎭 [HistoryofID • Matthew Bird](https://www.youtube.com/user/HistoryofID). Lectures about the history of industrial design. All of them are very well presented and super informative.  
@@ -458,7 +461,7 @@ Sometimes I read.
 - [Marques Brownlee](https://www.youtube.com/c/mkbhd). I do not particularly like it. Extremely well produced Youtube channel reviewing gadgets and other tech related products. For me it often feels too smooth. Sometimes too uncritical. In general goodish. 
 - 🎭 [Matthewmatosis](https://www.youtube.com/user/Matthewmatosis). Probably the best game-reviewer on Youtube. Thoughtful, in-depth, long, and critical. Also the channel which gave me the idea to frame this note as micro reviews. 
 - [OskarPuzzle](https://www.youtube.com/user/OskarPuzzle). A puzzle maker on youtube discusses his puzzles and process. Very fascinating. 
-- 🎭 [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983). Slow and beautyful Japanese cooking at home. Very relaxing. 
+- 🎭 [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983). Slow and beautiful Japanese cooking at home. Very relaxing. 
 - 🎭 [RedLetterMedia](https://www.youtube.com/user/RedLetterMedia). Easily the best reviewers of all things (modern) cinema. Also, very, very funny.
 - 🎭 [Rose Anvil](https://www.youtube.com/channel/UCId9g4zlQ9BOn6fLKIt1Y0A). The best channel I found to learn about shoes and leather. Also cool if you want to see a lot of shoes cut in half. 
 - [Sabine Hossenfelder](https://www.youtube.com/user/peppermint78). Best science news channel I know. 
