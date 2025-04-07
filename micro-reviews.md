@@ -238,7 +238,7 @@ Legend:
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
-- [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). I think I must not understand this movie since a lot of people like it, but I do not. 
+- [The Pursuit of Happiness](https://www.imdb.com/title/tt0454921/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). I think I must not understand this movie since a lot of people like it, but I do not. 
 - [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
 
 - **R**
@@ -249,7 +249,7 @@ Legend:
 - [Rifkin's Festival](https://www.imdb.com/title/tt8593904/?ref_=nm_flmg_wr_3). A Woody Allen movie that plays is San Sebastian and does not want to be more or less than that.
 - [The Ring](https://www.imdb.com/title/tt0298130/?ref_=nm_knf_t_4). This movie is probably nice to watch good if one likes horror. However, its nothing for me.
 - [Road House](https://www.imdb.com/title/tt3359350/?ref_=nv_sr_srsg_3_tt_8_nm_0_in_0_q_road%2520house). Starts interesting, but is actually very boring. 
-- [Road to Perdition](https://www.imdb.com/title/tt0257044/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_road%2520to%2520). A good gangster movie, but not my favourite. 
+- [Road to Perdition](https://www.imdb.com/title/tt0257044/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_road%2520to%2520). A good gangster movie, but not my favorite. 
 - [The Rock](https://www.imdb.com/title/tt0117500/). Action classic. Pretty much defined what I expect from an action movie.
 - [RRR](https://www.imdb.com/title/tt8178634/?ref_=nv_sr_srsg_0_tt_7_nm_1_q_rrr). I went into this movie expected a completely over-the-top Bollywood movie. I got an even more over-the-top movie than I expected. The movie has all the Bollywood elements in there that I do not like but in doses that I still find bearable. I also think it is too long and I wished that the action would be toned down by... A LOT. But, of course one does not get that with these kind of productions. Overall, I have to say that the movie is really funny and I can recommend it.
 
@@ -323,6 +323,7 @@ Legend:
 - ⭐️ [The Wonderful Story of Henry Sugar](https://www.imdb.com/title/tt16968450/?ref_=hm_tpks_tt_i_17_pd_tp1_pbr_ic). This is indeed wonderful. This short is Wes Anderson at its best. It tells the story of a not-so-likable gambler who becomes a better human trough a variety of connected stories. The movie feels a bit like [Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/), but more dynamic and colorful. The story is comes from [Roald Dahl](https://en.wikipedia.org/wiki/Roald_Dahl). I think, this gives it an additional charm in similar way that the Stefan Zweig homage gave to Grand Budapest Hotel. 
 - [Wonder Women 1984](https://www.imdb.com/title/tt7126948/). Oh god, no. Please stop this already.
 - 🎭 [The Worlds End](https://www.imdb.com/title/tt1213663/?ref_=ttls_li_tt). I like all the Edgar Wright movies, nit this is the one I enjoyed the most (or baby driver?). It is a great comedy with an absurd stories and some slick cinematography; best enjoyed with some friends, a beer and without knowledge of what to expect.  
+- [A Working Man](https://www.imdb.com/title/tt9150192/?ref_=nm_flmg_job_1_cdt_t_1). Does what „The Beekeeper“ does, but worse. Much worse. Also: Too long. 
 - [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=hm_tpks_tt_i_3_pd_tp1_cp). One of the worse Guy Richie/Jason Statham Movies. The basic setting and ideas did not convince me. 
 - [The Wrestler](https://www.imdb.com/title/tt1125849/?ref_=tt_sims_tt_i_12). Never was a movie about a fucked-up wrestler that gripping --- I also never seen another movie about wrestlers. Still great. 
  
