@@ -205,7 +205,7 @@ Legend:
 - [Minority Report](https://www.imdb.com/title/tt0181689/?ref_=nmls_mkdn). This is a cool action/sci-fi movie. It explores what societies would do with very good prediction machines --- which, I think, is still interesting to think about today. 
 - [Mission Impossible](https://www.imdb.com/title/tt0117060/?ref_=nv_sr_srsg_4_tt_7_nm_0_q_mission%2520impossible). This is a very good action movie. It is super well structured, looks gorgeous, and there is always the right amount of tension there. Alas, it gave brid a whole series of not-so-good follow ups. 
 - [Mission Impossible: Dead Reckoning Part One](https://www.imdb.com/title/tt9603212/?ref_=hm_fanfav_tt_t_18_pd_fp1_r). I cannot believe that I am writing this, but this is actually a good action movie. I the almost 3 hours run time I never felt bored. As strange as it sounds, but I am now looking forward to see the next part. 
-- [Money Heist 1 to 3](https://www.imdb.com/title/tt6468322/?ref_=fn_al_tt_1). Interesting premise, but I did not enjoy the execution too much. I enjoyed the first season the most, but even that one is too long. It did, however, got worse and worse and I could almost not stomach the third season. Unfortunate. 
+- [Money Heist 1 to infinity](https://www.imdb.com/title/tt6468322/?ref_=fn_al_tt_1). Interesting premise, but I did not enjoy the execution too much. I enjoyed the first season the most, but even that one was too long. Little did I know that it gets worse and worse as the seasons go on. I could almost not stomach the third season. Why does this thing not end?  
 - [Moon Knight](https://www.imdb.com/title/tt10234724). The series has a good start, but often gets lost details and boring settings. Overall mediocre.
 - [Morbius](https://www.imdb.com/title/tt5108870/?ref_=fn_al_tt_1). Mediocre movie: The setting is interesting, the Marvel tie-ins do not work for me, the ending is lame. 
 - [Mortal Kombat, 2021](https://www.imdb.com/title/tt0293429/?ref_=hm_tpks_tt_i_19_pd_tp1_cp). The only thing I managed to like about this movie is the trailer.
@@ -236,9 +236,11 @@ Legend:
 - [Palm Springs](https://www.imdb.com/title/tt9484998/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_palm%2520springs). Okaish romance comedy with some nice ideas around the time loop concept. I liked it. 
 - 🎭 [Paterson](https://www.imdb.com/title/tt5247022/?ref_=fn_tt_tt_8). A slow burner. Did not enjoy it much in cinema, but it became one of my favorite movies after watching it multiple times.
 - [The Perks of Being a Wallflower](https://www.imdb.com/title/tt1659337/?ref_=fn_al_tt_1). This is one of those movies that reminds me that I will never be able to understand American culture. Apart from that, it is a wonderful high school movie about growing older in a more than imperfect world. 
-- [Poker Face](https://www.imdb.com/title/tt14269590/?ref_=nv_sr_srsg_1_tt_5_nm_2_q_poker%2520). I have my problems with movies from [Rian Johnson](https://www.imdb.com/name/nm0426059/?ref_=tt_ov_wr), but he clearly knows how to make stories about crime, riddles, and investigation. Poker Face is one of the coolest detective series I have watched. 
+- [Poker Face S1](https://www.imdb.com/title/tt14269590/?ref_=nv_sr_srsg_1_tt_5_nm_2_q_poker%2520). I have my problems with movies from [Rian Johnson](https://www.imdb.com/name/nm0426059/?ref_=tt_ov_wr), but he clearly knows how to make stories about crime, riddles, and investigation. Poker Face a very cool detective series. 
+- [Poker Face S1](https://www.imdb.com/title/tt14269590/?ref_=nv_sr_srsg_1_tt_5_nm_2_q_poker%2520). Season two is even more episodical than season one. Each episode is fun though, and, I guess, I never really cared for the overarching story that much. Good stuff, but not amazing. 
 - [Pirates of the Caribbean: The Curse of the Black Pearl](https://www.imdb.com/title/tt0325980/?ref_=nm_knf_i2).  OK. First and best pirates (actually the only good one).
 - [The Protégé ](https://www.imdb.com/title/tt6079772/?ref_=nv_sr_srsg_0). Mediocre assassin movie mind candy. Nothing particularly memorably though.
+- [The Princess and the Frog](https://www.imdb.com/title/tt0780521/?ref_=nv_sr_srsg_0_tt_1_nm_7_in_0_q_the%2520princess%2520and%2520the%2520frog). This is just a very good Disney movie. It aged very well, better than most and still looks beautiful. 
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/?ref_=tt_sims_tt). This is a great movie. Not my favorite Tarantino, but still very watchable.
 - [The Pursuit of Happiness](https://www.imdb.com/title/tt0454921/?ref_=hm_tpks_tt_i_11_pd_tp1_pbr_ic). I think I must not understand this movie since a lot of people like it, but I do not. 
 - [Puss In Boots: The Last Wish](https://www.imdb.com/title/tt3915174/). A life reaffirming animation movie for children that looks amazing --- and goes a complete different direction than a Pixar movie. Here you have it. 
@@ -315,7 +317,8 @@ Legend:
 - [Watchmen](https://www.imdb.com/title/tt0409459/?ref_=tt_sims_tt_i_1). Maybe the only Zack Snyder movie I find enjoyable. 
 - [Watchmen (Series)](https://www.imdb.com/title/tt7049682/?ref_=nm_flmg_t_10_act). I did like the premise, but it just does not do it for me. I think I would have enjoyed the series much more if it would not be part of the Watchmen universe.
 - [War Dogs](https://www.imdb.com/title/tt2005151/?ref_=ttls_li_tt). This is an interesting movie about weapon smuggling. Not more, not less. 
-- [Wednesday](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_t_2_pd_fp1). Mediocre story, but: intriguing setting, good acting, amazing aesthetics.
+- [Wednesday S1](https://www.imdb.com/title/tt13443470/?ref_=hm_fanfav_tt_t_2_pd_fp1). Mediocre story, but: intriguing setting, good acting, intersting aesthetics.
+-  [Wednesday S2](https://www.imdb.com/title/tt13443470/episodes/?season=2&ref_=ttep). Meh. I view it as a guilty pleasure now and I am happy that Tim Burton still pushes out stuff. 
 - [Whatever Works](https://www.imdb.com/title/tt1178663/?ref_=nm_flmg_act_16). The movie works for me. One of the better Woody Allen movies. I am not sure about Larry David. It seems that he is not as funny as he normally is. But ok; good movie.
 - [When Marnie Was There](https://www.imdb.com/title/tt3398268/?ref_=nm_knf_t_3). One of my favorite Ghibli movies. At points maybe a bit too frumpy.
 - [Who am I](https://www.imdb.com/title/tt3042408/?ref_=nv_sr_srsg_0). This is a German movie about hackers and its actually good. Fast pasted, nice idea, and well made. I do however think that I will not watch it a second time. So there is that.
@@ -335,7 +338,8 @@ Legend:
 ## Comics & Co
 I do not associate with the culture around comics, but I did read a lot of comics (especially when I was younger). 
 
-- ⭐️ Doxiadis & Papadimitriou (2009): Logicomix. This comic is simply amazing. It basically tells the story of Russel and Whiteheads quest to write the Principia Mathematica --- but also describes how it became clear that you cannot proof the completeness of it. I think the role and genius of Whitehead is a bit undersold. I do however really like the portrayal of Wittgenstein. 
+- 🎭 Corto Maltese: Una ballata del mare salato. This one is amazing. As such, I am not a big fan of the drawing style, but it does capture the feeling of the open sea so well! Just great. 
+- ⭐️ Doxiadis & Papadimitriou (2009): Logicomix. This comic is simply amazing. It basically tells the story of Russel and Whiteheads quest to write the ipia Mathematica --- but also describes how it became clear that you cannot proof the completeness of it. I think the role and genius of Whitehead is a bit undersold. I do however really like the portrayal of Wittgenstein. 
 - 🎭 *Taniguchi (2019): The Walking Man.* This is an amazing comic, or series of comics I guess. Very inspirational. 
 - 🎭 *Taniguchi (2019): Gourmet.* Another amazing book by the master. 
 - Naruto (1999-2014): I liked the series at first, but then the slow pace killed me (even before it reached Shippuden).
@@ -345,6 +349,8 @@ I do not associate with the culture around comics, but I did read a lot of comic
 ## 📖 Books
 Sometimes I read.
 
+- *Strevens (2020):* The knowledge Machine. Good book, but bloated. The premise that science Half of the book is truly great, the other half is just rambling. 
+- *Italo Calvino (1972):* Invisible cities. Fascinating book. I did not know about [combinatory literature](https://en.wikipedia.org/wiki/Combinatory_literature) before. Now I do and I like it. 
 - *Vanden Brocuke and Baesens (2021):* Managing Model Risk. I like the premise of the book and it touches on many important topics. The downside is that each topic is only explained very superficially. A bit more depth (and maybe less topic) would have been great.  
 - *Otsuka (2022):* Thinking About Statistics. This is a very cool, short book that talks about the philosophies behind different statistical schools of thought (ranging from frequentist/bayesian statistics to machine learning). Given that it only has roughly 200 pages it can, of course, not cover everything. And hence, the book always stays on a rather general level. However, Otsuka has a very clear way of writing. Every concept he touches upon is super well explained and introduces in a creating manner. Hence, reading the book feels very satisfying and entertaining (well, as diverting as this kind of book can be). 
 - *Joliffe & Stephensons (edt; 2011):* Forecast Verification. One of *these* book where every chapter comes from different authors. As a consequence the style varies a lot. Some of the chapters I found very well written, others where just arduous.   Sometimes it perhaps feels like the book misses a bit of mathematical depth. However, in general it is very informative and most concepts are explained sufficiently for me to pull something out or use the book as reference when I need it.
@@ -423,6 +429,29 @@ Sometimes I read.
 
 ## 🎬 Regisseurs
 **10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Wong Kar-Wai, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
+
+## 👃 Fragrances 
+- [Obvious: UNE PISTACHE](https://www.obviousparfums.com/en/eaux-de-parfum/26-une-pistache.html). I thought I would love pistachio. I don’t! The almond/marzipan smell is too strong for me. 
+- [Obvious: UNE FLEUR D'ORANGER](https://www.obviousparfums.com/en/eaux-de-parfum/7-une-fleur-d-oranger.html). Another one that I thought I would enjoy more. I do like it (as opposed to the obvious pistachio perfume); however, not as much as I would have thought. 
+- [Obvious: UNE VANILLE](https://www.obviousparfums.com/en/eaux-de-parfum/9-une-vanille.html). So far, this my favorite obvious perfume. It is also one of the best vanilla perfumes I know. Super powdery. Maybe a bit one dimensional, but that can be something good. 
+- [Obvious: SCOVILLE](https://www.obviousparfums.com/en/all-products/32-scoville-by-obvious-100ml-eau-parfum.html). This one is better than I imagined. It really captures the red chili pepper smell, while also having very nice base notes. Its not my style, but I do like it.
+- [Obvious: UN OUD](https://www.obviousparfums.com/en/all-products/32-scoville-by-obvious-100ml-eau-parfum.html). Very nice smell. A bit strong, and perhaps not for everyday. 
+- [Obvious: UN PATCHOULI](https://www.obviousparfums.com/en/eaux-de-parfum/5-un-patchouli.html). NOt for me. 
+- [Maison Mataha: Escapade Gourmande](https://matahaparfums.com/en/parfum/escapade-gourmande). Excellent vanilla perfume. The top notes are a bit to strong for me, but I love everything else. More gooey than powdery.  
+- [Maison Mataha: Brownie Pop](https://matahaparfums.com/en/parfum/brownie-pop). No. 
+- [Maison Mataha: Evasion Bonbon](https://matahaparfums.com/en/parfum/evasion-bonbon). This is a funny smell. Not for me, but not bad. 
+- [Maison Mataha: Printemps Blanc](https://matahaparfums.com/en/parfum/printemps-blanc). To sweet at the start, but awesome after some time. 
+- [Byredo: Bal D’Afrique](https://www.byredo.com/eu_en/c/perfume/best-sellers/bal-d-afrique). This is an amazing fragrance. 
+- [Byredo: Mojave Ghost](https://www.byredo.com/eu_en/c/perfume/best-sellers/mojave-ghost). Quite good. 
+- [Byredo: Mojave Ghost](https://www.byredo.com/eu_en/c/perfume/best-sellers/gypsy-water). I wanted to like this more than I actually do. As of now, it still is my second favorite Byredo perfume, but I do have the feeling that it could have been better. 
+- [Byredo: Tree house candle](https://www.byredo.com/eu_en/p/tree-house-candle). The smell is awesome, but not everyone will like it.
+- [Giardini di Toscana: Bianco Latte](https://www.giardiniditoscana.com/products/bianco-latte-eau-de-parfum-100-ml). I like the smell, but nothing for me. My wive approves. 
+- [Giardini di Toscana: Bianco Oro](https://www.giardiniditoscana.com/products/bianco-latte-eau-de-parfum-100-ml). Great smell. Very different from Bianco Latte. 
+- [Giardini di Toscana: Borabora](https://www.giardiniditoscana.com/products/borabora-eau-de-parfum-100-ml). Good, but not for me. 
+- [Giardini di Toscana: Celeste](https://www.giardiniditoscana.com/products/celeste-eau-de-parfum-100-ml). I don’t like it. 
+- [Giardini di Toscana: Christos](https://www.giardiniditoscana.com/products/christos-eau-de-parfum-100-ml). My favorite perfume from this house. Smells like going into a beautiful [dome](https://en.wikipedia.org/wiki/Dome). Not sure if I would wear it every day (not everyone will like it/I can see it being annoying in a work environment), but wow. 
+- [Giardini di Toscana: Shabby Chic](https://www.giardiniditoscana.com/products/shabby-chic-eau-de-parfum-100-ml). Not for me.   
+
 
 ## 🧩 Toys
 - [Hanayama Cast Trinity](https://hanayama-toys.com/product/cast-trinity/). Difficult, but doable. For me this is right at the limit where these kind puzzles still make fun (a bit more difficult, like the Quartet, and it would become aggregating). 
