@@ -279,6 +279,7 @@ Legend:
 - [Seven](https://www.imdb.com/title/tt0114369/?ref_=tt_sims_tt_i_7). This is a very good crime/suspension movie. It is also one of these amazing movies of the 90s that only rarely come out these days and made [David Fincher](https://www.imdb.com/name/nm0000399/?ref_=tt_ov_dr) a household name.  
 - [Seven Pounds](https://www.imdb.com/title/tt0814314/?ref_=ttls_li_tt). Kind-off a feel-good movie with Will Smith, but I do not like the premise and the message.
 - [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=nv_sr_srsg_0). Yet another Marvel movie: Funny at times, some very impressive visuals and a view good ideas; and also, a shallow story, shallow characters and some very dump moments.
+- [The Shadows Edge](https://www.imdb.com/title/tt34610311/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_show%2523s%2520edge). I am surprised that this movie kept me entertained, since I find the story boring, its  structure bad, and some of the acting questionable. The movie is almost exclusively carried by individual scenes --- but some of them are a delight to watch.
 - [The Shape of Water](https://www.imdb.com/title/tt5580390/?ref_=ttls_li_tt). A dark, quirky romance between a human and a monster. A very good movie, even if I found some aspects (like the dancing scenes) too on the nose. 
 - [Sherlock](https://www.imdb.com/title/tt1475582/?ref_=hm_tpks_tt_i_2_pd_tp1_pbr_ic). Very good TV series, that probably should not have had 3 seasons. I especially season 1.
 - [Sherlock Homes](https://www.imdb.com/title/tt0988045/?ref_=nm_knf_t_4). Funny, light-hearted, and action-driven take on Sherlock Holmes. I think the movie kind of stands on the shoulders of the Robert Downey’s successful comeback with Iron Man. As a consequence, the movie is perhaps a bit overrated, but still a nice watch. 
@@ -365,6 +366,7 @@ I do not associate with the culture around comics, but I did read a lot of comic
 ## 📖 Books
 Sometimes I read.
 
+- *Stanley and Lehman (2015):* Why Greatness Cannot Be Planned. I love the premise that live should and actually does not revolve around objectives. The writing is good and there are also some nice ideas in the book, but I did have the feeling that the book is too long --- my feeling is that a paper/short-essay would have better fit.  
 - *Strevens (2020):* The knowledge Machine. Good book, but bloated. The premise that science Half of the book is truly great, the other half is just rambling. 
 - *Italo Calvino (1972):* Invisible cities. Fascinating book. I did not know about [combinatory literature](https://en.wikipedia.org/wiki/Combinatory_literature) before. Now I do and I like it. 
 - *Vanden Brocuke and Baesens (2021):* Managing Model Risk. I like the premise of the book and it touches on many important topics. The downside is that each topic is only explained very superficially. A bit more depth (and maybe less topic) would have been great.  
@@ -441,10 +443,6 @@ Sometimes I read.
 - *Ekeland & Étienne (2021): Der Zufall (Die Comic-Bibliothek des Wissens).* Tolle Illustrationen, aber ohne Vorwissen ist der Inhalt zu spartanisch rübergebracht. Manche der Bilder und Beispiele sind gut, aber insgesamt ist alles zu wenig ausgeführt. 
 - 🎭 *Cartwright (2022): A Philosopher Looks at Science.* This is a great book. I think it is a good overview of Nancy Cartwrights ideas, albeit maybe not the best book to start. Still, it is very clearly written --- not complicated at all --- and in that sense much easier to read than some of her other books. I also like the illustrations. 
 - *Cartwright et al. (2023): The Tangle of Science.*  Its a good book (albeit the print quality is quite bad). For me it is, however, largely superseded by Cartwrights *A Philosopher Looks at Science* 
-
-
-## 🎬 Regisseurs
-**10/10 regisseurs:** Quentin Tarantino, Stanley Kubrick, Hayao Miyazaki, Wong Kar-Wai, Edgar Wright, Woody Allen, Wes Anderson, Jim Jarmusch, Terry Gilliam.
 
 ## 👃 Fragrances 
 - [Obvious: UNE PISTACHE](https://www.obviousparfums.com/en/eaux-de-parfum/26-une-pistache.html). I thought I would love pistachio. I don’t! The almond/marzipan smell is too strong for me. 
